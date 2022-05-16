@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter
+END
+MessageConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/MessageConverter.html
+END
+MarshallingMessageConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/MarshallingMessageConverter.html
+END
+MappingJackson2MessageConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/MappingJackson2MessageConverter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/package-frame.html
+END
+MessageType.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/MessageType.html
+END
+SimpleMessageConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/SimpleMessageConverter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/package-tree.html
+END
+MessageConversionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/MessageConversionException.html
+END
+MessagingMessageConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/support/converter/MessagingMessageConverter.html
+END

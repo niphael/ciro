@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener
+END
+AbstractJmsListeningContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/AbstractJmsListeningContainer.html
+END
+MessageListenerContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/MessageListenerContainer.html
+END
+SessionAwareMessageListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/SessionAwareMessageListener.html
+END
+SubscriptionNameProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/SubscriptionNameProvider.html
+END
+AbstractMessageListenerContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/AbstractMessageListenerContainer.html
+END
+DefaultMessageListenerContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/DefaultMessageListenerContainer.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/package-frame.html
+END
+AbstractPollingMessageListenerContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/AbstractPollingMessageListenerContainer.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/package-summary.html
+END
+SimpleMessageListenerContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/SimpleMessageListenerContainer.html
+END
+AbstractJmsListeningContainer.SharedConnectionNotInitializedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/AbstractJmsListeningContainer.SharedConnectionNotInitializedException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/package-tree.html
+END

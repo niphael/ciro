@@ -1,0 +1,107 @@
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1469716025286</miliseconds>
+  <timestamp>07/28/2016 16:27:05:288</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1469716025289</miliseconds>
+  <timestamp>07/28/2016 16:27:05:292</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1469716025293</miliseconds>
+  <timestamp>07/28/2016 16:27:05:296</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1469716025296</miliseconds>
+  <timestamp>07/28/2016 16:27:05:299</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1469716025300</miliseconds>
+  <timestamp>07/28/2016 16:27:05:303</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1469716025303</miliseconds>
+  <timestamp>07/28/2016 16:27:05:307</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1469716027848</miliseconds>
+  <timestamp>07/28/2016 16:27:07:851</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.webapi</package>
+  <level>SEVERE</level>
+  <miliseconds>1469716030865</miliseconds>
+  <timestamp>07/28/2016 16:27:10:869</timestamp>
+  <thread>1</thread>
+  <class>CDSSXMLServerSessionImpl</class>
+  <method>CreateSessionEx</method>
+  <message>(Incorrect login/password.)</message>
+  <exception>com.microstrategy.webapi.MSTRWebAPIException: (Incorrect login/password.)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.handleError(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSessionEx(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createNewSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebSessionInfoImpl.getSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.getReportName(GianoContent.java:405)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.paintHeader(GianoContent.java:319)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.transformForRequestSuccessful(SIEHeaderA.java:115)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.renderShell(SIEHeaderA.java:157)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getBeanMarkup(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspx_meth_web_005fdisplayBean_005f0(Sie_005fHeader_jsp.java:125)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspService(Sie_005fHeader_jsp.java:92)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:603)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:542)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:954)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:583)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+  <parameters>
+    <parameter>ECOVM49L</parameter>
+    <parameter>0</parameter>
+    <parameter></parameter>
+    <parameter>0BC4372543FD5C23EFC2678F5E4CFD22</parameter>
+    <parameter>1</parameter>
+    <parameter>u_sie_control</parameter>
+  </parameters>
+</record>

@@ -1,0 +1,136 @@
+/*
+ * MicroStrategy Labs
+ * Copyright © 1996-2013 MicroStrategy, Incorporated
+ * CSS file: IPALogin-jsp.css for IPALogin.jsp page
+ * @author: akarandikar
+ */
+
+.ipa-login-contents-div{
+	overflow-y:auto;
+	overflow-x:hidden;
+	background:-webkit-radial-gradient(50% 255px,circle cover, white 0%, white 200px, #BCBCBC);
+	background:-moz-radial-gradient(50% 255px,circle cover, white 0%, white 200px, #BCBCBC);
+	-webkit-transition:bottom 500ms;
+	-moz-transition: bottom 500ms;	
+}
+
+.ipa-login-box{
+	width: 300px;
+	margin: auto;
+	display: table;
+	margin-top:5px;	
+}
+
+.ipa-login-errorBox{
+	width: 360px;
+	padding: 10px;
+	margin: auto;
+	display: block;
+	padding-bottom:5px;
+	padding-top:5px;
+}
+
+.ipa-login-alertbox{	
+	background: none repeat scroll 0 0 #EEEEEE;
+    border: 1px solid #660000;
+    margin: 9px;
+    padding: 6px;
+    margin-left: 0px;
+    display: block;
+}
+
+.ipa-login-username-lbl{
+	width: 210px; 
+	margin:0px;
+	font-size: 1.4em;
+	color: #787878;
+	font-weight: bold;
+}
+
+.ipa-login-textbox{
+	width:278px;
+	font: 8pt Tahoma, Arial, Verdana;
+	font-size: 1.7em;
+	color: #787878;
+	padding:6px;
+	-webkit-border-radius: 4px;
+	border: 1px solid #CDCDCD;
+}
+
+.ipa-login-password-lbl{
+	width: 110px;
+	margin:0px;
+	font-size: 1.4em;
+	color: #787878;
+	font-weight: bold;
+	margin-top:10px;
+}
+
+.ipa-login-environments-lbl{
+	width: 110px; 
+	font-size: 1.4em;
+	color: #787878;
+	font-weight: bold;
+	margin-top:10px;
+}
+
+.ipa-login-selectbox{
+	width:290px;
+	font-size: 1.7em;
+	color: #787878;
+	padding: 2px;
+	-webkit-border-radius: 4px;
+	border: 1px solid #CDCDCD;
+}
+
+.ipa-login-modes-tbl{
+	position: relative;
+	margin-top: 10px;
+	font-size: 1.2em;
+	font-weight: normal;
+}
+
+.ipa-login-filler-lbl{
+	width:20px;
+	height:10px;
+	margin:0px;
+}
+
+.ipa-login-waiticon{
+	display: block;left: 55%;position: absolute;
+}
+
+.ipa-login-btn{
+	font-size: 1.2em;;font-weight: bold;cursor:pointer;
+	padding: 3px 5px;
+	color: #666;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#e4e4e4',GradientType=0 );
+	background: #dedede;
+	background: -webkit-linear-gradient(top, rgba(237,237,237,1) 1%,rgba(228,228,228,1) 100%);
+	background: -moz-linear-gradient(top, rgba(237,237,237,1) 1%,rgba(228,228,228,1) 100%);
+	height: auto;
+	border: 1px solid #ccc;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	outline: none;	
+}
+	
+.ipa-login-authbox{
+	display: block;
+	position: relative;
+	left: 35%;
+	width:250px;
+	margin-top:10px;
+}
+
+.ipa-login-auth-btn{
+	text-decoration:underline;
+}
+
+.ipa-login-auth-bg{
+	background: transparent url(../images/IPA/square.gif) no-repeat scroll left center;
+	width:8px;
+	height:8px;
+	vertical-align: middle;
+}

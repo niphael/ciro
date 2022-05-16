@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter
+END
+AbstractAdaptableMessageListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter/AbstractAdaptableMessageListener.html
+END
+ListenerExecutionFailedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter/ListenerExecutionFailedException.html
+END
+ReplyFailureException.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter/ReplyFailureException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter/package-summary.html
+END
+JmsResponse.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter/JmsResponse.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter/package-tree.html
+END
+MessagingMessageListenerAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter/MessagingMessageListenerAdapter.html
+END
+MessageListenerAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jms/listener/adapter/MessageListenerAdapter.html
+END

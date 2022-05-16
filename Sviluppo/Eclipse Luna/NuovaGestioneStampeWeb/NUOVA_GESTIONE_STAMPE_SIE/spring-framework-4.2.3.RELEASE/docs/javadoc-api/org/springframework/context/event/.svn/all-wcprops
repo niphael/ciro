@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event
+END
+ContextStartedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/ContextStartedEvent.html
+END
+ContextRefreshedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/ContextRefreshedEvent.html
+END
+EventListenerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/EventListenerFactory.html
+END
+ContextClosedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/ContextClosedEvent.html
+END
+SmartApplicationListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/SmartApplicationListener.html
+END
+ApplicationEventMulticaster.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/ApplicationEventMulticaster.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/package-frame.html
+END
+DefaultEventListenerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/DefaultEventListenerFactory.html
+END
+ContextStoppedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/ContextStoppedEvent.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/package-summary.html
+END
+EventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/EventListener.html
+END
+EventListenerMethodProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/EventListenerMethodProcessor.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/package-tree.html
+END
+EventPublicationInterceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/EventPublicationInterceptor.html
+END
+SimpleApplicationEventMulticaster.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/SimpleApplicationEventMulticaster.html
+END
+GenericApplicationListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/GenericApplicationListener.html
+END
+AbstractApplicationEventMulticaster.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/AbstractApplicationEventMulticaster.html
+END
+GenericApplicationListenerAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/GenericApplicationListenerAdapter.html
+END
+ApplicationContextEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/ApplicationContextEvent.html
+END
+SourceFilteringListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/SourceFilteringListener.html
+END
+ApplicationListenerMethodAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/event/ApplicationListenerMethodAdapter.html
+END

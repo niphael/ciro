@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation
+END
+DelegatingWebSocketMessageBrokerConfiguration.html
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/DelegatingWebSocketMessageBrokerConfiguration.html
+END
+WebSocketHandlerRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/WebSocketHandlerRegistry.html
+END
+WebSocketHandlerRegistration.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/WebSocketHandlerRegistration.html
+END
+ServletWebSocketHandlerRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/ServletWebSocketHandlerRegistry.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/package-frame.html
+END
+ServletWebSocketHandlerRegistration.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/ServletWebSocketHandlerRegistration.html
+END
+WebSocketMessageBrokerConfigurer.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/WebSocketMessageBrokerConfigurer.html
+END
+WebSocketMessageBrokerConfigurationSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/WebSocketMessageBrokerConfigurationSupport.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/package-tree.html
+END
+StompEndpointRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/StompEndpointRegistry.html
+END
+EnableWebSocket.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/EnableWebSocket.html
+END
+WebSocketTransportRegistration.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/WebSocketTransportRegistration.html
+END
+WebMvcStompEndpointRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/WebMvcStompEndpointRegistry.html
+END
+DelegatingWebSocketConfiguration.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/DelegatingWebSocketConfiguration.html
+END
+AbstractWebSocketHandlerRegistration.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/AbstractWebSocketHandlerRegistration.html
+END
+StompWebSocketEndpointRegistration.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/StompWebSocketEndpointRegistration.html
+END
+EnableWebSocketMessageBroker.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/EnableWebSocketMessageBroker.html
+END
+SockJsServiceRegistration.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/SockJsServiceRegistration.html
+END
+AbstractWebSocketMessageBrokerConfigurer.html
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/AbstractWebSocketMessageBrokerConfigurer.html
+END
+WebMvcStompWebSocketEndpointRegistration.html
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/WebMvcStompWebSocketEndpointRegistration.html
+END
+WebSocketConfigurer.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/WebSocketConfigurer.html
+END
+WebSocketConfigurationSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/config/annotation/WebSocketConfigurationSupport.html
+END

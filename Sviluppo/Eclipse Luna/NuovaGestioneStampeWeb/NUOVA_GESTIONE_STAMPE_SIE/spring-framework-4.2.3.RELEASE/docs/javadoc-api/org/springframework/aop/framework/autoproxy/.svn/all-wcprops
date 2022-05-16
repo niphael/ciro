@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy
+END
+AbstractBeanFactoryAwareAdvisingPostProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/AbstractBeanFactoryAwareAdvisingPostProcessor.html
+END
+AbstractAutoProxyCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.html
+END
+BeanNameAutoProxyCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/BeanNameAutoProxyCreator.html
+END
+BeanFactoryAdvisorRetrievalHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/BeanFactoryAdvisorRetrievalHelper.html
+END
+InfrastructureAdvisorAutoProxyCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/InfrastructureAdvisorAutoProxyCreator.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/package-frame.html
+END
+AbstractAdvisorAutoProxyCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/package-summary.html
+END
+DefaultAdvisorAutoProxyCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/DefaultAdvisorAutoProxyCreator.html
+END
+TargetSourceCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/TargetSourceCreator.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/package-tree.html
+END
+AutoProxyUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/AutoProxyUtils.html
+END
+ProxyCreationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/autoproxy/ProxyCreationContext.html
+END

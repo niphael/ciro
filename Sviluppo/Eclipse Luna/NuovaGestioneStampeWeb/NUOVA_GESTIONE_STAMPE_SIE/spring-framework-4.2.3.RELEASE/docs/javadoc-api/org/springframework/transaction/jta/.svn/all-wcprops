@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta
+END
+JtaAfterCompletionSynchronization.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/JtaAfterCompletionSynchronization.html
+END
+TransactionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/TransactionFactory.html
+END
+JtaTransactionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/JtaTransactionManager.html
+END
+WebSphereUowTransactionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/WebSphereUowTransactionManager.html
+END
+ManagedTransactionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/ManagedTransactionAdapter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/package-frame.html
+END
+SpringJtaSynchronizationAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/SpringJtaSynchronizationAdapter.html
+END
+UserTransactionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/UserTransactionAdapter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/package-summary.html
+END
+SimpleTransactionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/SimpleTransactionFactory.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/package-tree.html
+END
+JtaTransactionObject.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/JtaTransactionObject.html
+END
+WebLogicJtaTransactionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/jta/WebLogicJtaTransactionManager.html
+END

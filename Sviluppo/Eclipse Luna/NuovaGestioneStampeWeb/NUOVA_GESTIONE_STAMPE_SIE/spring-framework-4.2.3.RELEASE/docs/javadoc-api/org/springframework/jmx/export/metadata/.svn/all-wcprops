@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata
+END
+ManagedOperation.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/ManagedOperation.html
+END
+ManagedOperationParameter.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/ManagedOperationParameter.html
+END
+JmxMetadataUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/JmxMetadataUtils.html
+END
+ManagedAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/ManagedAttribute.html
+END
+ManagedMetric.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/ManagedMetric.html
+END
+JmxAttributeSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/JmxAttributeSource.html
+END
+ManagedNotification.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/ManagedNotification.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/package-frame.html
+END
+ManagedResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/ManagedResource.html
+END
+AbstractJmxAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/AbstractJmxAttribute.html
+END
+InvalidMetadataException.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/InvalidMetadataException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jmx/export/metadata/package-tree.html
+END

@@ -1,0 +1,253 @@
+/*-----------------stylesheet for create report ---------------------------------*/
+.mstrDockTopContainer {height: auto;}
+
+.mstrDockLeft { display: block;} 
+.mstrContent { padding: 0px; }
+.mstrToolbarGroup INPUT { width:30px; }
+
+.mstrPanelTitleBar { float: left; /*for pageby inline-body*/ }
+.mstrPanelPortrait { border:0px none; }
+
+.mstrDockCenter .mstrPanelPortrait { 
+	border: 1px solid #AAA;
+    margin-bottom: 9px;
+    }
+
+#vfep_pane.mstrPanelPortrait table.pane td:first-child { padding: 0px; }
+
+.mstrDockTopContent {height: 61px; }
+.mstrFullScreen .mstrDockTopContent {height: auto; }
+
+/*-----------dock left -------------------*/
+.mstrVerticalDocks .tdDockLeft { border: 0px; }
+
+
+/* Object Browser */
+#FolderObjectBrowser_display { margin: 1px auto; }
+
+#rb_ReportStyleRelatedReports {padding: 2px;}
+
+#tbWkSet_ObjectBrowserReportWorkingSetStyle {padding: 4px;}
+#accordion_AccordionTabManagerStyle .mstrTree {padding: 0px;}
+#accordion_AccordionTabManagerStyle .mstrTree UL {padding-left: 16px;}
+#accordion_AccordionTabManagerStyle .mstrTree#tbWkSetTree1 {border: 0px none;}
+#accordion_AccordionTabManagerStyle .mstrSmallIconView {padding: 0px;}
+#accordion_AccordionTabManagerStyle div.mstrTreeBox {padding: 0px;}
+.mstrTreeBox UL.firstLevel {margin-left: 8px;}
+
+/*incremental fetch navigator bar*/
+#report_toolbar { margin-bottom: 3px;  }
+.mstrHTML #report_toolbar .mstrFetch { height:auto; /*to align with Show Pivots button*/}
+
+.report-toolbar-global {
+    background: transparent;
+    width:  100%;
+    border: 0px;
+}
+.toolbar-text {
+    padding-left: 20px;
+    padding-right: 22px;
+}
+
+
+#GridAutoStyleChangeStyleId {float:left;}
+
+#ob_ReportObjBrowserTabManagerStyle .mstrPanelPortrait { border-bottom: 0px; }
+#ob_ReportObjBrowserTabManagerStyle .body { padding: 0px; }
+#ob_ReportObjBrowserTabManagerStyle .mstrPanelPortrait #tabContainer {
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+}
+
+.repLayoutLeft,
+.repLayoutRight { vertical-align: top; }
+
+.repLayoutLeft { background-color: #f5f5f4;}
+.repLayoutRight {border: 1px solid #AAA; }
+
+
+.outlinemode-level-cells,
+.outlinemode-level-cells-selected {
+    /* grouped cells & cells-selected together for brevity */
+    text-align: center;
+    vertical-align: middle;
+    color: #000000;
+    cursor: pointer;
+    background-color: #d4d0c7;          /* was #cccccc */
+    border: 1px solid #999999;          /* added */
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.outlinemode-level-cells-selected {
+    background-color: #D4D5D8;          /* was #888888 */
+    border: 1px solid #0A246A;          /* added */
+}
+
+
+/* graph format editor/toolbar */
+.graphType {
+    background-color: #CCCCCC;
+    border: #000000 1pt solid;
+    margin-top: 2pt;
+    margin-left: 2pt;
+}
+.graphTypeSelected {
+    border: #FF0000 1pt solid;
+    margin-top: 2pt;
+    margin-left: 2pt;
+}
+select.mstrSortUnit {
+    width: 300px;
+}
+
+/* attribute forms editor */
+.mstrAttForms {width: 100%}
+
+
+/* html only format toolbar */
+#report_toolbar_grid,
+#report_toolbar_graph {
+    background: #d4d0c7;        /* to match mstrDockTop background */
+    }
+    
+.gridToolbar-global,
+.graphToolbar-global {
+    width: auto;
+    /* Sync with mstrToolbar */
+    background: #d4d0c7;
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #8C8783;
+    border-bottom: 1px solid #82817D;
+    }
+.graphToolbar-global td { width: auto; }
+
+
+/* grid and-or graph area */
+#report_data { padding: 6px 5px; }
+.graph-center { text-align: center; }
+
+.graphImgContainer {
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;	
+	padding-top:3px; 
+	padding-bottom:3px;
+}
+.graph-error {
+    font-weight: bold;
+    color: #cc0000;
+    text-align: center;
+}
+
+/* spacing around the grid for column fetch arrows */
+#tblReportLayout { table-layout: auto; }
+
+#tdReportLayoutLeft,
+#tdReportLayoutCenter,
+#tdReportLayoutRight {
+    vertical-align: top;
+    overflow: visible;
+    }
+
+#tdReportLayoutCenter { width: auto; }
+
+.report-left img,
+.report-right img { display: none; }
+
+.report-left a img,
+.report-right a img { display: block; margin-right: 3px;}
+
+.promptDetailsHeader,
+.promptDetailsContent { color: #808080; }
+
+.promptDetailsHeader { font-weight: bold; }
+.promptDetails-emptyColumn { width: 18px; }
+
+/* drillable graph image */
+.drillableGraph { cursor: pointer; }
+
+.gridElementHilite { background-image: url(images/gridHilite.gif); }
+
+
+/*resize colums and rows*/
+#edtColumnWidths INPUT {margin: 3px; vertical-align: middle;}
+
+
+/* report options editor*/
+#gridOptions_GridOptionsTabManagerStyle .mstrTabContainer {height: 400px;}
+
+
+/*HTML mode - report editor panel*/
+.repLayoutRight div.mstrTabSet {
+	padding-bottom: 4px;
+	margin-top: 5px;
+	}
+.mstrPanelPortrait .mstrTabSetTab A {
+	text-decoration: none;
+    }
+
+.dormantPromptIcon {
+    background: transparent url(images/dormantPrompt.gif) no-repeat right top;
+    display:inline;
+    cursor:default;
+    margin:1px;
+    height:18px;
+    width:18px;
+}
+
+Table.mstrTabSet { margin-bottom: -6px;} 
+Table.mstrTabSet TD { border-bottom: 1px solid #aaa !important; }
+Table.mstrTabSet TD.mstrTabSetTabSelected { border-bottom-color: #fafafa !important;}
+/*END OF HTML mode - report editor panel*/
+
+
+/*213024 - move col inc fetch arrows up next to columns count info  */
+.mstrColumnFetch {
+	margin: 0 6px; 
+	padding-left: 10px; 
+	border-left: 1px solid #000;
+	line-height: 20px;
+    }
+
+/*339800 - border between 'New' and pulldown arrow*/
+#tbNewGroup .mstrPullArrow {margin-left:1px;} 
+#tbNewGroup.highlighted .mstrPullArrow {border-left: 1px solid #A5A5A2; margin-left: 0px;}    
+#tbNewGroup.mstrCombodowndisabled LABEL {color: #999;}
+#deGroupPicker SPAN.mstrIcon-tb {vertical-align: middle;}   
+
+
+/*grid Advanced Formatting Editor*/
+#gridEditor_ReportFormattingTabManagerStyle #tabContainer {width: 398px; overflow-y: visible !important; padding: 5px;}
+#gridEditor_ReportFormattingTabManagerStyle #tabContainer #divborder3 TD {white-space: nowrap;}
+#gridEditor_ReportFormattingTabManagerStyle #axispospara {width: 200px;}
+#gridEditor_ReportFormattingTabManagerStyle #levelpara {width: 200px;}
+
+
+/*Filter on Metric editor*/
+#mfed_pane {width: 587px; height: 85px; overflow-x: auto;}
+
+/*#360977 - Alerts editor*/
+#alertsObjSelector_display .mstrAncestors {width: 440px;}
+#alertsObjSelector_display #searchArg {width: 200px;}
+
+/*#361396 - DE Import*/
+#deImport_display .mstrAncestors {width: 440px;}
+#deImport_display #searchArg {width: 200px;}
+
+/*#370352 - ATT Forms editor title*/
+#attForms_AttributeFormsEditorReportStyle .mstrDialogTitle {
+	width: 80%; 
+	overflow: hidden;
+    white-space: nowrap;
+    }
+#attForms_AttributeFormsEditorReportStyle table.pane {table-layout: fixed;}    
+.selectedOnly .mstrCartSelected {width: 100%;}
+
+/*#374057 - stop report filter width growing with grid*/
+/*#365610 - apply to View Filter too */
+.mstrFilterEditor,
+.mstrFilterEditor .mstrCart {width: auto; table-layout:auto;}
+.mstrFilterEditor, 
+.mstr-filter-editable-subexp-table {background: transparent;} 

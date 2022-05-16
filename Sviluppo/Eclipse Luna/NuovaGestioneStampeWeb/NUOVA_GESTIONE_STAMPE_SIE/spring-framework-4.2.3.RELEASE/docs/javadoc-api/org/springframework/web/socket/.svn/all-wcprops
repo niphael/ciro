@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket
+END
+AbstractWebSocketMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/AbstractWebSocketMessage.html
+END
+WebSocketHttpHeaders.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/WebSocketHttpHeaders.html
+END
+WebSocketExtension.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/WebSocketExtension.html
+END
+SubProtocolCapable.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/SubProtocolCapable.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/package-frame.html
+END
+WebSocketHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/WebSocketHandler.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/package-tree.html
+END
+TextMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/TextMessage.html
+END
+BinaryMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/BinaryMessage.html
+END
+WebSocketSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/WebSocketSession.html
+END
+WebSocketMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/WebSocketMessage.html
+END
+PingMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/PingMessage.html
+END
+PongMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/PongMessage.html
+END
+CloseStatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/CloseStatus.html
+END

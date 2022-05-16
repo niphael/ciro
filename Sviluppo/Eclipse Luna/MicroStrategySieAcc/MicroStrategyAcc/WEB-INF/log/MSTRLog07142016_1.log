@@ -1,0 +1,274 @@
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499457068</miliseconds>
+  <timestamp>07/14/2016 14:30:57:070</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499457071</miliseconds>
+  <timestamp>07/14/2016 14:30:57:074</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499457075</miliseconds>
+  <timestamp>07/14/2016 14:30:57:079</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499457080</miliseconds>
+  <timestamp>07/14/2016 14:30:57:084</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499457084</miliseconds>
+  <timestamp>07/14/2016 14:30:57:088</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499457088</miliseconds>
+  <timestamp>07/14/2016 14:30:57:093</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499462566</miliseconds>
+  <timestamp>07/14/2016 14:31:02:566</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.webapi</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499462647</miliseconds>
+  <timestamp>07/14/2016 14:31:02:651</timestamp>
+  <thread>1</thread>
+  <class>CDSSXMLServerSessionImpl</class>
+  <method>CreateSessionEx</method>
+  <message>(Incorrect login/password.)</message>
+  <exception>com.microstrategy.webapi.MSTRWebAPIException: (Incorrect login/password.)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.handleError(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSessionEx(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createNewSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebSessionInfoImpl.getSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.getReportName(GianoContent.java:405)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.paintHeader(GianoContent.java:319)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.transformForRequestSuccessful(SIEHeaderA.java:115)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.renderShell(SIEHeaderA.java:157)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getBeanMarkup(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspx_meth_web_005fdisplayBean_005f0(Sie_005fHeader_jsp.java:126)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspService(Sie_005fHeader_jsp.java:92)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:603)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:542)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:954)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.sieWeb_jsp._jspService(sieWeb_jsp.java:105)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+  <parameters>
+    <parameter>ECOVM49L</parameter>
+    <parameter>0</parameter>
+    <parameter></parameter>
+    <parameter>0BC4372543FD5C23EFC2678F5E4CFD22</parameter>
+    <parameter>1</parameter>
+    <parameter>u_sie_control</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499480315</miliseconds>
+  <timestamp>07/14/2016 14:31:20:318</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.webapi</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499481724</miliseconds>
+  <timestamp>07/14/2016 14:31:21:728</timestamp>
+  <thread>3</thread>
+  <class>CDSSXMLServerSessionImpl</class>
+  <method>CreateSessionEx</method>
+  <message>(Incorrect login/password.)</message>
+  <exception>com.microstrategy.webapi.MSTRWebAPIException: (Incorrect login/password.)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.handleError(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSessionEx(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createNewSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebSessionInfoImpl.getSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.getReportName(GianoContent.java:405)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.paintHeader(GianoContent.java:319)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.transformForRequestSuccessful(SIEHeaderA.java:115)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.renderShell(SIEHeaderA.java:157)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getBeanMarkup(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspx_meth_web_005fdisplayBean_005f0(Sie_005fHeader_jsp.java:126)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspService(Sie_005fHeader_jsp.java:92)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:603)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:542)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:954)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.sieWeb_jsp._jspService(sieWeb_jsp.java:105)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+  <userName>ASSISTENZA.ENTRATE</userName>
+  <parameters>
+    <parameter>ECOVM49L</parameter>
+    <parameter>0</parameter>
+    <parameter></parameter>
+    <parameter>0BC4372543FD5C23EFC2678F5E4CFD22</parameter>
+    <parameter>1</parameter>
+    <parameter>u_sie_control</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499508164</miliseconds>
+  <timestamp>07/14/2016 14:31:48:170</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.webapi</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499508345</miliseconds>
+  <timestamp>07/14/2016 14:31:48:351</timestamp>
+  <thread>0</thread>
+  <class>CDSSXMLServerSessionImpl</class>
+  <method>CreateSessionEx</method>
+  <message>(Incorrect login/password.)</message>
+  <exception>com.microstrategy.webapi.MSTRWebAPIException: (Incorrect login/password.)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.handleError(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSessionEx(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createNewSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebSessionInfoImpl.getSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.getReportName(GianoContent.java:405)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.paintHeader(GianoContent.java:319)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.transformForRequestSuccessful(SIEHeaderA.java:115)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.renderShell(SIEHeaderA.java:157)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getBeanMarkup(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspx_meth_web_005fdisplayBean_005f0(Sie_005fHeader_jsp.java:126)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspService(Sie_005fHeader_jsp.java:92)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:603)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:542)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:954)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.sieWeb_jsp._jspService(sieWeb_jsp.java:105)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+  <parameters>
+    <parameter>ECOVM49L</parameter>
+    <parameter>0</parameter>
+    <parameter></parameter>
+    <parameter>0BC4372543FD5C23EFC2678F5E4CFD22</parameter>
+    <parameter>1</parameter>
+    <parameter>u_sie_control</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499571386</miliseconds>
+  <timestamp>07/14/2016 14:32:51:390</timestamp>
+  <thread>4</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.webapi</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499571563</miliseconds>
+  <timestamp>07/14/2016 14:32:51:567</timestamp>
+  <thread>5</thread>
+  <class>CDSSXMLServerSessionImpl</class>
+  <method>CreateSessionEx</method>
+  <message>(Incorrect login/password.)</message>
+  <exception>com.microstrategy.webapi.MSTRWebAPIException: (Incorrect login/password.)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.handleError(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSessionEx(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createNewSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebSessionInfoImpl.getSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.getReportName(GianoContent.java:405)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.paintHeader(GianoContent.java:319)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.transformForRequestSuccessful(SIEHeaderA.java:115)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.renderShell(SIEHeaderA.java:157)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getBeanMarkup(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspx_meth_web_005fdisplayBean_005f0(Sie_005fHeader_jsp.java:126)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspService(Sie_005fHeader_jsp.java:92)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:603)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:542)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:954)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.sieWeb_jsp._jspService(sieWeb_jsp.java:105)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+  <parameters>
+    <parameter>ECOVM49L</parameter>
+    <parameter>0</parameter>
+    <parameter></parameter>
+    <parameter>0BC4372543FD5C23EFC2678F5E4CFD22</parameter>
+    <parameter>1</parameter>
+    <parameter>u_sie_control</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499612628</miliseconds>
+  <timestamp>07/14/2016 14:33:32:632</timestamp>
+  <thread>6</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.webapi</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499612809</miliseconds>
+  <timestamp>07/14/2016 14:33:32:813</timestamp>
+  <thread>0</thread>
+  <class>CDSSXMLServerSessionImpl</class>
+  <method>CreateSessionEx</method>
+  <message>(Incorrect login/password.)</message>
+  <exception>com.microstrategy.webapi.MSTRWebAPIException: (Incorrect login/password.)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.handleError(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSessionEx(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createNewSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebSessionInfoImpl.getSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.getReportName(GianoContent.java:405)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.paintHeader(GianoContent.java:319)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.transformForRequestSuccessful(SIEHeaderA.java:115)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.renderShell(SIEHeaderA.java:157)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getBeanMarkup(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspx_meth_web_005fdisplayBean_005f0(Sie_005fHeader_jsp.java:126)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspService(Sie_005fHeader_jsp.java:92)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:603)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:542)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:954)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.sieWeb_jsp._jspService(sieWeb_jsp.java:105)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+  <parameters>
+    <parameter>ECOVM49L</parameter>
+    <parameter>0</parameter>
+    <parameter></parameter>
+    <parameter>0BC4372543FD5C23EFC2678F5E4CFD22</parameter>
+    <parameter>1</parameter>
+    <parameter>u_sie_control</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499645483</miliseconds>
+  <timestamp>07/14/2016 14:34:05:487</timestamp>
+  <thread>7</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.app.beans</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499645526</miliseconds>
+  <timestamp>07/14/2016 14:34:05:530</timestamp>
+  <thread>4</thread>
+  <class>NewWindowPageComponentImpl</class>
+  <method>restoreState</method>
+  <message>Exception in restoring state for com.microstrategy.web.app.beans.NewWindowPageComponentImpl (see next message for details). The state is: true</message>
+</record>
+<record>
+  <package>com.microstrategy.web.app.beans</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499645530</miliseconds>
+  <timestamp>07/14/2016 14:34:05:534</timestamp>
+  <thread>4</thread>
+  <class>NewWindowPageComponentImpl</class>
+  <method>restoreState</method>
+  <message>For input string: &quot;true&quot; (java.lang.NumberFormatException)</message>
+  <exception>java.lang.NumberFormatException: For input string: &quot;true&quot;&#x0D;&#x0A;&#x09;at java.lang.NumberFormatException.forInputString(NumberFormatException.java:48)&#x0D;&#x0A;&#x09;at java.lang.Integer.parseInt(Integer.java:449)&#x0D;&#x0A;&#x09;at java.lang.Integer.parseInt(Integer.java:499)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.serialization.FlatStateTokenizer.nextInt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.AbstractPersistableAppComponent.doFlatState(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PageComponentImpl.doFlatState(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.serialization.AbstractPersistable.doFlatState(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.serialization.AbstractPersistable.restoreState(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.restoreState(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.restoreStateFromRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.webapi</package>
+  <level>SEVERE</level>
+  <miliseconds>1468499646170</miliseconds>
+  <timestamp>07/14/2016 14:34:06:174</timestamp>
+  <thread>4</thread>
+  <class>CDSSXMLServerSessionImpl</class>
+  <method>CreateSessionEx</method>
+  <message>(Incorrect login/password.)</message>
+  <exception>com.microstrategy.webapi.MSTRWebAPIException: (Incorrect login/password.)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.handleError(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.webapi.CDSSXMLServerSessionImpl.CreateSessionEx(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createSession(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebIServerSessionImpl.createNewSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebSessionInfoImpl.getSessionID(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectInfoImpl.populate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.getReportName(GianoContent.java:405)&#x0D;&#x0A;&#x09;at com.giano.transforms.GianoContent.paintHeader(GianoContent.java:319)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.transformForRequestSuccessful(SIEHeaderA.java:115)&#x0D;&#x0A;&#x09;at com.giano.transforms.SIEHeaderA.renderShell(SIEHeaderA.java:157)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getBeanMarkup(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayBeanTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspx_meth_web_005fdisplayBean_005f0(Sie_005fHeader_jsp.java:126)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.Sie_005fHeader_jsp._jspService(Sie_005fHeader_jsp.java:92)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:603)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:542)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:954)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins._005fInterface.jsp.sieWeb_jsp._jspService(sieWeb_jsp.java:105)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:747)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+  <parameters>
+    <parameter>ECOVM49L</parameter>
+    <parameter>0</parameter>
+    <parameter></parameter>
+    <parameter>0BC4372543FD5C23EFC2678F5E4CFD22</parameter>
+    <parameter>1</parameter>
+    <parameter>u_sie_control</parameter>
+  </parameters>
+</record>

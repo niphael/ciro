@@ -1,0 +1,11 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: dmnt-monitor-view.css for database connection monitor view
+*/
+
+.mstrmojo-dbconnectiontable {
+    margin: 5px;
+    width: 100%;
+    height: auto;
+}

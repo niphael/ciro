@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE StyleCatalog SYSTEM "styleCatalog.dtd">
+<StyleCatalog version="2.0">
+  <TransformDefns>
+    <TransformDefn class="com.giano.transforms.GianoFolderIconTransform" name="FolderIconTransform"/>
+    <TransformDefn class="com.giano.transforms.GianoFolderSmallIconTransform" name="FolderSmallIconTransform"/>
+    <TransformDefn class="com.giano.transforms.GianoFolderViewTransform" name="FolderViewTransform"/>
+    <TransformDefn class="com.giano.transforms.ReportTransformSIE" name="ReportGridTransform"/>
+    <TransformDefn class="com.giano.transforms.SIEExportReportTransform" name="ReportSavePropertiesTransform"/>
+    <TransformDefn class="com.giano.transforms.AccessiblePromptTransform" name="PromptsClassicTransform"/>
+    <TransformDefn class="com.giano.transforms.GianoProjectsTransform" name="ProjectsTransform"/>
+    <TransformDefn class="com.giano.transforms.LoginSIETransform" name="LoginXHTMLTransform"/>
+    <TransformDefn class="com.giano.transforms.LoginContinueSIETransform" name="LoginContinueTransform"/>
+    <TransformDefn class="com.giano.transforms.SIERWLayoutTransform" name="RWLayoutTransform"/>
+    <TransformDefn class="com.giano.transforms.SIEExportRWTransform" name="RWSavePropertiesTransform"/>
+    <TransformDefn class="com.giano.transforms.SecurityPromptTransform" name="SecurityPromptTransform"/>
+    <TransformDefn class="com.giano.transforms.AccessibleCBPromptTransform" name="CheckBoxPromptTransform"/>
+    <TransformDefn class="com.giano.transforms.AccessibleObjectCBPromptTransform" name="ObjectCheckBoxPromptTransform"/>
+    <TransformDefn class="com.giano.transforms.AccessibleInputPromptTransform" name="InputPromptTransform"/>
+    <TransformDefn class="com.giano.transforms.AccessibleRadioButtonPromptTransform" name="RadioButtonPromptTransform"/>
+    <TransformDefn class="com.giano.transforms.AccessibleListBoxPromptTransform" name="ListBoxPromptTransform"/>
+    <TransformDefn class="com.giano.transforms.SIEHeaderA" name="WriteHeaderTransform"/>
+    <TransformDefn class="com.giano.transforms.SIEEmptyA" name="SieEmptyTransform"/>
+  </TransformDefns>
+  <Styles>
+    <Style name="ReportGridStyle">
+      <ActualParameters>
+        <ActualParameter name="processingButtonsFlags" value="0"/>
+      </ActualParameters>
+    </Style>
+    <Style name="RWDocumentViewStyle">
+      <ActualParameters>
+        <ActualParameter name="processingButtonsFlags" value="0"/>
+      </ActualParameters>
+    </Style>
+    <Style name="LoginStyle">
+      <Layouts>
+        <Layout deleted="1"/>
+      </Layouts>
+    </Style>
+    <Style name="NCObjectSubscriptionsListStyle">
+      <Layouts>
+        <Layout><![CDATA[@_Interface:/WEB-INF/xml/layouts/ObjectSubscriptionsLayout.xml]]></Layout>
+      </Layouts>
+    </Style>
+    <Style description="Style: Display HTML for allowing users to log into I-Server and Projects" name="WriteHeaderStyle" transform="WriteHeaderTransform"/>
+    <Style description="Style: Display HTML for allowing users to log into I-Server and Projects" name="SieEmptyStyle" transform="SieEmptyTransform"/>
+    <Style description="Style: Prompt di Sicurezza per le stampe entrate" name="SecurityPrompt" transform="SecurityPromptTransform">
+      <ActualParameters>
+        <ActualParameter name="multiSelect" order="0" source="constant" type="4" value="true"/>
+      </ActualParameters>
+      <Layouts>
+        <Layout layout_source="AppLayoutSourceFile" order="1"><![CDATA[@_Interface:/WEB-INF/xml/layouts/PromptSecurityLayout.xml]]></Layout>
+      </Layouts>
+    </Style>
+    <Style description="Style: Prompt accessibile per Check Box stampe entrate" name="AccesibleCheckBox" transform="CheckBoxPromptTransform">
+      <Layouts>
+        <Layout layout_source="AppLayoutSourceFile" order="1"><![CDATA[@_Interface:/WEB-INF/xml/layouts/AccesiblePromptCheckboxLayout.xml]]></Layout>
+      </Layouts>
+    </Style>
+    <Style description="Style: Prompt accessibile per input Box stampe entrate" name="AccesibleInputBox" transform="InputPromptTransform">
+      <ActualParameters>
+        <ActualParameter name="displayDynamicDateAsStatic" order="0" source="constant" type="4" value="false"/>
+        <ActualParameter name="timeFieldFormat" order="0" source="constant" type="2" value="0"/>
+      </ActualParameters>
+      <Layouts>
+        <Layout layout_source="AppLayoutSourceFile" order="1"><![CDATA[/WEB-INF/xml/layouts/PromptConstantLayout.xml]]></Layout>
+      </Layouts>
+    </Style>
+    <Style description="Style: Prompt accessibile per Radio Button stampe entrate" name="AccesibleRadioButton" transform="RadioButtonPromptTransform">
+      <Layouts>
+        <Layout layout_source="AppLayoutSourceFile" order="1"><![CDATA[@_Interface:/WEB-INF/xml/layouts/AccesiblePromptCheckboxLayout.xml]]></Layout>
+      </Layouts>
+    </Style>
+    <Style description="Style: Prompt accessibile per List Box a selezione singola stampe entrate" name="AccesibleListBox" transform="ListBoxPromptTransform">
+      <Layouts>
+        <Layout layout_source="AppLayoutSourceFile" order="1"><![CDATA[@_Interface:/WEB-INF/xml/layouts/AccesiblePromptCheckboxLayout.xml]]></Layout>
+      </Layouts>
+    </Style>
+    <Style description="Style: Prompt accessibile per Check Box stampe entrate" name="ObjectAccesibleCheckBox" transform="ObjectCheckBoxPromptTransform">
+      <Layouts>
+        <Layout layout_source="AppLayoutSourceFile" order="1"><![CDATA[@_Interface:/WEB-INF/xml/layouts/AccesiblePromptCheckboxLayout.xml]]></Layout>
+      </Layouts>
+    </Style>
+
+
+<!--	prova custom PromptConstant_textbox
+
+
+   <Style description="Style: Prompt accessibile per input Box stampe entrate" name="PromptConstant_textbox" transform="InputPromptTransform">
+      <ActualParameters>
+        <ActualParameter name="displayDynamicDateAsStatic" order="0" source="constant" type="4" value="false"/>
+        <ActualParameter name="timeFieldFormat" order="0" source="constant" type="2" value="0"/>
+      </ActualParameters>
+      <Layouts>
+        <Layout layout_source="AppLayoutSourceFile" order="1"><![CDATA[/WEB-INF/xml/layouts/PromptConstantLayout.xml]]></Layout>
+      </Layouts>
+    </Style>
+
+-->	
+
+
+  </Styles>
+</StyleCatalog>
+
+

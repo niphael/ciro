@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks
+END
+createGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/createGroup.xml
+END
+requestNewPanel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/requestNewPanel.xml
+END
+changeDocGroupBy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/changeDocGroupBy.xml
+END
+deletePromptAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/deletePromptAnswer.xml
+END
+docRefresh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/docRefresh.xml
+END
+setDocZoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setDocZoom.xml
+END
+docPivot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/docPivot.xml
+END
+DocDrill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/DocDrill.xml
+END
+gridSort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/gridSort.xml
+END
+browseElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/browseElements.xml
+END
+setDocSelectorExpression.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setDocSelectorExpression.xml
+END
+loadDocLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/loadDocLayout.xml
+END
+RWExecute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/RWExecute.xml
+END
+DocTransaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/DocTransaction.xml
+END
+DocSort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/DocSort.xml
+END
+RWBinaryExecute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/RWBinaryExecute.xml
+END
+setDocSelectorExpressionUnset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setDocSelectorExpressionUnset.xml
+END
+setRWUnitProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setRWUnitProperties.xml
+END
+RWOnDemandDrill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/RWOnDemandDrill.xml
+END
+renamePromptAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/renamePromptAnswer.xml
+END
+saveReport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/saveReport.xml
+END
+folderBrowse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/folderBrowse.xml
+END
+getAnnotations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/getAnnotations.xml
+END
+retrieveChildren.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/retrieveChildren.xml
+END
+reportExecute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/reportExecute.xml
+END
+addDocToHistoryList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/addDocToHistoryList.xml
+END
+RWEventsTask.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/RWEventsTask.xml
+END
+browseHierarchy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/browseHierarchy.xml
+END
+loadToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/loadToolbar.xml
+END
+createUser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/createUser.xml
+END
+saveSubscription.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/saveSubscription.xml
+END
+RWDataService.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/RWDataService.xml
+END
+loadDocBlocks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/loadDocBlocks.xml
+END
+applyGraphSelectorAction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/applyGraphSelectorAction.xml
+END
+setAnnotations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setAnnotations.xml
+END
+getAttributeForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/getAttributeForms.xml
+END
+androidRWExecute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/androidRWExecute.xml
+END
+modifyGroupChildren.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/modifyGroupChildren.xml
+END
+loadBlocks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/loadBlocks.xml
+END
+getRWGraphImage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/getRWGraphImage.xml
+END
+setDocSelectorElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setDocSelectorElements.xml
+END
+setDocLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setDocLayout.xml
+END
+setDisplayMode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setDisplayMode.xml
+END
+reportDataService.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/reportDataService.xml
+END
+setDocSelectorInclude.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setDocSelectorInclude.xml
+END
+deleteUserEntity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/deleteUserEntity.xml
+END
+unsetSelector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/unsetSelector.xml
+END
+loadPromptAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/loadPromptAnswer.xml
+END
+setDocVisSelectorElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setDocVisSelectorElements.xml
+END
+gridLinkedDrill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/gridLinkedDrill.xml
+END
+saveRW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/saveRW.xml
+END
+gridPivot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/gridPivot.xml
+END
+docPivotForm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/docPivotForm.xml
+END
+exportReport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/exportReport.xml
+END
+setCurrentPanel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/setCurrentPanel.xml
+END
+androidSetDocSelectorElements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/androidSetDocSelectorElements.xml
+END
+DocXtabIncrementalFetch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/DocXtabIncrementalFetch.xml
+END
+exportDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/exportDocument.xml
+END
+modifyPrivileges.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/modifyPrivileges.xml
+END
+modifySecurityRoles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/modifySecurityRoles.xml
+END
+modifySecurityFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/modifySecurityFilter.xml
+END
+modifyUser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/modifyUser.xml
+END
+getCustomGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/getCustomGroup.xml
+END
+savePersonalView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/savePersonalView.xml
+END
+searchMetadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/searchMetadata.xml
+END
+ReportOndemandDrill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/ReportOndemandDrill.xml
+END
+loadReportBlocks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/loadReportBlocks.xml
+END
+RWManipulation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/RWManipulation.xml
+END
+resetSelections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/resetSelections.xml
+END
+fetchDocPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/beanTasks/fetchDocPage.xml
+END

@@ -1,0 +1,9 @@
+#errori da form
+required.message = Il campo {0} è obbligatorio.
+required={0} è un campo obbligatorio
+camp.non.esistente=Il campo {0} non esiste
+lista.utenti.microstrategy.non.disponibile=Non è possibile recuperare la lista utenti Mstr
+number.max.lenght=Il campo {0} non può avere più di {1} caratteri
+errore.sql=Errore generico sql
+no.data.found=Nessun dato trovato
+error.firstfield.lower.than.second=Il valore del campo <b>{0}</b> deve essere maggiore rispetto a quello del campo <b>{1}</b>.

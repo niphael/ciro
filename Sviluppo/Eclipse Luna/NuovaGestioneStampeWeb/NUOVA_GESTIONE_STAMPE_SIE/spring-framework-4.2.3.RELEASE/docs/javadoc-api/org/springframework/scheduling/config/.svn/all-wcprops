@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config
+END
+TaskNamespaceHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/TaskNamespaceHandler.html
+END
+ScheduledTasksBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/ScheduledTasksBeanDefinitionParser.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/package-frame.html
+END
+CronTask.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/CronTask.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/package-summary.html
+END
+TriggerTask.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/TriggerTask.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/package-tree.html
+END
+SchedulerBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/SchedulerBeanDefinitionParser.html
+END
+ContextLifecycleScheduledTaskRegistrar.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/ContextLifecycleScheduledTaskRegistrar.html
+END
+AnnotationDrivenBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/AnnotationDrivenBeanDefinitionParser.html
+END
+TaskExecutorFactoryBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/TaskExecutorFactoryBean.html
+END
+Task.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/Task.html
+END
+TaskManagementConfigUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/TaskManagementConfigUtils.html
+END
+ScheduledTaskRegistrar.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/ScheduledTaskRegistrar.html
+END
+IntervalTask.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/IntervalTask.html
+END
+ExecutorBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/scheduling/config/ExecutorBeanDefinitionParser.html
+END

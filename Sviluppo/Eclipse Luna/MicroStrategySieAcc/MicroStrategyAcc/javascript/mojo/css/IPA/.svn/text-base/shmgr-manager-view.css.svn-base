@@ -1,0 +1,177 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: shmgr-manager-view.css for schedule manager view
+*/
+.mstrmojo-cmSched-stepperUp:hover,
+.mstrmojo-cmSched-stepperDown:hover{
+    background-color: #D3E1F1;
+}
+
+
+.mstrmojo-cmSched-stepperUp{
+	background: url(../images/IPA/arrow_white_sprite.gif) no-repeat center top scroll transparent;	
+}
+
+.mstrmojo-cmSched-stepperDown{  
+    background: url(../images/IPA/arrow_white_sprite.gif) no-repeat center bottom scroll transparent;
+}
+
+.shmgr-add-button {
+	width:98%;
+}
+
+.shmgr-datagrid-text {
+	text-align:left;margin-left:5px;
+}
+
+.shmgr-datagrid-button {
+	text-decoration:underline;
+	color:blue;
+	font-size:10pt;
+	margin-left:-5px;
+	text-align:left;
+}
+
+.shmgr-datagrid-dialog {
+	position:absolute;left:80px;top:40px;
+}
+
+.shmgr-schedule-vbox {
+	width:945px;
+}
+
+.link-button {
+	text-decoration:underline;
+	color:blue;
+	font-size:10pt;
+	margin-left:5px;
+	text-align:left;
+}
+
+.shmgr-data-tbl{
+	margin: 5px;
+	width: 98%;
+	height: auto;
+}
+
+.shmgr-data-tbl .mstrmojo-DataGrid-itemsScrollBox{
+	max-height:180px;
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+
+.shmgr-section-style{
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	border: solid 1px #AAA;	
+	overflow: visible; 
+	border-radius: 5px;
+}
+
+.shmgr-section-title{
+	color:#e6e6e6;
+	background:#494949;
+	margin: 0px 0px 0px 0px;
+	font-weight: bold; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-size: 11pt; 
+	line-height: normal; 
+	font-family: Tahoma, Arial, Verdana;
+	border: solid 1px #AAA;
+	overflow: visible;
+	border-radius: 5px;
+	padding-left:5px;
+	padding-top:3px;
+	padding-bottom:5px;
+	width:930px
+}
+
+.shmgr-section-errorbox{
+	color:red;
+	margin: 0px 0px 0px 20px;
+	font-style: normal;
+	font-variant: normal; 
+	font-size: 11pt; 
+	line-height: normal; 
+	font-family: Tahoma, Arial, Verdana;
+	padding-left:5px;
+	padding-top:3px;
+	padding-bottom:5px;
+}
+
+.shmgr-section-detailTitle{
+	padding-bottom:10px;
+}
+
+/* Recurrence part*/
+.shmgr-fieldset-margin{
+	margin: 6px 5px 3px 5px;
+}
+
+.shmgr-recurrence-vbox{
+	height:80px;
+	width: 70px;
+	border-right: 1px;
+	border-right-color: #AAA; 
+	border-style: solid;
+	border-top: 0px;
+	border-left: 0px;
+	border-bottom: 0px;
+}
+
+.shmgr-recurrence-table{
+	height:80px;width: 100%;
+}
+
+.shmgr-recurrence-label-width-40{
+	width:40px;
+}
+
+.shmgr-recurrence-valuePicker{
+	margin-left:5px;
+	width:40px;
+	height:20px;
+}
+
+.shmgr-recurrence-label-margin-width-5 {
+	margin-left:5px;
+}
+
+.shmgr-recurrence-label-margin-width-20 {
+	margin-left:20px;
+}
+
+.shmgr-recurrence-pulldown {
+	font-size:11px;
+	font-family: Tahoma;
+	width:59px;
+	height:19px;
+}	
+
+.shmgr-trigger-fieldset {
+	margin: 6px 5px 3px 5px;
+	width:380px;
+	height:120px;
+}
+
+.shmgr-trigger-table {
+	width: 100%;
+	margin-left:0px;
+	margin-top:10px;
+}
+
+.shmgr-label-100-percent {
+	width: 100%;	
+}
+
+.shmgr-trigger-label-width-30{
+	width:30px;
+}
+
+.shmgr-trigger-label-width-80{
+	width:80px;
+}

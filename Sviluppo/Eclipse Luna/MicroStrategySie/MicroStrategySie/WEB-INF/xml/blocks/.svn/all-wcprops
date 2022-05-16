@@ -1,0 +1,3011 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks
+END
+ToolbarFontSizeList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFontSizeList.xml
+END
+ListValidator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListValidator.xml
+END
+DocumentToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentToolbarModel.xml
+END
+ToolbarFitToContentsButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFitToContentsButton.xml
+END
+RWPageSetupPageModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWPageSetupPageModel.xml
+END
+FontFormatEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FontFormatEditor.xml
+END
+ToolbarRenameButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarRenameButton.xml
+END
+ChangeTrackingModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ChangeTrackingModel.xml
+END
+PropertiesTabGrid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabGrid.xml
+END
+MenuOption.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MenuOption.xml
+END
+MenuDualStateControlModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MenuDualStateControlModel.xml
+END
+BlockContainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BlockContainer.xml
+END
+FlatExpressionTreeCart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FlatExpressionTreeCart.xml
+END
+SubMenuControlModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SubMenuControlModel.xml
+END
+ViewStack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ViewStack.xml
+END
+SampleAQTree1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleAQTree1.xml
+END
+ToolbarGraphSubmitButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGraphSubmitButton.xml
+END
+PromptSavedAnswersSimplePopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptSavedAnswersSimplePopup.xml
+END
+ToolbarDualStateButtonHelper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarDualStateButtonHelper.xml
+END
+ElementsObjectNodeValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ElementsObjectNodeValue.xml
+END
+Tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/Tab.xml
+END
+SubMenuOption.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SubMenuOption.xml
+END
+FontPreview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FontPreview.xml
+END
+ExpressionFormValues1Popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionFormValues1Popup.xml
+END
+ToolbarToggleHideNullsButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarToggleHideNullsButton.xml
+END
+PropertiesTabAdvanced.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabAdvanced.xml
+END
+SearchField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SearchField.xml
+END
+PromptSummaryBook.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptSummaryBook.xml
+END
+PropertiesTabFont.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabFont.xml
+END
+CrosstabView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CrosstabView.xml
+END
+ToolbarReportsButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarReportsButton.xml
+END
+ToolbarButtonModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarButtonModel.xml
+END
+ToolbarTextBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarTextBox.xml
+END
+PulldownProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PulldownProperties.xml
+END
+ListTextDiv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListTextDiv.xml
+END
+SampleAQPromptView3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleAQPromptView3.xml
+END
+ToolbarListPulldown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarListPulldown.xml
+END
+ExpressionBranchQualPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionBranchQualPopup.xml
+END
+ToolbarReExecuteRwdButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarReExecuteRwdButton.xml
+END
+ToolbarIncreaseDecimalButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarIncreaseDecimalButton.xml
+END
+PromptSaveManyAnswers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptSaveManyAnswers.xml
+END
+FetchControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FetchControl.xml
+END
+ToolbarSeriesByRowButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarSeriesByRowButton.xml
+END
+TextBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TextBox.xml
+END
+ToolbarListHelper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarListHelper.xml
+END
+ExpressionFileImport2Popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionFileImport2Popup.xml
+END
+ToolbarGraphValuesButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGraphValuesButton.xml
+END
+CrosstabModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CrosstabModel.xml
+END
+ToolbarControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarControl.xml
+END
+ToolbarControlHelper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarControlHelper.xml
+END
+ViewRoll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ViewRoll.xml
+END
+EditButtons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/EditButtons.xml
+END
+RelationshipNodeValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RelationshipNodeValue.xml
+END
+AttributeQualifier.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AttributeQualifier.xml
+END
+ButtonBorderOptionsModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ButtonBorderOptionsModel.xml
+END
+SelectDataSetModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SelectDataSetModel.xml
+END
+TriStateCheckBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TriStateCheckBox.xml
+END
+ExpressionFormPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionFormPopup.xml
+END
+ListUpDown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListUpDown.xml
+END
+ToolbarEditFormsButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarEditFormsButton.xml
+END
+MenuBook.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MenuBook.xml
+END
+ToolbarBandingButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarBandingButton.xml
+END
+PropertiesEditorGeneralModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorGeneralModel.xml
+END
+PromptAnswerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptAnswerModel.xml
+END
+RwInsertShapeMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwInsertShapeMenu.xml
+END
+PropertiesEditorEffectsModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorEffectsModel.xml
+END
+GradientEditorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GradientEditorModel.xml
+END
+FastCheckList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FastCheckList.xml
+END
+FetchBlockPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FetchBlockPopup.xml
+END
+ToolbarTextModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarTextModel.xml
+END
+AttrFormsSort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AttrFormsSort.xml
+END
+ExpressionTargetPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionTargetPopup.xml
+END
+DocumentTabAdvanced.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentTabAdvanced.xml
+END
+AnnotationModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AnnotationModel.xml
+END
+ToolbarEditTotalsButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarEditTotalsButton.xml
+END
+ToolbarDesignModeButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarDesignModeButton.xml
+END
+RWDocumentAdvancedModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWDocumentAdvancedModel.xml
+END
+ListPulldown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListPulldown.xml
+END
+SampleAQPromptView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleAQPromptView.xml
+END
+ToolbarRadioButtons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarRadioButtons.xml
+END
+ToolbarLockColHeadersButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarLockColHeadersButton.xml
+END
+EditableArea.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/EditableArea.xml
+END
+DocumentToolsToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentToolsToolbarModel.xml
+END
+FastListProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FastListProperties.xml
+END
+PromptSavedAnswers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptSavedAnswers.xml
+END
+SelectDataSetPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SelectDataSetPopup.xml
+END
+ExpressionTreeCartModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionTreeCartModel.xml
+END
+TriStateListModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TriStateListModel.xml
+END
+ShortcutNodeValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ShortcutNodeValue.xml
+END
+PropertiesTabGeneral.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabGeneral.xml
+END
+PropertiesTabAlignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabAlignment.xml
+END
+ContextMenuOpener.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ContextMenuOpener.xml
+END
+PropertiesEditorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorModel.xml
+END
+HOrientationModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/HOrientationModel.xml
+END
+MenuSeparator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MenuSeparator.xml
+END
+ExpressionListCartModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionListCartModel.xml
+END
+ToolbarGridVisList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGridVisList.xml
+END
+PropertiesEditorSelectors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorSelectors.xml
+END
+PromptQuestionModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptQuestionModel.xml
+END
+GridFormatTemplateUnit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GridFormatTemplateUnit.xml
+END
+FilterDetailsContentsTabView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsContentsTabView.xml
+END
+InsertSubMenuOption.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/InsertSubMenuOption.xml
+END
+PropertiesTabNumber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabNumber.xml
+END
+DocumentTabMobile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentTabMobile.xml
+END
+ReportToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportToolbar.xml
+END
+XHRProcessor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/XHRProcessor.xml
+END
+ContextMenuOpenerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ContextMenuOpenerModel.xml
+END
+RwInsertSelectorMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwInsertSelectorMenu.xml
+END
+ToolbarFormatValueList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFormatValueList.xml
+END
+BaseItemInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BaseItemInfo.xml
+END
+BaseView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BaseView.xml
+END
+ExpressionListCart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionListCart.xml
+END
+GraphGradientEditorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphGradientEditorModel.xml
+END
+ToolbarReExecuteButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarReExecuteButton.xml
+END
+ReportFormattingToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportFormattingToolbarModel.xml
+END
+ToolbarSaveButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarSaveButton.xml
+END
+ListPromptAnswerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListPromptAnswerModel.xml
+END
+BorderStyleModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BorderStyleModel.xml
+END
+GraphFormatEditorTabNumber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorTabNumber.xml
+END
+FilterDetailsContentsTabModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsContentsTabModel.xml
+END
+InsertMenuOption.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/InsertMenuOption.xml
+END
+GraphFormatEditorTabOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorTabOptions.xml
+END
+ExprDimtyUnit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExprDimtyUnit.xml
+END
+MenuControlModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MenuControlModel.xml
+END
+ExpressionCartProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionCartProperties.xml
+END
+RWDocumentWatermarkModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWDocumentWatermarkModel.xml
+END
+ToolbarDualStateButtonModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarDualStateButtonModel.xml
+END
+ToolbarFontFamilyList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFontFamilyList.xml
+END
+PromptEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptEditor.xml
+END
+LineStyleModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/LineStyleModel.xml
+END
+FontFamilyModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FontFamilyModel.xml
+END
+ToolbarCheckListHelper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarCheckListHelper.xml
+END
+ToolbarQuickThresholdsPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarQuickThresholdsPicker.xml
+END
+ReportInstanceExtendedProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportInstanceExtendedProperties.xml
+END
+ToolbarButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarButton.xml
+END
+ToolbarReExecuteRptButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarReExecuteRptButton.xml
+END
+ContextMenuProcessingView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ContextMenuProcessingView.xml
+END
+DocumentToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentToolbar.xml
+END
+GraphFormatEditorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorModel.xml
+END
+AdvancedColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AdvancedColorPicker.xml
+END
+RibbonListView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RibbonListView.xml
+END
+ToolbarGraphSeriesText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGraphSeriesText.xml
+END
+MenuControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MenuControl.xml
+END
+TreeNode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TreeNode.xml
+END
+DocumentTabExport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentTabExport.xml
+END
+RwDataMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwDataMenu.xml
+END
+ToolbarRedoButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarRedoButton.xml
+END
+BorderOptionsModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BorderOptionsModel.xml
+END
+ToolbarCommaButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarCommaButton.xml
+END
+FlatExpressionListCart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FlatExpressionListCart.xml
+END
+AnnotationEditButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AnnotationEditButton.xml
+END
+GraphProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphProperties.xml
+END
+ExpressionConstant1Popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionConstant1Popup.xml
+END
+ExpressionElementsPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionElementsPopup.xml
+END
+TextButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TextButton.xml
+END
+GraphFormatEditorTabFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorTabFormat.xml
+END
+AddArea.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AddArea.xml
+END
+Container.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/Container.xml
+END
+IPhoneTimeSeriesEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/IPhoneTimeSeriesEditor.xml
+END
+AdvancedColorPickerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AdvancedColorPickerModel.xml
+END
+DrillPath.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DrillPath.xml
+END
+BaseBlock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BaseBlock.xml
+END
+DimtyUnit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DimtyUnit.xml
+END
+CheckBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CheckBox.xml
+END
+PropertiesEditorImageModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorImageModel.xml
+END
+TabModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TabModel.xml
+END
+FrameProcessor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FrameProcessor.xml
+END
+CalendarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CalendarModel.xml
+END
+ToolbarBrowseParentButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarBrowseParentButton.xml
+END
+TooltipText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TooltipText.xml
+END
+GraphFormatEditorGeneralModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorGeneralModel.xml
+END
+PropertiesEditorFlashModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorFlashModel.xml
+END
+FormShortcutNodeValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FormShortcutNodeValue.xml
+END
+ToolbarDynamicListHelper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarDynamicListHelper.xml
+END
+FastRadioList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FastRadioList.xml
+END
+TreeCart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TreeCart.xml
+END
+ReportViewToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportViewToolbarModel.xml
+END
+ScratchPad.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ScratchPad.xml
+END
+TimePickerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TimePickerModel.xml
+END
+ToolbarRefreshButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarRefreshButton.xml
+END
+ListBrowser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListBrowser.xml
+END
+RWLayoutSectionsModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWLayoutSectionsModel.xml
+END
+TreeModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TreeModel.xml
+END
+BigDecimalNodeValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BigDecimalNodeValue.xml
+END
+ToolbarViewStack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarViewStack.xml
+END
+FastListView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FastListView.xml
+END
+RptDataMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RptDataMenu.xml
+END
+TextLabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TextLabel.xml
+END
+ToolbarItalicButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarItalicButton.xml
+END
+GridFormatObject.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GridFormatObject.xml
+END
+ExpressionFunctionPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionFunctionPopup.xml
+END
+ToolbarLineStylePicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarLineStylePicker.xml
+END
+TreeView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TreeView.xml
+END
+ListModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListModel.xml
+END
+LayoutTabMobile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/LayoutTabMobile.xml
+END
+ConstantNodeValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ConstantNodeValue.xml
+END
+RwToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwToolbarModel.xml
+END
+DataExplorerHeaderView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DataExplorerHeaderView.xml
+END
+ToolbarButtonHelper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarButtonHelper.xml
+END
+ToolbarBoldButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarBoldButton.xml
+END
+ToolbarGraphCategoriesText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGraphCategoriesText.xml
+END
+PropertiesTabFlash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabFlash.xml
+END
+ExpressionNodeValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionNodeValue.xml
+END
+ToolbarMergeRowHeadersButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarMergeRowHeadersButton.xml
+END
+EditorBoneTranslator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/EditorBoneTranslator.xml
+END
+RptHomeExportMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RptHomeExportMenu.xml
+END
+ToolbarLoadingText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarLoadingText.xml
+END
+ExpressionEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionEditor.xml
+END
+FastTileView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FastTileView.xml
+END
+RWDocumentDocumentModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWDocumentDocumentModel.xml
+END
+ToolbarCustomizationInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarCustomizationInfo.xml
+END
+CalendarAndTimePicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CalendarAndTimePicker.xml
+END
+SingleObjectSelector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SingleObjectSelector.xml
+END
+PopUpEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PopUpEditor.xml
+END
+ExpressionLevelPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionLevelPopup.xml
+END
+SampleMQPromptView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleMQPromptView.xml
+END
+NonEditableArea.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/NonEditableArea.xml
+END
+GraphFormatEditorOptionsModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorOptionsModel.xml
+END
+VerticalTileListView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/VerticalTileListView.xml
+END
+PropertiesTabButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabButton.xml
+END
+PropertiesEditorAlignmentModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorAlignmentModel.xml
+END
+ToolbarControlModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarControlModel.xml
+END
+MetricQualifier.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MetricQualifier.xml
+END
+ToolbarFontColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFontColorPicker.xml
+END
+TextDiv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TextDiv.xml
+END
+RwHomeExportMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwHomeExportMenu.xml
+END
+RwInsertWidgetMenuToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwInsertWidgetMenuToolbar.xml
+END
+PropertiesEditorGridModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorGridModel.xml
+END
+NotesIconView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/NotesIconView.xml
+END
+ViewBookChildContainer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ViewBookChildContainer.xml
+END
+OperatorNodeValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/OperatorNodeValue.xml
+END
+RwInsertButtonMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwInsertButtonMenu.xml
+END
+ToolbarOutlineButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarOutlineButton.xml
+END
+SizeModelFixedFitModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SizeModelFixedFitModel.xml
+END
+ToolbarColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarColorPicker.xml
+END
+TimeNodeValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TimeNodeValue.xml
+END
+ToolbarTextBoxModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarTextBoxModel.xml
+END
+IncrementalFetchTab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/IncrementalFetchTab.xml
+END
+ShapeStyleModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ShapeStyleModel.xml
+END
+ToolbarWidgetButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarWidgetButton.xml
+END
+GradientEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GradientEditor.xml
+END
+ListToolButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListToolButton.xml
+END
+AnnotationView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AnnotationView.xml
+END
+DocumentInsertToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentInsertToolbarModel.xml
+END
+ToolbarCurrencyButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarCurrencyButton.xml
+END
+PropertiesEditorAdvancedModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorAdvancedModel.xml
+END
+BaseQualifier.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BaseQualifier.xml
+END
+SampleElementPromptModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleElementPromptModel.xml
+END
+RibbonToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RibbonToolbarModel.xml
+END
+NumberFormatModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/NumberFormatModel.xml
+END
+EventArgument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/EventArgument.xml
+END
+RwInsertGraphMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwInsertGraphMenu.xml
+END
+ToolbarUndoButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarUndoButton.xml
+END
+SampleAQPromptModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleAQPromptModel.xml
+END
+PropertiesEditorWidgetModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorWidgetModel.xml
+END
+ContextMenuModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ContextMenuModel.xml
+END
+DocumentFormatToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentFormatToolbarModel.xml
+END
+FetchPreview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FetchPreview.xml
+END
+DualExpressionListCartModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DualExpressionListCartModel.xml
+END
+ExpressionFileImport1Popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionFileImport1Popup.xml
+END
+RWLayoutMobileModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWLayoutMobileModel.xml
+END
+UrlParamInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/UrlParamInfo.xml
+END
+LastUpdateView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/LastUpdateView.xml
+END
+RptHomeSendNowMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RptHomeSendNowMenu.xml
+END
+SampleAQMQTree1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleAQMQTree1.xml
+END
+SampleMQPromptModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleMQPromptModel.xml
+END
+GraphFormatEditorTabGeneral.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorTabGeneral.xml
+END
+ToolbarFillColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFillColorPicker.xml
+END
+ObjectSelector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ObjectSelector.xml
+END
+ToolbarFormatUnitList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFormatUnitList.xml
+END
+ToolbarText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarText.xml
+END
+InsertLayoutEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/InsertLayoutEditor.xml
+END
+CheckList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CheckList.xml
+END
+DocumentTemplateViewToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentTemplateViewToolbarModel.xml
+END
+EventEnumArgument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/EventEnumArgument.xml
+END
+ItemInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ItemInfo.xml
+END
+RptMenuModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RptMenuModel.xml
+END
+AnnotationCancelButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AnnotationCancelButton.xml
+END
+ToolbarColorPickerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarColorPickerModel.xml
+END
+GraphFormatEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditor.xml
+END
+ToolbarPickerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarPickerModel.xml
+END
+NotesIconModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/NotesIconModel.xml
+END
+ExpressionLevelAttributesPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionLevelAttributesPopup.xml
+END
+Slider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/Slider.xml
+END
+PropertiesTabEffects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabEffects.xml
+END
+ChangeTrackingModelManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ChangeTrackingModelManager.xml
+END
+PropertiesEditorSelectorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorSelectorModel.xml
+END
+AnnotationBlock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AnnotationBlock.xml
+END
+TimePickerView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TimePickerView.xml
+END
+PageInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PageInfo.xml
+END
+GraphFormatEditorAdvancedModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorAdvancedModel.xml
+END
+FloatingMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FloatingMenu.xml
+END
+RwHomeSubscribeMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwHomeSubscribeMenu.xml
+END
+GraphFormatEditorTabAxes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorTabAxes.xml
+END
+FontFormatter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FontFormatter.xml
+END
+TreeCartModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TreeCartModel.xml
+END
+PropertiesEditorNumberModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorNumberModel.xml
+END
+RWDocumentMobileModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWDocumentMobileModel.xml
+END
+ToolbarIntlCurrencyButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarIntlCurrencyButton.xml
+END
+TextBoxWithIcon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TextBoxWithIcon.xml
+END
+LayoutTabColor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/LayoutTabColor.xml
+END
+PromptQuestionView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptQuestionView.xml
+END
+DocumentTabDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentTabDocument.xml
+END
+ToolbarTilePulldown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarTilePulldown.xml
+END
+ListCartModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListCartModel.xml
+END
+ToolbarHomeButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarHomeButton.xml
+END
+ExpressionFormValues2Popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionFormValues2Popup.xml
+END
+ToolButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolButton.xml
+END
+ToolbarDecreaseDecimalButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarDecreaseDecimalButton.xml
+END
+ToolbarSwapAxesButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarSwapAxesButton.xml
+END
+DocumentDataToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentDataToolbarModel.xml
+END
+CustomAttrForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CustomAttrForms.xml
+END
+RWDocumentTOCModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWDocumentTOCModel.xml
+END
+FilterDetailsOtherTabView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsOtherTabView.xml
+END
+CrosstabCell.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CrosstabCell.xml
+END
+ToolbarFullScreenButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFullScreenButton.xml
+END
+ToolbarLoadingModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarLoadingModel.xml
+END
+PropertiesTabColor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabColor.xml
+END
+GraphFormatEditorAxesModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorAxesModel.xml
+END
+DocumentTabWatermark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentTabWatermark.xml
+END
+ListCart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListCart.xml
+END
+GridFormatLevel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GridFormatLevel.xml
+END
+DocumentGridToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentGridToolbarModel.xml
+END
+SampleElementPromptView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleElementPromptView.xml
+END
+FieldValidator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FieldValidator.xml
+END
+AnnotationSubmitButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AnnotationSubmitButton.xml
+END
+CalendarAndTimePickerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CalendarAndTimePickerModel.xml
+END
+PropertiesTabLine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabLine.xml
+END
+BoneTranslator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BoneTranslator.xml
+END
+EventInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/EventInfo.xml
+END
+RwMenuModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwMenuModel.xml
+END
+RptFormatMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RptFormatMenu.xml
+END
+IPhoneTimeSeriesEditorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/IPhoneTimeSeriesEditorModel.xml
+END
+ToolbarGridButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGridButton.xml
+END
+ListView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ListView.xml
+END
+CrosstabRow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CrosstabRow.xml
+END
+RWPageSetupMarginsModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWPageSetupMarginsModel.xml
+END
+DualExpressionListCart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DualExpressionListCart.xml
+END
+RWLayoutIncFetchModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWLayoutIncFetchModel.xml
+END
+blockLibrary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/blockLibrary.xml
+END
+ToolbarGraphButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGraphButton.xml
+END
+PropertiesEditorLayoutModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorLayoutModel.xml
+END
+TilePulldown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TilePulldown.xml
+END
+CrosstabBrowser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CrosstabBrowser.xml
+END
+PropertiesTabSelector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabSelector.xml
+END
+ToolbarDynamicListModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarDynamicListModel.xml
+END
+PropertiesTabWidget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabWidget.xml
+END
+TextFieldLabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TextFieldLabel.xml
+END
+DocumentHomeToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentHomeToolbarModel.xml
+END
+ToolbarLockRowHeadersButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarLockRowHeadersButton.xml
+END
+PropertiesEditorLineModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorLineModel.xml
+END
+ConstantPromptAnswerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ConstantPromptAnswerModel.xml
+END
+DocumentAlignToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentAlignToolbarModel.xml
+END
+FilterDetailsEditorView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsEditorView.xml
+END
+GraphFormatEditorTabAdvanced.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorTabAdvanced.xml
+END
+ToolbarThresholdsButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarThresholdsButton.xml
+END
+EventGetterArgument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/EventGetterArgument.xml
+END
+FieldSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FieldSet.xml
+END
+SimpleListCart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SimpleListCart.xml
+END
+ExpressionPromptAnswerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionPromptAnswerModel.xml
+END
+RWDocPropertiesEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWDocPropertiesEditor.xml
+END
+VOrientationModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/VOrientationModel.xml
+END
+ColorPickerListView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ColorPickerListView.xml
+END
+CalendarView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/CalendarView.xml
+END
+HTextBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/HTextBox.xml
+END
+RwInsertWidgetMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwInsertWidgetMenu.xml
+END
+RwDataThresholdsMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwDataThresholdsMenu.xml
+END
+ToolbarLineColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarLineColorPicker.xml
+END
+MetricQualifierLevelAttributesPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MetricQualifierLevelAttributesPopup.xml
+END
+RptToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RptToolbarModel.xml
+END
+FloatingEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FloatingEditor.xml
+END
+ColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ColorPicker.xml
+END
+ExprDimtyObject.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExprDimtyObject.xml
+END
+PromptList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptList.xml
+END
+ClickableMessage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ClickableMessage.xml
+END
+ToolbarListModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarListModel.xml
+END
+ToolbarPercentButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarPercentButton.xml
+END
+PropertiesEditorButtonModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorButtonModel.xml
+END
+PropertiesTabLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabLayout.xml
+END
+RWDocPropertiesEditorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWDocPropertiesEditorModel.xml
+END
+ToolbarSeparator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarSeparator.xml
+END
+ExpressionTypePopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionTypePopup.xml
+END
+ViewBook.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ViewBook.xml
+END
+RwDataConditionalFormattingMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwDataConditionalFormattingMenu.xml
+END
+ToolbarRepromptButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarRepromptButton.xml
+END
+RibbonListModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RibbonListModel.xml
+END
+InsertLayoutEditorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/InsertLayoutEditorModel.xml
+END
+RadioList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RadioList.xml
+END
+ToolbarBorderPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarBorderPicker.xml
+END
+FilterDetailsTemplateTabModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsTemplateTabModel.xml
+END
+RwInsertAutotextMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwInsertAutotextMenu.xml
+END
+LayoutTabLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/LayoutTabLayout.xml
+END
+ToolbarAjaxButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarAjaxButton.xml
+END
+InfoIcon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/InfoIcon.xml
+END
+RWLayoutLayoutModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWLayoutLayoutModel.xml
+END
+RWLayoutColorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWLayoutColorModel.xml
+END
+ToolbarAutostyleList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarAutostyleList.xml
+END
+ToolbarGraphAutoArrangeButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGraphAutoArrangeButton.xml
+END
+ToolbarGraphMajorList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGraphMajorList.xml
+END
+RWDocumentExportModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RWDocumentExportModel.xml
+END
+SampleElementPromptView2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleElementPromptView2.xml
+END
+PropertiesEditorFontModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorFontModel.xml
+END
+ToolbarSortGridButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarSortGridButton.xml
+END
+ReportInstanceModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportInstanceModel.xml
+END
+SampleAQPromptView2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleAQPromptView2.xml
+END
+SavedAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SavedAnswer.xml
+END
+MessageResult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MessageResult.xml
+END
+ImagePreview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ImagePreview.xml
+END
+MenuModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/MenuModel.xml
+END
+ToolbarGraphMinorList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGraphMinorList.xml
+END
+Editor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/Editor.xml
+END
+PropertiesTabImage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesTabImage.xml
+END
+ToolbarListItemInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarListItemInfo.xml
+END
+PromptSavedAnswersPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptSavedAnswersPopup.xml
+END
+AttrFormsCart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AttrFormsCart.xml
+END
+ToolbarPickerButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarPickerButton.xml
+END
+HBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/HBox.xml
+END
+Toolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/Toolbar.xml
+END
+PropertiesEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditor.xml
+END
+TreeBrowser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TreeBrowser.xml
+END
+SeriesLineStyleModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SeriesLineStyleModel.xml
+END
+ToolbarMergeColHeadersButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarMergeColHeadersButton.xml
+END
+PromptGetSavedAnswerNamePopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptGetSavedAnswerNamePopup.xml
+END
+FilterDetailsTemplateTabView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsTemplateTabView.xml
+END
+ReportDataToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportDataToolbarModel.xml
+END
+FilterDetailsGeneralTabView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsGeneralTabView.xml
+END
+RptToolsMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RptToolsMenu.xml
+END
+ToolbarNormalModeButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarNormalModeButton.xml
+END
+SizeModelFixed100Model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SizeModelFixed100Model.xml
+END
+TabTreeListView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TabTreeListView.xml
+END
+Label.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/Label.xml
+END
+ExpressionConstant2Popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionConstant2Popup.xml
+END
+ExpressionModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionModel.xml
+END
+PageSetupTabPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PageSetupTabPage.xml
+END
+HyperlinkInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/HyperlinkInfo.xml
+END
+PromptSaveOneAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptSaveOneAnswer.xml
+END
+ToolbarSubmitButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarSubmitButton.xml
+END
+PropertiesEditorColorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PropertiesEditorColorModel.xml
+END
+FilterDetailsEditorModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsEditorModel.xml
+END
+ToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarModel.xml
+END
+LineThicknessModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/LineThicknessModel.xml
+END
+TreePulldown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TreePulldown.xml
+END
+LoginTaskData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/LoginTaskData.xml
+END
+ReportGridToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportGridToolbarModel.xml
+END
+RwHomeMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwHomeMenu.xml
+END
+ToolbarToggleTotalsButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarToggleTotalsButton.xml
+END
+BaseModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BaseModel.xml
+END
+PromptQuestionViewRoll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptQuestionViewRoll.xml
+END
+ColorPickerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ColorPickerModel.xml
+END
+SizeModelFixedOnlyModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SizeModelFixedOnlyModel.xml
+END
+ToolbarGraphLegendButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGraphLegendButton.xml
+END
+AnnotationOKButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AnnotationOKButton.xml
+END
+FilterDetailsGeneralTabModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsGeneralTabModel.xml
+END
+RwInsertMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwInsertMenu.xml
+END
+TextLink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TextLink.xml
+END
+ToolbarSeriesByColButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarSeriesByColButton.xml
+END
+ToolbarSubmitButtonModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarSubmitButtonModel.xml
+END
+DocumentGraphToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentGraphToolbarModel.xml
+END
+TextAreaWithImport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/TextAreaWithImport.xml
+END
+PageSetupTabMargins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PageSetupTabMargins.xml
+END
+FilterDetailsOtherTabModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FilterDetailsOtherTabModel.xml
+END
+RwMenuModelEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwMenuModelEditor.xml
+END
+GraphFormatEditorNumberModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorNumberModel.xml
+END
+RibbonEvent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RibbonEvent.xml
+END
+ToolbarTextAlignList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarTextAlignList.xml
+END
+SubMenuControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SubMenuControl.xml
+END
+BevelTypeModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BevelTypeModel.xml
+END
+ToolbarTextBoxHelper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarTextBoxHelper.xml
+END
+DocumentTabTofC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DocumentTabTofC.xml
+END
+FontSizeModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FontSizeModel.xml
+END
+RibbonTabModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RibbonTabModel.xml
+END
+GraphGradientEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphGradientEditor.xml
+END
+AnnotationAddition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/AnnotationAddition.xml
+END
+RwFormatMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwFormatMenu.xml
+END
+ToolbarGridGraphButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarGridGraphButton.xml
+END
+ToolbarInsertMetricButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarInsertMetricButton.xml
+END
+GridFormatTargets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GridFormatTargets.xml
+END
+BoneTranslatorManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/BoneTranslatorManager.xml
+END
+FastTileProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/FastTileProperties.xml
+END
+ReportHomeToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportHomeToolbarModel.xml
+END
+ExpressionTreeCart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionTreeCart.xml
+END
+SampleFolderListModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SampleFolderListModel.xml
+END
+DualExpressionCartProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/DualExpressionCartProperties.xml
+END
+ToolbarFitToWindowButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFitToWindowButton.xml
+END
+RwToolsMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwToolsMenu.xml
+END
+ToolbarColorPickerHelper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarColorPickerHelper.xml
+END
+ColorPickerPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ColorPickerPopup.xml
+END
+ReportGraphToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportGraphToolbarModel.xml
+END
+RptHomeMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RptHomeMenu.xml
+END
+ToolbarUnderlineButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarUnderlineButton.xml
+END
+RMCPopup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RMCPopup.xml
+END
+PromptQuestionExtendedProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/PromptQuestionExtendedProperties.xml
+END
+SimpleColorPickerModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/SimpleColorPickerModel.xml
+END
+ToolbarNotesButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarNotesButton.xml
+END
+GraphFormatEditorFormatModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/GraphFormatEditorFormatModel.xml
+END
+LayoutTabSections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/LayoutTabSections.xml
+END
+ToolbarFlashButton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ToolbarFlashButton.xml
+END
+RwInsertWidgetMenuEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/RwInsertWidgetMenuEditor.xml
+END
+VBox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/VBox.xml
+END
+ExpressionPromptAnswerExtendedProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ExpressionPromptAnswerExtendedProperties.xml
+END
+ReportToolbarModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2662/Entrate/branches/MicroStrategySie9.4/MicroStrategySie/WEB-INF/xml/blocks/ReportToolbarModel.xml
+END

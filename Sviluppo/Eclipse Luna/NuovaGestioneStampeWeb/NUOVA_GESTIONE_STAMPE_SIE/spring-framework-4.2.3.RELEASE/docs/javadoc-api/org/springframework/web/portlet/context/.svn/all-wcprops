@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context
+END
+PortletContextAwareProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletContextAwareProcessor.html
+END
+PortletContextAware.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletContextAware.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/package-frame.html
+END
+PortletRequestHandledEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletRequestHandledEvent.html
+END
+PortletContextPropertySource.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletContextPropertySource.html
+END
+PortletContextResourcePatternResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletContextResourcePatternResolver.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/package-summary.html
+END
+PortletContextScope.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletContextScope.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/package-tree.html
+END
+StaticPortletApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/StaticPortletApplicationContext.html
+END
+PortletContextResourceLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletContextResourceLoader.html
+END
+PortletConfigAware.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletConfigAware.html
+END
+StandardPortletEnvironment.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/StandardPortletEnvironment.html
+END
+PortletWebRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletWebRequest.html
+END
+PortletApplicationObjectSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletApplicationObjectSupport.html
+END
+PortletApplicationContextUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletApplicationContextUtils.html
+END
+ConfigurablePortletApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/ConfigurablePortletApplicationContext.html
+END
+XmlPortletApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/XmlPortletApplicationContext.html
+END
+PortletConfigPropertySource.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletConfigPropertySource.html
+END
+PortletContextResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletContextResource.html
+END
+PortletRequestAttributes.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/PortletRequestAttributes.html
+END
+AbstractRefreshablePortletApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/portlet/context/AbstractRefreshablePortletApplicationContext.html
+END

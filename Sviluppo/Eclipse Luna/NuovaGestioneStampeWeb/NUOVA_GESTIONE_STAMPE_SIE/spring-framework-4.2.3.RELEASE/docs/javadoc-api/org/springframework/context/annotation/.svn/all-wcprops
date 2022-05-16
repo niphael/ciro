@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation
+END
+MBeanExportConfiguration.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/MBeanExportConfiguration.html
+END
+ContextAnnotationAutowireCandidateResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ContextAnnotationAutowireCandidateResolver.html
+END
+ConfigurationCondition.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ConfigurationCondition.html
+END
+Description.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Description.html
+END
+Primary.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Primary.html
+END
+Condition.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Condition.html
+END
+PropertySources.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/PropertySources.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/package-tree.html
+END
+AnnotationConfigRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AnnotationConfigRegistry.html
+END
+ConditionContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ConditionContext.html
+END
+ComponentScan.Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ComponentScan.Filter.html
+END
+AdviceModeImportSelector.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AdviceModeImportSelector.html
+END
+ImportBeanDefinitionRegistrar.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.html
+END
+ScopeMetadataResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ScopeMetadataResolver.html
+END
+AnnotatedBeanDefinitionReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AnnotatedBeanDefinitionReader.html
+END
+AdviceMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AdviceMode.html
+END
+Role.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Role.html
+END
+Conditional.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Conditional.html
+END
+Bean.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Bean.html
+END
+ComponentScan.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ComponentScan.html
+END
+LoadTimeWeavingConfiguration.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/LoadTimeWeavingConfiguration.html
+END
+ScannedGenericBeanDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ScannedGenericBeanDefinition.html
+END
+AnnotationBeanNameGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AnnotationBeanNameGenerator.html
+END
+Scope.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Scope.html
+END
+DeferredImportSelector.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/DeferredImportSelector.html
+END
+AnnotationConfigBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AnnotationConfigBeanDefinitionParser.html
+END
+DependsOn.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/DependsOn.html
+END
+CommonAnnotationBeanPostProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/CommonAnnotationBeanPostProcessor.html
+END
+Lazy.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Lazy.html
+END
+AnnotationConfigUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AnnotationConfigUtils.html
+END
+ImportResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ImportResource.html
+END
+ComponentScanBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ComponentScanBeanDefinitionParser.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/package-frame.html
+END
+ScopedProxyMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ScopedProxyMode.html
+END
+EnableLoadTimeWeaving.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/EnableLoadTimeWeaving.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/package-summary.html
+END
+AnnotationScopeMetadataResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AnnotationScopeMetadataResolver.html
+END
+FilterType.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/FilterType.html
+END
+AnnotationConfigApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AnnotationConfigApplicationContext.html
+END
+ImportAware.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ImportAware.html
+END
+EnableAspectJAutoProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/EnableAspectJAutoProxy.html
+END
+ClassPathBeanDefinitionScanner.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.html
+END
+EnableMBeanExport.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/EnableMBeanExport.html
+END
+AutoProxyRegistrar.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/AutoProxyRegistrar.html
+END
+ClassPathScanningCandidateComponentProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html
+END
+EnableLoadTimeWeaving.AspectJWeaving.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/EnableLoadTimeWeaving.AspectJWeaving.html
+END
+Profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Profile.html
+END
+CommonAnnotationBeanPostProcessor.LookupElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/CommonAnnotationBeanPostProcessor.LookupElement.html
+END
+Jsr330ScopeMetadataResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Jsr330ScopeMetadataResolver.html
+END
+ConfigurationClassPostProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ConfigurationClassPostProcessor.html
+END
+LoadTimeWeavingConfigurer.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/LoadTimeWeavingConfigurer.html
+END
+ConfigurationCondition.ConfigurationPhase.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ConfigurationCondition.ConfigurationPhase.html
+END
+MBeanExportConfiguration.SpecificPlatform.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/MBeanExportConfiguration.SpecificPlatform.html
+END
+PropertySource.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/PropertySource.html
+END
+Configuration.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Configuration.html
+END
+Import.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/Import.html
+END
+ScopeMetadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ScopeMetadata.html
+END
+ImportSelector.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/context/annotation/ImportSelector.html
+END

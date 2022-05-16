@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/web/controller
+END
+GestioneReportController.class
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/web/controller/GestioneReportController.class
+END
+MyAbstractController.class
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/web/controller/MyAbstractController.class
+END
+RedirectController.class
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/web/controller/RedirectController.class
+END
+RicercaStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/web/controller/RicercaStampeController.class
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard
+END
+ConvertingEncoderDecoderSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/ConvertingEncoderDecoderSupport.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/package-frame.html
+END
+ConvertingEncoderDecoderSupport.BinaryEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/ConvertingEncoderDecoderSupport.BinaryEncoder.html
+END
+ConvertingEncoderDecoderSupport.TextEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/ConvertingEncoderDecoderSupport.TextEncoder.html
+END
+StandardWebSocketHandlerAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/StandardWebSocketHandlerAdapter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/package-summary.html
+END
+StandardToWebSocketExtensionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/StandardToWebSocketExtensionAdapter.html
+END
+WebSocketToStandardExtensionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/WebSocketToStandardExtensionAdapter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/package-tree.html
+END
+ConvertingEncoderDecoderSupport.BinaryDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/ConvertingEncoderDecoderSupport.BinaryDecoder.html
+END
+ConvertingEncoderDecoderSupport.TextDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/ConvertingEncoderDecoderSupport.TextDecoder.html
+END
+StandardWebSocketSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/adapter/standard/StandardWebSocketSession.html
+END

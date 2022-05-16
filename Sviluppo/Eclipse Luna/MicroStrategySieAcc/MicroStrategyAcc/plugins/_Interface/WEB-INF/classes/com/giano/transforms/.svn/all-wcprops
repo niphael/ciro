@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms
+END
+AccessibleInputPromptTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/AccessibleInputPromptTransform.class
+END
+HeaderBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/HeaderBean.class
+END
+GianoFolderViewTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/GianoFolderViewTransform.class
+END
+SieAttributeFormsQualificationTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SieAttributeFormsQualificationTransform.class
+END
+SIERWLayoutTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SIERWLayoutTransform.class
+END
+SieElementPickerTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SieElementPickerTransform.class
+END
+ExportServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/ExportServlet.class
+END
+GianoFolderSmallIconTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/GianoFolderSmallIconTransform.class
+END
+AccessibleObjectCBPromptTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/AccessibleObjectCBPromptTransform.class
+END
+SIEExportRWTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SIEExportRWTransform.class
+END
+GianoContent.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/GianoContent.class
+END
+SIEHeader.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SIEHeader.class
+END
+SIEHeaderA.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SIEHeaderA.class
+END
+AccessiblePromptTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/AccessiblePromptTransform.class
+END
+GianoFolderIconTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/GianoFolderIconTransform.class
+END
+SIEEmpty.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SIEEmpty.class
+END
+AccessibleListBoxPromptTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/AccessibleListBoxPromptTransform.class
+END
+AccessibleCBPromptTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/AccessibleCBPromptTransform.class
+END
+SIEEmptyA.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SIEEmptyA.class
+END
+SieMetricQualLevelEditorTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SieMetricQualLevelEditorTransform.class
+END
+GianoProjectsTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/GianoProjectsTransform.class
+END
+LoginSIETransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/LoginSIETransform.class
+END
+SecurityPromptTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SecurityPromptTransform.class
+END
+AccessibleRadioButtonPromptTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/AccessibleRadioButtonPromptTransform.class
+END
+GianoError.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/GianoError.class
+END
+ReportTransformSIE.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/ReportTransformSIE.class
+END
+LoginContinueSIETransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/LoginContinueSIETransform.class
+END
+SIEExportReportTransform.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes/com/giano/transforms/SIEExportReportTransform.class
+END

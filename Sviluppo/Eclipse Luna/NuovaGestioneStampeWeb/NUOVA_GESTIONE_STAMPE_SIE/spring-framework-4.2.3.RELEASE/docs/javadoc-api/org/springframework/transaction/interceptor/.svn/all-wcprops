@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor
+END
+CompositeTransactionAttributeSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/CompositeTransactionAttributeSource.html
+END
+DefaultTransactionAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/DefaultTransactionAttribute.html
+END
+TransactionAttributeEditor.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionAttributeEditor.html
+END
+TransactionAspectSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionAspectSupport.html
+END
+TransactionAspectSupport.TransactionInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionAspectSupport.TransactionInfo.html
+END
+TransactionAttributeSourceAdvisor.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionAttributeSourceAdvisor.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/package-summary.html
+END
+MatchAlwaysTransactionAttributeSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/MatchAlwaysTransactionAttributeSource.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/package-tree.html
+END
+MethodMapTransactionAttributeSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/MethodMapTransactionAttributeSource.html
+END
+TransactionAttributeSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionAttributeSource.html
+END
+DelegatingTransactionAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/DelegatingTransactionAttribute.html
+END
+AbstractFallbackTransactionAttributeSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/AbstractFallbackTransactionAttributeSource.html
+END
+RuleBasedTransactionAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/RuleBasedTransactionAttribute.html
+END
+BeanFactoryTransactionAttributeSourceAdvisor.html
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/BeanFactoryTransactionAttributeSourceAdvisor.html
+END
+TransactionAttributeSourceEditor.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionAttributeSourceEditor.html
+END
+NoRollbackRuleAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/NoRollbackRuleAttribute.html
+END
+TransactionInterceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionInterceptor.html
+END
+TransactionalProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionalProxy.html
+END
+RollbackRuleAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/RollbackRuleAttribute.html
+END
+TransactionProxyFactoryBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionProxyFactoryBean.html
+END
+TransactionAspectSupport.InvocationCallback.html
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionAspectSupport.InvocationCallback.html
+END
+NameMatchTransactionAttributeSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/NameMatchTransactionAttributeSource.html
+END
+TransactionAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/transaction/interceptor/TransactionAttribute.html
+END

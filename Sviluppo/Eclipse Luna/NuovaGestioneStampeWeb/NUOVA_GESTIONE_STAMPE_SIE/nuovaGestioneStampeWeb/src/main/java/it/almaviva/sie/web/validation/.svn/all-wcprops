@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Entrate/!svn/ver/2398/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/validation
+END
+GestioneProfiliStampeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2398/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/validation/GestioneProfiliStampeValidator.java
+END
+BaseValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Entrate/!svn/ver/2358/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/validation/BaseValidation.java
+END
+InserimentoDestinatarioValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2358/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/validation/InserimentoDestinatarioValidator.java
+END
+RicercaPerCodiceDescrizioneValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2375/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/validation/RicercaPerCodiceDescrizioneValidator.java
+END

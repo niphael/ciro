@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit
+END
+MockMvcWebConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/MockMvcWebConnection.html
+END
+DelegatingWebConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/DelegatingWebConnection.html
+END
+MockMvcWebConnectionBuilderSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/MockMvcWebConnectionBuilderSupport.html
+END
+MockMvcWebClientBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/MockMvcWebClientBuilder.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/package-summary.html
+END
+DelegatingWebConnection.DelegateWebConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/DelegatingWebConnection.DelegateWebConnection.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/package-tree.html
+END
+HostRequestMatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/HostRequestMatcher.html
+END
+UrlRegexRequestMatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/UrlRegexRequestMatcher.html
+END
+WebRequestMatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/web/servlet/htmlunit/WebRequestMatcher.html
+END

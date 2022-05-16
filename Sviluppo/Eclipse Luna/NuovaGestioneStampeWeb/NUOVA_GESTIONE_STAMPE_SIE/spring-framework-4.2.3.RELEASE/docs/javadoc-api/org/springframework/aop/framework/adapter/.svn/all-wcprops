@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter
+END
+UnknownAdviceTypeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/UnknownAdviceTypeException.html
+END
+AdvisorAdapterRegistrationManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/AdvisorAdapterRegistrationManager.html
+END
+MethodBeforeAdviceInterceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/MethodBeforeAdviceInterceptor.html
+END
+AdvisorAdapterRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/AdvisorAdapterRegistry.html
+END
+ThrowsAdviceInterceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/ThrowsAdviceInterceptor.html
+END
+GlobalAdvisorAdapterRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/GlobalAdvisorAdapterRegistry.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/package-frame.html
+END
+DefaultAdvisorAdapterRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/DefaultAdvisorAdapterRegistry.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/package-summary.html
+END
+AdvisorAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/AdvisorAdapter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/package-tree.html
+END
+AfterReturningAdviceInterceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/aop/framework/adapter/AfterReturningAdviceInterceptor.html
+END

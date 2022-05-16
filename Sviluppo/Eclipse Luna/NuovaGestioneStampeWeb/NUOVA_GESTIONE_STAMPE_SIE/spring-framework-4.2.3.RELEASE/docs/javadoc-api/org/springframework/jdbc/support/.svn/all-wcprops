@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support
+END
+CustomSQLExceptionTranslatorRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/CustomSQLExceptionTranslatorRegistry.html
+END
+SQLErrorCodeSQLExceptionTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator.html
+END
+SQLErrorCodesFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/SQLErrorCodesFactory.html
+END
+MetaDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/MetaDataAccessException.html
+END
+DatabaseMetaDataCallback.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/DatabaseMetaDataCallback.html
+END
+JdbcUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/JdbcUtils.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/package-frame.html
+END
+JdbcAccessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/JdbcAccessor.html
+END
+KeyHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/KeyHolder.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/package-summary.html
+END
+SQLErrorCodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/SQLErrorCodes.html
+END
+SQLExceptionTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/SQLExceptionTranslator.html
+END
+SQLExceptionSubclassTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/SQLExceptionSubclassTranslator.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/package-tree.html
+END
+SqlValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/SqlValue.html
+END
+AbstractFallbackSQLExceptionTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/AbstractFallbackSQLExceptionTranslator.html
+END
+DatabaseStartupValidator.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/DatabaseStartupValidator.html
+END
+CustomSQLErrorCodesTranslation.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/CustomSQLErrorCodesTranslation.html
+END
+GeneratedKeyHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/GeneratedKeyHolder.html
+END
+CustomSQLExceptionTranslatorRegistrar.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/CustomSQLExceptionTranslatorRegistrar.html
+END
+SQLStateSQLExceptionTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/jdbc/support/SQLStateSQLExceptionTranslator.html
+END

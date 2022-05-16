@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: MicroStrategy, Inc
+Built-By: MicroStrategy, Inc
+Specification-Title: 7.3
+Specification-Version: 7.3
+Specification-Vendor: MicroStrategy, Inc
+Implementation-Title: 9.4.1200.0055
+Implementation-Version: 9.4.1200.0055
+Implementation-Vendor: MicroStrategy, Inc
+

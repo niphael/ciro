@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/model
+END
+DAnagraficheStampeVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/model/DAnagraficheStampeVO.class
+END
+DProfiloVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/model/DProfiloVO.class
+END
+Utente.class
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/model/Utente.class
+END
+DUtentiProfiliVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/model/DUtentiProfiliVO.class
+END
+Profilo.class
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/model/Profilo.class
+END

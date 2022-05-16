@@ -1,0 +1,7 @@
+<!DOCTYPE aggregatingTaskFactory SYSTEM "dtds/aggregatingTaskFactory.dtd">
+<aggregatingTaskFactory>
+  <tasks>
+	<task registerAs="updateServerProperties" class="com.microstrategy.web.ipa.tasks.UpdateServerPropertiesTask" adminTask="true"/>
+	<task registerAs="webServerAdmin" class="com.microstrategy.web.ipa.tasks.WebServerAdminTask" adminTask="true"/>
+  </tasks>
+</aggregatingTaskFactory>

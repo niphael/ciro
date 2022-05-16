@@ -1,0 +1,229 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: clmgr-manager-view.css for cluster manager view
+*/
+
+/* Chart area */
+.com-chart-legend{
+	color:#790000;
+	position:absolute;
+	top:20px;
+	left:-5px;
+	width:625px;
+	height:10px;
+	background: -webkit-gradient(linear, left top, right top, from(#7cc5d9), to(#790000), color-stop(0.7, #790000)); 
+	background: -moz-linear-gradient(left top, #7cc5d9, #790000 70%);
+}
+
+.com-bold-lbl{
+	font-weight:bold;
+}
+
+.com-isvr-lbl-font{	
+	font-size: 9pt;
+	padding-right:10px;
+}
+
+.com-isvr-lbl-bold-font{
+	font-size:9pt;
+	padding-right:10px;
+	font-weight:bold;
+}
+
+.com-isvr-popup-headerLbl{
+	width:100%; 
+	margin:0px; 
+	font-weight: bold;
+}
+
+.com-isvr-popup-box{
+	margin-left:15px;
+}
+
+.com-section-lbl{
+	font: bold 10pt Tahoma, Arial, Verdana;	
+	padding-left:5px;
+}
+.com-section-padding{	
+	padding-left:5px;
+}
+
+.com-section-actionBtn{
+	float:right;
+	margin-right:5px;
+}
+
+.com-section-panelbox{
+	width: 98%;
+	height: 25px;
+	background-color: #D8D8D8; 
+	color: black;
+	font: bold 9pt Tahoma, Arial, Verdana;
+	margin: 10px 0px 0px 10px;	
+	padding: 5px;	
+}
+
+.com-isvr-list-box{
+	position:relative;
+	height:100%;
+	width:100%;
+	margin-left:6px;
+	margin-bottom:5px;
+	overflow:hidden;
+	float:left;
+}
+
+.com-isvr-list{
+	margin: 7px 5px 5px 10px;   
+	font-family:Tahoma, Arial, Helvetica, sans-serif;
+	min-width:915px;
+	width:82em;
+	background-color: #b6b6b6;
+	border: 1px solid #b6b6b6;
+	border-collapse: separated;
+	border-spacing: 0;
+	overflow-y: auto;
+    -moz-border-radius: 3px;
+	border-radius: 5px;
+}
+
+.com-isvr-list-boxcontent{
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+
+.com-isvr-tile{
+	position:relative;
+	height:100%;
+	margin-right: 6px;
+	float:left;
+}
+
+.com-isvr-proj-leftIcon{
+	cursor: pointer;
+    width: 8px;
+	height: auto;
+	padding: 0px 1px 1px 5px;
+    border-color: #EEE #787878 #787878 #EEE;		    
+    background:url(images/arrow_blu_left_6x9.gif) no-repeat center right;        
+	border-width: 1px;			  	
+}
+
+.com-isvr-proj-rightIcon{
+	cursor: pointer;
+    width: 8px;
+	height: auto;
+	padding: 0px 1px 1px 5px;    
+    border-color: #EEE #787878 #787878 #EEE;		    
+    background:url(images/arrow_blu_right_6x9.gif) no-repeat center right;        
+	border-width: 1px;			  	
+}
+
+/* I-Server Summary Box selectors */
+.com-isvr-summary-lbl{
+	text-align:center;
+	font-weight:bold;
+	font-size:10pt;
+	width:100%;
+	padding-right:15px;
+}
+
+.com-isvr-summary-detailLbl{
+	padding-left:10px;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.com-isvr-summary-proj-tbl{
+	margin: 2px 0px 3px 3px;
+	font-size:8pt;
+	height:40px;
+}
+
+.com-isvr-summary-box{
+	height: 145px;
+	width:444px;
+	position:relative;
+	margin: 10px 0px 4px 3px;
+	padding: 3px 3px 3px 7px;
+	overflow: visible;
+    border-radius: 4px 4px 4px 4px; 
+	border:1px solid #BABABA;
+    -moz-border-radius: 4px;
+	//-webkit-box-shadow: -1px 0px 1px 1px #AAA,1px 2px 1px 1px #AAA;
+	//-moz-box-shadow: -1px 0px 1px 1px #AAA,1px 2px 1px 1px #AAA;
+	//box-shadow: inset 1px 1px 1px 1px #AAA,1px 2px 1px 1px #AAA;
+	background-image:#f2f2f2; 
+	background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0.5, #fafafa), to(#f2f2f2)); 
+	background-image:-moz-linear-gradient(top, #fafafa 50%, #f2f2f2);
+	background-image: "linear-gradient(top, #fafafa, #f2f2f2)"; 
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#fafafa', EndColorStr='#f2f2f2')"; /* IE8 */		
+}
+
+/* I-Server Expanded Box selectors */
+.com-isvr-expanded-box{
+	height: 148px;
+	width: 885px;
+	margin: 6px 5px 5px 10px;
+	padding: 3px 3px 3px 7px;
+	overflow: visible; 
+	border:1px solid #BABABA;
+    -moz-border-radius: 4px;
+	//-webkit-box-shadow: -1px 0px 1px 1px #AAA,1px 2px 1px 1px #AAA;
+	//-moz-box-shadow: -1px 0px 1px 1px #AAA,1px 2px 1px 1px #AAA;
+	//box-shadow: inset 1px 1px 1px 1px #AAA,1px 2px 1px 1px #AAA;
+	background-image:#f2f2f2; 
+	background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0.5, #fafafa), to(#f2f2f2)); 
+	background-image:-moz-linear-gradient(top, #fafafa 50%, #f2f2f2);
+	background-image: "linear-gradient(top, #fafafa, #f2f2f2)"; 
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#fafafa', EndColorStr='#f2f2f2')"; /* IE8 */
+}
+
+.com-isvr-expanded-lbl{
+	text-align:center;
+	font-weight:bold;
+	font-size:10pt;
+	width:100%;
+	padding-right:15px;
+}
+
+.com-isvr-proj-box{
+	margin-top:8px;
+	margin-left:20px;
+	height:95px;
+}
+
+.com-isvr-proj-actionBtn{
+	text-decoration:underline;
+	color:blue;
+	font-size:8.5pt;
+	text-align:left;
+	width:100%;
+}
+
+.com-isvr-expanded-projHeader-box{
+	background-color: #707070;
+	color: white; 
+	font-size:9pt;
+	height:25px;
+}
+
+.com-isvr-summary-tbl{
+	margin: 7px 0px 10px 10px;
+}
+
+.com-isvr-expanded-proj-tbl{
+	margin: 2px 0px 3px 3px;
+	font-size:8pt;
+}
+
+.com-isvr-projpages-box{
+	width:inherit;
+	background-color:#707070;
+}
+
+.com-isvr-projpages-boxlayout{
+	margin-left:auto;
+	margin-right:auto;
+}

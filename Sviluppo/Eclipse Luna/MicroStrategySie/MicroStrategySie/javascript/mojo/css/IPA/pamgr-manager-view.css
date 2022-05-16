@@ -1,0 +1,120 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: pamgr-manager-view.css for language manager view
+*/
+
+.pamgr-box{
+	width: 98%;	
+}
+
+.pamgr-proj-lbl{
+	margin-left:10px;margin-top:10px;
+}
+
+.pamgr-proj-select{
+	width:auto;margin-top:10px;
+}
+
+.pamgr-info-lbl{
+	margin:10px;
+}
+
+.pamgr-dataGrid{
+	margin: 5px;
+	width: 98%;
+	height: auto;
+	margin:10px;
+	margin-bottom:10px;
+}
+
+.pamgr-dataGrid .mstrmojo-DataGrid-itemsScrollBox{
+	max-height:180px;
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+
+.pamgr-project-col{
+	margin-left:5px;margin-right:auto;width:7em;
+}
+
+.pamgr-col-lbl{
+	text-align:left;padding-left:5px;
+}
+
+.pamgr-secRole-col{
+	margin-left:5px;margin-right:auto;width:12em;
+}
+
+.pamgr-user-col{
+	margin-left:5px;margin-right:auto;width:12em;
+}
+
+.pamgr-action-btn{
+	font-size: 11px;text-decoration:underline;color:blue;
+}
+
+.pamgr-warning-lbl{
+	position:absolute;left:80px;top:40px;
+}
+
+.pamgr-addEdit-action-lbl{
+	margin:10px;text-decoration:underline;color:blue;cursor:pointer;
+}
+
+.pamgr-import-lbl{
+	margin:10px;
+	margin-left:155px;
+	text-decoration:underline;
+	color:blue;
+	cursor:pointer;
+}
+
+.pamgr-addEdit-tbl{
+	width:98%;margin:10px;margin-top:0;border:1px solid #ccc;height:20px;
+}
+
+.pamgr-addEdit-lbl{
+	margin-left:10px;margin-top:10px; margin-bottom:10px;width:100px;
+}
+
+.pamgr-select-box{
+	width:260px;
+}
+
+.pamgr-button {
+    border: 1px outset #999999;
+    background: #B0B0B0 url(images/glass.png) 0 50% repeat-x;
+    text-align: center;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.pamgr-button-popupNode {
+    position: absolute;
+    z-index: 10;
+}
+
+.pamgr-button-iconNode {
+    height: 10px;
+}
+
+.pamgr-button:hover{
+background: #B4E1EC;
+}
+
+.pamgr-button:active{
+background: #9CC3CD;
+}
+
+.pamgr-button.selected{
+background: #B4E1EC;
+}
+
+.pamgr-listbox{
+	max-height:107px;overflow-y:scroll;border: inset 1px;width:255px;
+}
+
+.pamgr-status-text{
+	text-align: center;
+}

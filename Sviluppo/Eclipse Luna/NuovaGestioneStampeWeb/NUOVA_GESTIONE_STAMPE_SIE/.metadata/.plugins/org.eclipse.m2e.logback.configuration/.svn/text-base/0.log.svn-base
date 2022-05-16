@@ -1,0 +1,6 @@
+2016-01-05 14:35:40,526 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-01-05 14:35:47,646 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\nuovaGestioneStampe\simulatoreWeb
+2016-01-05 14:35:47,672 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2016-01-05 15:36:52,253 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-01-05 15:36:57,179 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\nuovaGestioneStampe\simulatoreWeb
+2016-01-05 15:36:57,181 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package

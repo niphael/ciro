@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p" xmlns:aop="http://www.springframework.org/schema/aop"
+ 	 xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+		http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+		http://www.springframework.org/schema/tx
+        http://www.springframework.org/schema/tx/spring-tx.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.2.xsd">
+
+	<!-- Enable annotation-based validation using Bean Validation Framework 
+		<bean id="configurationLoader" class="org.springmodules.validation.bean.conf.loader.annotation.AnnotationBeanValidationConfigurationLoader"/> 
+		<bean id="validator" class="org.springmodules.validation.bean.BeanValidator" 
+		p:configurationLoader-ref="configurationLoader"/> -->
+		
+		
+	<bean id="dProfiloServiceImpl" class="it.almaviva.sie.business.service.DProfiloServiceImpl"/>
+	<bean id="dAnagraficheStampeServiceImpl" class="it.almaviva.sie.business.service.DAnagraficheStampeServiceImpl"/>
+	<!-- enable the configuration of transactional behavior based on annotations -->
+    <tx:annotation-driven transaction-manager="dataSourceTransactionManager"/>
+	<!-- Load messages -->
+	<bean id="dataSource"
+		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+		<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="url" value="jdbc:oracle:thin:@xdc1-scan.tesoro.it:1521:GESP15C" />
+		<property name="username" value="U_SIE" />
+		<property name="password" value="SIE" />
+	</bean>
+		<!-- JNDI DataSource for J2EE environments -->
+    <bean id="jndiDataSource" class="org.springframework.jndi.JndiObjectFactoryBean">
+        <property name="jndiName"        value="jdbc/sieDS"/>
+        <property name="lookupOnStartup" value="false"/>
+        <property name="proxyInterface"  value="javax.sql.DataSource"/>
+    </bean>
+	<bean id="dataSourceTransactionManager"
+		class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="jndiDataSource" />
+	</bean>
+
+	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+		<property name="dataSource" ref="dataSource" />
+		<property name="typeAliasesPackage" value="it.almaviva.sie.business.model" />
+		<property name="mapperLocations"
+			value="classpath*:it/almaviva/sie/business/mappers/*.xml" />
+	</bean>
+	<bean id="sqlSession" class="org.mybatis.spring.SqlSessionTemplate">
+		<constructor-arg index="0" ref="sqlSessionFactory" />
+	</bean>
+	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+		<property name="basePackage" value="it.almaviva.sie.business.mappers" />
+	</bean>
+	<bean id="messageSource"
+		class="org.springframework.context.support.ResourceBundleMessageSource"
+		p:basename="messages" />
+	<!-- Discover POJO @Components -->
+	<!-- These automatically register an AutowiredAnnotationBeanPostProcessor -->
+	<context:component-scan base-package="it.almaviva.sie" />
+
+	<!-- - This bean processes annotated handler methods, applying specific 
+		PropertyEditors - for request parameter binding. It overrides the default 
+		AnnotationMethodHandlerAdapter. -->
+	<bean
+		class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
+		<!--<property name="webBindingInitializer"> <bean class="it.almaviva.conteco.web.util.CustomBindingInitializer"/> 
+			</property> -->
+	</bean>
+	<!-- validatore controlle gestione stati flussi Xml <bean id="validazioneFlussiXmlValidator" 
+		autowire="autodetect" class="it.almaviva.conteco.web.validation.ValidazioneFlussiXmlValidator" 
+		/> -->
+	<!-- - This bean resolves specific types of exceptions to corresponding 
+		logical - view names for error views. The default behaviour of DispatcherServlet 
+		- is to propagate all exceptions to the servlet container: this will happen 
+		- here with all other types of exceptions. -->
+	<bean
+		class="org.springframework.web.servlet.handler.SimpleMappingExceptionResolver">
+		<property name="exceptionMappings">
+			<props>
+				<prop key="it.almaviva.sie.business.util.ApplicationException">error</prop>
+			</props>
+		</property>
+	</bean>
+
+	<!-- Map logical view names to physical views -->
+	<bean id="viewResolver"
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver"
+		p:prefix="" p:suffix=".jsp" />
+
+	<bean id="propertyConfigurer" class="it.almaviva.sie.business.util.PropertyConfigurer">
+		<property name="locations">
+			<list>
+				<value>classpath:general.properties
+				</value>
+			</list>
+		</property>
+	</bean>
+
+	<!-- inizio implementazione dell'interfaccia MultipartResolver per l'upload 
+		dei file -->
+	<bean id="multipartResolver"
+		class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+
+		<!-- one of the properties available; the maximum file size in bytes -->
+		<!-- property name="maxUploadSize" value="100000000" /> -->
+
+	</bean>
+	<!-- fine implementazione dell'interfaccia MultipartResolver per l'upload 
+		dei file -->
+
+
+</beans>
+

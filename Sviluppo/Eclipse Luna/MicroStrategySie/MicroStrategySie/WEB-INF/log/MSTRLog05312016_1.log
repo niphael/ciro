@@ -1,0 +1,2106 @@
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464676205365</miliseconds>
+  <timestamp>05/31/2016 08:30:05:367</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464676205368</miliseconds>
+  <timestamp>05/31/2016 08:30:05:371</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464676205372</miliseconds>
+  <timestamp>05/31/2016 08:30:05:375</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464676205376</miliseconds>
+  <timestamp>05/31/2016 08:30:05:379</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464676205379</miliseconds>
+  <timestamp>05/31/2016 08:30:05:382</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464676205382</miliseconds>
+  <timestamp>05/31/2016 08:30:05:385</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464676207084</miliseconds>
+  <timestamp>05/31/2016 08:30:07:104</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464676223078</miliseconds>
+  <timestamp>05/31/2016 08:30:23:082</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464676729062</miliseconds>
+  <timestamp>05/31/2016 08:38:49:062</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677376442</miliseconds>
+  <timestamp>05/31/2016 08:49:36:443</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677376444</miliseconds>
+  <timestamp>05/31/2016 08:49:36:447</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677376447</miliseconds>
+  <timestamp>05/31/2016 08:49:36:450</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677376451</miliseconds>
+  <timestamp>05/31/2016 08:49:36:453</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677376454</miliseconds>
+  <timestamp>05/31/2016 08:49:36:457</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677376457</miliseconds>
+  <timestamp>05/31/2016 08:49:36:460</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677378853</miliseconds>
+  <timestamp>05/31/2016 08:49:38:856</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677445188</miliseconds>
+  <timestamp>05/31/2016 08:50:45:192</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677653833</miliseconds>
+  <timestamp>05/31/2016 08:54:13:834</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677653835</miliseconds>
+  <timestamp>05/31/2016 08:54:13:838</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677653839</miliseconds>
+  <timestamp>05/31/2016 08:54:13:842</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677653842</miliseconds>
+  <timestamp>05/31/2016 08:54:13:845</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677653845</miliseconds>
+  <timestamp>05/31/2016 08:54:13:849</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677653849</miliseconds>
+  <timestamp>05/31/2016 08:54:13:852</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677655469</miliseconds>
+  <timestamp>05/31/2016 08:54:15:474</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677812056</miliseconds>
+  <timestamp>05/31/2016 08:56:52:057</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677812057</miliseconds>
+  <timestamp>05/31/2016 08:56:52:061</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677812061</miliseconds>
+  <timestamp>05/31/2016 08:56:52:065</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677812065</miliseconds>
+  <timestamp>05/31/2016 08:56:52:068</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677812069</miliseconds>
+  <timestamp>05/31/2016 08:56:52:072</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677812072</miliseconds>
+  <timestamp>05/31/2016 08:56:52:075</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677813437</miliseconds>
+  <timestamp>05/31/2016 08:56:53:441</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464677827784</miliseconds>
+  <timestamp>05/31/2016 08:57:07:788</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464678018984</miliseconds>
+  <timestamp>05/31/2016 09:00:18:985</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464678018985</miliseconds>
+  <timestamp>05/31/2016 09:00:18:989</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464678018989</miliseconds>
+  <timestamp>05/31/2016 09:00:18:992</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464678018993</miliseconds>
+  <timestamp>05/31/2016 09:00:18:996</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464678018996</miliseconds>
+  <timestamp>05/31/2016 09:00:19:000</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464678019000</miliseconds>
+  <timestamp>05/31/2016 09:00:19:004</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464678037287</miliseconds>
+  <timestamp>05/31/2016 09:00:37:288</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464679078567</miliseconds>
+  <timestamp>05/31/2016 09:17:58:571</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464679114449</miliseconds>
+  <timestamp>05/31/2016 09:18:34:450</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464679114451</miliseconds>
+  <timestamp>05/31/2016 09:18:34:455</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464679114455</miliseconds>
+  <timestamp>05/31/2016 09:18:34:459</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464679114459</miliseconds>
+  <timestamp>05/31/2016 09:18:34:463</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464679114463</miliseconds>
+  <timestamp>05/31/2016 09:18:34:467</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464679114467</miliseconds>
+  <timestamp>05/31/2016 09:18:34:471</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464679115999</miliseconds>
+  <timestamp>05/31/2016 09:18:36:003</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464679127027</miliseconds>
+  <timestamp>05/31/2016 09:18:47:032</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681710619</miliseconds>
+  <timestamp>05/31/2016 10:01:50:620</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681710621</miliseconds>
+  <timestamp>05/31/2016 10:01:50:625</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681710625</miliseconds>
+  <timestamp>05/31/2016 10:01:50:629</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681710629</miliseconds>
+  <timestamp>05/31/2016 10:01:50:633</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681710633</miliseconds>
+  <timestamp>05/31/2016 10:01:50:637</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681710637</miliseconds>
+  <timestamp>05/31/2016 10:01:50:640</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681713871</miliseconds>
+  <timestamp>05/31/2016 10:01:53:871</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681732342</miliseconds>
+  <timestamp>05/31/2016 10:02:12:346</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681859342</miliseconds>
+  <timestamp>05/31/2016 10:04:19:346</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681880715</miliseconds>
+  <timestamp>05/31/2016 10:04:40:718</timestamp>
+  <thread>3</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:850)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doPost(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464681940489</miliseconds>
+  <timestamp>05/31/2016 10:05:40:493</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682060896</miliseconds>
+  <timestamp>05/31/2016 10:07:40:900</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682587304</miliseconds>
+  <timestamp>05/31/2016 10:16:27:306</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682587306</miliseconds>
+  <timestamp>05/31/2016 10:16:27:311</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682587311</miliseconds>
+  <timestamp>05/31/2016 10:16:27:316</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682587316</miliseconds>
+  <timestamp>05/31/2016 10:16:27:320</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682587320</miliseconds>
+  <timestamp>05/31/2016 10:16:27:324</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682587324</miliseconds>
+  <timestamp>05/31/2016 10:16:27:328</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682590171</miliseconds>
+  <timestamp>05/31/2016 10:16:30:171</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682597316</miliseconds>
+  <timestamp>05/31/2016 10:16:37:320</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682633615</miliseconds>
+  <timestamp>05/31/2016 10:17:13:620</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682652465</miliseconds>
+  <timestamp>05/31/2016 10:17:32:469</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682898643</miliseconds>
+  <timestamp>05/31/2016 10:21:38:645</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682898646</miliseconds>
+  <timestamp>05/31/2016 10:21:38:652</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682898652</miliseconds>
+  <timestamp>05/31/2016 10:21:38:656</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682898657</miliseconds>
+  <timestamp>05/31/2016 10:21:38:661</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682898661</miliseconds>
+  <timestamp>05/31/2016 10:21:38:667</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682898667</miliseconds>
+  <timestamp>05/31/2016 10:21:38:672</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682900527</miliseconds>
+  <timestamp>05/31/2016 10:21:40:533</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682929721</miliseconds>
+  <timestamp>05/31/2016 10:22:09:726</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682945622</miliseconds>
+  <timestamp>05/31/2016 10:22:25:626</timestamp>
+  <thread>2</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:850)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doPost(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+  <userName>ASSISTENZA.ENTRATE</userName>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464682962863</miliseconds>
+  <timestamp>05/31/2016 10:22:42:867</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464683068024</miliseconds>
+  <timestamp>05/31/2016 10:24:28:024</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464683152437</miliseconds>
+  <timestamp>05/31/2016 10:25:52:441</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464683709233</miliseconds>
+  <timestamp>05/31/2016 10:35:09:237</timestamp>
+  <thread>4</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464683813739</miliseconds>
+  <timestamp>05/31/2016 10:36:53:743</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464683873257</miliseconds>
+  <timestamp>05/31/2016 10:37:53:261</timestamp>
+  <thread>5</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464683908189</miliseconds>
+  <timestamp>05/31/2016 10:38:28:192</timestamp>
+  <thread>4</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464683951286</miliseconds>
+  <timestamp>05/31/2016 10:39:11:291</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464684027001</miliseconds>
+  <timestamp>05/31/2016 10:40:27:005</timestamp>
+  <thread>5</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685370583</miliseconds>
+  <timestamp>05/31/2016 11:02:50:583</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685378734</miliseconds>
+  <timestamp>05/31/2016 11:02:58:779</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685391751</miliseconds>
+  <timestamp>05/31/2016 11:03:11:757</timestamp>
+  <thread>5</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685437244</miliseconds>
+  <timestamp>05/31/2016 11:03:57:245</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685437245</miliseconds>
+  <timestamp>05/31/2016 11:03:57:250</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685437250</miliseconds>
+  <timestamp>05/31/2016 11:03:57:255</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685437255</miliseconds>
+  <timestamp>05/31/2016 11:03:57:260</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685437260</miliseconds>
+  <timestamp>05/31/2016 11:03:57:264</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685437264</miliseconds>
+  <timestamp>05/31/2016 11:03:57:268</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685439204</miliseconds>
+  <timestamp>05/31/2016 11:03:59:208</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685446890</miliseconds>
+  <timestamp>05/31/2016 11:04:06:895</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685455754</miliseconds>
+  <timestamp>05/31/2016 11:04:15:760</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685521260</miliseconds>
+  <timestamp>05/31/2016 11:05:21:260</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685566842</miliseconds>
+  <timestamp>05/31/2016 11:06:06:843</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685566843</miliseconds>
+  <timestamp>05/31/2016 11:06:06:847</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685566847</miliseconds>
+  <timestamp>05/31/2016 11:06:06:851</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685566851</miliseconds>
+  <timestamp>05/31/2016 11:06:06:855</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685566855</miliseconds>
+  <timestamp>05/31/2016 11:06:06:859</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685566859</miliseconds>
+  <timestamp>05/31/2016 11:06:06:863</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685569039</miliseconds>
+  <timestamp>05/31/2016 11:06:09:044</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464685621612</miliseconds>
+  <timestamp>05/31/2016 11:07:01:633</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464686433897</miliseconds>
+  <timestamp>05/31/2016 11:20:33:898</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464686512798</miliseconds>
+  <timestamp>05/31/2016 11:21:52:834</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464686548437</miliseconds>
+  <timestamp>05/31/2016 11:22:28:441</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464686557798</miliseconds>
+  <timestamp>05/31/2016 11:22:37:802</timestamp>
+  <thread>1</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateMinMax(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebElementsPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.answerMDPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.answerMDPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.answerPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.processPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.processPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.handleProcessAllPrompts(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.delegateRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.delegateRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ReportFrameEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.delegateRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PageEventHandlerImpl.delegateRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PageEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ReportPageEventHandler.handleDefaultRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ReportPageEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doPost(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464686557807</miliseconds>
+  <timestamp>05/31/2016 11:22:37:812</timestamp>
+  <thread>1</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateMinMax(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebObjectsPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.answerMDPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.answerMDPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.answerPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.processPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.processPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.handleProcessAllPrompts(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.PromptsEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.delegateRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.delegateRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ReportFrameEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.delegateRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PageEventHandlerImpl.delegateRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PageEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ReportPageEventHandler.handleDefaultRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ReportPageEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doPost(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464686571582</miliseconds>
+  <timestamp>05/31/2016 11:22:51:588</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464686973401</miliseconds>
+  <timestamp>05/31/2016 11:29:33:461</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687777876</miliseconds>
+  <timestamp>05/31/2016 11:42:57:883</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687822716</miliseconds>
+  <timestamp>05/31/2016 11:43:42:716</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687822717</miliseconds>
+  <timestamp>05/31/2016 11:43:42:722</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687822722</miliseconds>
+  <timestamp>05/31/2016 11:43:42:726</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687822726</miliseconds>
+  <timestamp>05/31/2016 11:43:42:730</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687822730</miliseconds>
+  <timestamp>05/31/2016 11:43:42:735</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687822735</miliseconds>
+  <timestamp>05/31/2016 11:43:42:739</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687824667</miliseconds>
+  <timestamp>05/31/2016 11:43:44:673</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687835525</miliseconds>
+  <timestamp>05/31/2016 11:43:55:529</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464687884133</miliseconds>
+  <timestamp>05/31/2016 11:44:44:137</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464688326142</miliseconds>
+  <timestamp>05/31/2016 11:52:06:143</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464688326144</miliseconds>
+  <timestamp>05/31/2016 11:52:06:148</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464688326148</miliseconds>
+  <timestamp>05/31/2016 11:52:06:153</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464688326153</miliseconds>
+  <timestamp>05/31/2016 11:52:06:157</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464688326157</miliseconds>
+  <timestamp>05/31/2016 11:52:06:161</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464688326161</miliseconds>
+  <timestamp>05/31/2016 11:52:06:165</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464688329552</miliseconds>
+  <timestamp>05/31/2016 11:52:09:552</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464688338006</miliseconds>
+  <timestamp>05/31/2016 11:52:18:006</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689654163</miliseconds>
+  <timestamp>05/31/2016 12:14:14:164</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689654165</miliseconds>
+  <timestamp>05/31/2016 12:14:14:169</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689654169</miliseconds>
+  <timestamp>05/31/2016 12:14:14:173</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689654173</miliseconds>
+  <timestamp>05/31/2016 12:14:14:177</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689654177</miliseconds>
+  <timestamp>05/31/2016 12:14:14:182</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689654182</miliseconds>
+  <timestamp>05/31/2016 12:14:14:186</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689656383</miliseconds>
+  <timestamp>05/31/2016 12:14:16:387</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689663182</miliseconds>
+  <timestamp>05/31/2016 12:14:23:187</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689756840</miliseconds>
+  <timestamp>05/31/2016 12:15:56:854</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464689825616</miliseconds>
+  <timestamp>05/31/2016 12:17:05:623</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464691091781</miliseconds>
+  <timestamp>05/31/2016 12:38:11:781</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464691099099</miliseconds>
+  <timestamp>05/31/2016 12:38:19:142</timestamp>
+  <thread>3</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doPost(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+  <userName>ASSISTENZA.ENTRATE</userName>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464691119066</miliseconds>
+  <timestamp>05/31/2016 12:38:39:110</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464691138456</miliseconds>
+  <timestamp>05/31/2016 12:38:58:462</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464691140416</miliseconds>
+  <timestamp>05/31/2016 12:39:00:420</timestamp>
+  <thread>4</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.RWLayoutTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.RWLayoutTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractResultSetBean.doTransform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractResultSetBean.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebBean.generateOutput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.FrameGenericTransform.generateSimpleMode(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.FrameGenericTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.RW_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(RW_005fContent_jsp.java:540)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.RW_005fContent_jsp._jspx_meth_web_005fthen_005f1(RW_005fContent_jsp.java:449)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.RW_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f0(RW_005fContent_jsp.java:398)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.RW_005fContent_jsp._jspx_meth_web_005fthen_005f0(RW_005fContent_jsp.java:214)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.RW_005fContent_jsp._jspx_meth_web_005fifFeature_005f0(RW_005fContent_jsp.java:155)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.RW_005fContent_jsp._jspService(RW_005fContent_jsp.java:116)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692306750</miliseconds>
+  <timestamp>05/31/2016 12:58:26:751</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692306751</miliseconds>
+  <timestamp>05/31/2016 12:58:26:766</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692306766</miliseconds>
+  <timestamp>05/31/2016 12:58:26:770</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692306770</miliseconds>
+  <timestamp>05/31/2016 12:58:26:775</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692306775</miliseconds>
+  <timestamp>05/31/2016 12:58:26:779</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692306780</miliseconds>
+  <timestamp>05/31/2016 12:58:26:784</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692308501</miliseconds>
+  <timestamp>05/31/2016 12:58:28:549</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692359558</miliseconds>
+  <timestamp>05/31/2016 12:59:19:570</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692363811</miliseconds>
+  <timestamp>05/31/2016 12:59:23:815</timestamp>
+  <thread>2</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+  <userName>ASSISTENZA.ENTRATE</userName>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464692363822</miliseconds>
+  <timestamp>05/31/2016 12:59:23:827</timestamp>
+  <thread>2</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+  <userName>ASSISTENZA.ENTRATE</userName>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699428494</miliseconds>
+  <timestamp>05/31/2016 14:57:08:495</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699428508</miliseconds>
+  <timestamp>05/31/2016 14:57:08:513</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699428513</miliseconds>
+  <timestamp>05/31/2016 14:57:08:517</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699428518</miliseconds>
+  <timestamp>05/31/2016 14:57:08:522</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699428522</miliseconds>
+  <timestamp>05/31/2016 14:57:08:526</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699428526</miliseconds>
+  <timestamp>05/31/2016 14:57:08:531</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699430386</miliseconds>
+  <timestamp>05/31/2016 14:57:10:404</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699442405</miliseconds>
+  <timestamp>05/31/2016 14:57:22:410</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699481320</miliseconds>
+  <timestamp>05/31/2016 14:58:01:343</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699484364</miliseconds>
+  <timestamp>05/31/2016 14:58:04:368</timestamp>
+  <thread>3</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699484375</miliseconds>
+  <timestamp>05/31/2016 14:58:04:380</timestamp>
+  <thread>3</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699516850</miliseconds>
+  <timestamp>05/31/2016 14:58:36:855</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699517508</miliseconds>
+  <timestamp>05/31/2016 14:58:37:515</timestamp>
+  <thread>1</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699517519</miliseconds>
+  <timestamp>05/31/2016 14:58:37:524</timestamp>
+  <thread>1</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464699538560</miliseconds>
+  <timestamp>05/31/2016 14:58:58:565</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464702091377</miliseconds>
+  <timestamp>05/31/2016 15:41:31:377</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464702114739</miliseconds>
+  <timestamp>05/31/2016 15:41:54:753</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464702147170</miliseconds>
+  <timestamp>05/31/2016 15:42:27:175</timestamp>
+  <thread>4</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464702195276</miliseconds>
+  <timestamp>05/31/2016 15:43:15:281</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464702196642</miliseconds>
+  <timestamp>05/31/2016 15:43:16:647</timestamp>
+  <thread>4</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464702196652</miliseconds>
+  <timestamp>05/31/2016 15:43:16:657</timestamp>
+  <thread>4</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1148)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+</record>

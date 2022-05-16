@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/</rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>false</reloadable>
+    <redirectLogger>true</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation>C:\MicroStrategySie.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath>/MicroStrategySie</webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/MicroStrategySie/plugins/_Interface/WEB-INF/lib/FileCachePurger.jar</webClassPathEntry>
+        <webClassPathEntry>/MicroStrategySie/plugins/_Interface/WEB-INF/lib/sie2utils.jar</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>

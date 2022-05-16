@@ -1,0 +1,12 @@
+mstr/ie6.css=MSIE 6|Internet Explorer 6|Internet Explorer/6|IE 6.0
+mstr/ie7.css=MSIE 7
+mstr/ie8.css=MSIE 8
+mstr/ie9.css=MSIE 9
+mstr/ie10.css=MSIE 10|Trident.*rv:11.0
+mstr/firefox.css,mstr/firefox2.css=Mozilla/5.0.*Firefox/2
+mstr/firefox.css,mstr/firefox3.css=Mozilla/5.0.*Firefox/3
+mstr/firefox.css=Gecko.*Firefox/(\\d{2}|[4-9])
+mstr/chrome.css=Chrome
+mstr/safari.css,mstr/safari3.css=Version/3.* Safari
+mstr/safari.css,mstr/safari4.css=Version/4.* Safari
+mstr/safari.css,mstr/safari5.css=Version/5.* Safari|Version/6.* Safari

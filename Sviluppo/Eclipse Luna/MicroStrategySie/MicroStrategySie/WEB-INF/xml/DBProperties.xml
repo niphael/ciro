@@ -1,0 +1,110 @@
+<DBS>
+	<DB n="DB2 Wire">
+		<DBP n="ID Address" t="text"/>
+		<DBP n="TCP Port" t="number"/>
+		<DBP n="Database Name" t="text"/>
+	</DB>
+	
+	<DB n="DB2 iSeries">
+		<DBP n="IP Address" t="text"/>
+		<DBP n="Collection" t="text"/>
+		<DBP n="Location" t="text"/>
+		<DBP n="Isolation Level" t="list">
+			<PV v="0" n="Read uncommitted"/>
+			<PV v="1" n="Read Committed"/>
+			<PV v="2" n="Repeatable Read"/>
+			<PV v="3" n="Serializable"/>
+			<PV v="4" n="None"/>
+		</DBP>
+		<DBP n="Package Owner" t="text"/>
+		<DBP n="TCP Port" t="text"/>
+	</DB>
+	
+	<DB n="DB2 z/OS">
+		<DBP n="IP Address" t="text"/>
+		<DBP n="Collection" t="text"/>
+		<DBP n="Location" t="text"/>
+		<DBP n="Package Collection" t="text"/>
+		<DBP n="Package Owner" t="text"/>
+		<DBP n="TCP Port" t="text"/>
+		<DBP n="Host Name" t="text"/>
+		<DBP n="Port Number" t="number"/>
+		<DBP n="Database Name" t="text"/>
+	</DB>
+	
+	<DB n="Informix Wire">
+		<DBP n="Server Name" t="text"/>
+		<DBP n="Host Name" t="text"/>
+		<DBP n="Port Number" t="number"/>
+		<DBP n="Database Name" t="text"/>
+	</DB>
+	
+	<DB n="Informix XPS">
+		<DBP n="Database" t="text"/>
+		<DBP n="Server Name" t="text"/>
+		<DBP n="Host Name" t="text"/>
+		<DBP n="Service Name" t="number"/>
+		<DBP n="Protocol Type" t="list">
+			<PV v="olsocspx"/>
+			<PV v="olsoctcp"/>
+			<PV v="onsocspx"/>
+			<PV v="onsoctcp"/>
+			<PV v="seipcpip"/>
+			<PV v="sesocspx"/>
+			<PV v="sesoctcp"/>
+		</DBP>
+	</DB>
+
+	<DB n="Postgre SQL">
+		<DBP n="Host Name" t="text"/>
+		<DBP n="Port Number" t="number"/>
+		<DBP n="Database Name" t="text"/>
+	</DB>
+	
+	<DB n="Sybase">
+		<DBP n="Server Name" t="text"/>
+		<DBP n="Network Address" t="text"/>
+		<DBP n="Database Name" t="text"/>
+	</DB>
+	
+	<DB n="Oracle">
+		<DBPS n="Standard Connection">
+			<DBP n="Host Name" t="text"/>
+			<DBP n="Port Number" t="number"/>			
+			<DBP n="SID" t="text"/>
+			<DBP n="Service Name" t="text"/>
+			<DBP n="Alternate Servers" t="text"/>			
+		</DBPS>
+		<DBPS n="TNSNames Connection">
+			<DBP n="Server Name" t="text"/>
+			<DBP n="TNSNames File" t="text"/>
+		</DBPS>
+	</DB>
+	
+	<DB n="SQL Server">
+		<DBP n="Server Name" t="text"/>
+		<DBP n="Database Name" t="text"/>
+		<DBP n="Use Windows Authentication for login" t="boolean"/>
+	</DB>
+	
+	<DB n="Teradata">
+		<DBP n="Server Name" t="text"/>
+		<DBP n="Database Name" t="text"/>			
+		<DBP n="Use integrated security" t="boolean"/>
+		<DBP n="Mechanism" t="list">
+			<PV v="KRB5"/>
+			<PV v="Ldap"/>
+			<PV v="NTLM"/>
+			<PV v="SPNEGO"/>
+			<PV v="TD2"/>
+		</DBP>
+		<DBP n="Parameter" t="text"/>
+	</DB>
+	
+	<DB n="MySQL">
+		<DBP n="Host Name" t="text"/>
+		<DBP n="Port Number" t="number"/>
+		<DBP n="Database Name" t="text"/>
+	</DB>
+	
+</DBS>

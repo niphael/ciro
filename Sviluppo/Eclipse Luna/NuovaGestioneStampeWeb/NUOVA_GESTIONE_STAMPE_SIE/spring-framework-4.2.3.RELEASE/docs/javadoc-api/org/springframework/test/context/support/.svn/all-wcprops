@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support
+END
+DirtiesContextBeforeModesTestExecutionListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/DirtiesContextBeforeModesTestExecutionListener.html
+END
+AnnotationConfigContextLoaderUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/AnnotationConfigContextLoaderUtils.html
+END
+AbstractTestContextBootstrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/AbstractTestContextBootstrapper.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/package-frame.html
+END
+GenericPropertiesContextLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/GenericPropertiesContextLoader.html
+END
+AbstractDirtiesContextTestExecutionListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/AbstractDirtiesContextTestExecutionListener.html
+END
+TestPropertySourceUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/TestPropertySourceUtils.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/package-summary.html
+END
+DefaultBootstrapContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/DefaultBootstrapContext.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/package-tree.html
+END
+DefaultTestContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/DefaultTestContext.html
+END
+GenericXmlContextLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/GenericXmlContextLoader.html
+END
+AbstractDelegatingSmartContextLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/AbstractDelegatingSmartContextLoader.html
+END
+AnnotationConfigContextLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/AnnotationConfigContextLoader.html
+END
+AbstractGenericContextLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/AbstractGenericContextLoader.html
+END
+AbstractTestExecutionListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/AbstractTestExecutionListener.html
+END
+DefaultTestContextBootstrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/DefaultTestContextBootstrapper.html
+END
+AbstractContextLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/AbstractContextLoader.html
+END
+GenericGroovyXmlContextLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/GenericGroovyXmlContextLoader.html
+END
+DirtiesContextTestExecutionListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/DirtiesContextTestExecutionListener.html
+END
+DelegatingSmartContextLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/DelegatingSmartContextLoader.html
+END
+DefaultActiveProfilesResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/DefaultActiveProfilesResolver.html
+END
+DependencyInjectionTestExecutionListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/test/context/support/DependencyInjectionTestExecutionListener.html
+END

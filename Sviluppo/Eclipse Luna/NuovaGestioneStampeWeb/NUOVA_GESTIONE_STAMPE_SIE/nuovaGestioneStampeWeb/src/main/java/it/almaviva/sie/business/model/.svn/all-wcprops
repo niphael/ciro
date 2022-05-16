@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Entrate/!svn/ver/3319/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model
+END
+DCronologicoStampeVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2316/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DCronologicoStampeVO.java
+END
+Utente.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/Entrate/!svn/ver/2307/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/Utente.java
+END
+DPeriodicitaVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Entrate/!svn/ver/2349/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DPeriodicitaVO.java
+END
+DAbilitazStampeLivOrgVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DAbilitazStampeLivOrgVO.java
+END
+DUtentiProfiliVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DUtentiProfiliVO.java
+END
+MstrUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/Entrate/!svn/ver/3319/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/MstrUtils.java
+END
+DUtentiDestinatariVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2377/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DUtentiDestinatariVO.java
+END
+MstrParamTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/Entrate/!svn/ver/2194/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/MstrParamTO.java
+END
+Profilo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Entrate/!svn/ver/2377/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/Profilo.java
+END
+UtenteDestinatarioReportTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2358/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/UtenteDestinatarioReportTO.java
+END
+VisualizzaStampaTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/2316/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/VisualizzaStampaTO.java
+END
+DAnagraficheStampeVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/3249/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DAnagraficheStampeVO.java
+END
+MstrObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/MstrObject.java
+END
+BaseTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/Entrate/!svn/ver/2358/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/BaseTO.java
+END
+BaseVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/Entrate/!svn/ver/2377/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/BaseVO.java
+END
+DAmministrazioneVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/2358/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DAmministrazioneVO.java
+END
+DAbilitazStampeVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/Entrate/!svn/ver/2377/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DAbilitazStampeVO.java
+END
+DProfiloVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Entrate/!svn/ver/2377/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DProfiloVO.java
+END
+CronologicoNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/Entrate/!svn/ver/2369/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/CronologicoNode.java
+END
+ReportMstrTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/ReportMstrTO.java
+END
+MstrConnectionParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/Entrate/!svn/ver/3281/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/MstrConnectionParam.java
+END
+CodiceDescrizioneTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/Entrate/!svn/ver/2510/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/CodiceDescrizioneTO.java
+END
+DCronologicoOnlineModVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2369/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DCronologicoOnlineModVO.java
+END
+DAnagraficaVociMenuVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/Entrate/!svn/ver/2335/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DAnagraficaVociMenuVO.java
+END
+DParametriApplicazioneVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DParametriApplicazioneVO.java
+END
+ConnessioneMstrTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/ConnessioneMstrTO.java
+END
+EsitoMstrTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/Entrate/!svn/ver/2348/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/EsitoMstrTO.java
+END
+DRagionerieVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/Entrate/!svn/ver/2348/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/DRagionerieVO.java
+END
+ParametriCodiceDescrizioneTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2348/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/model/ParametriCodiceDescrizioneTO.java
+END

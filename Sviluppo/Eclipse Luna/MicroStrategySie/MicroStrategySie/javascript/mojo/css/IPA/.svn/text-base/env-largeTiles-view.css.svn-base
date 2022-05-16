@@ -1,0 +1,65 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: env-largeTiles-view.css for environment largeTiles view
+*/
+
+.ipa-env-thumbNailView{
+	position:relative;
+	height:100%;
+	width:100%;
+	overflow:hidden;
+}
+
+.ipa-EnvTile-large{
+	position:relative;
+	height:100%;
+	width:33%;
+	float:left;
+}
+
+.ipa-EMBox-large{
+	height: 100px;
+	width:290px;
+	padding: 3px 3px 3px 7px;
+}
+
+.ipa-EnvBox-large{
+	height: 100px;
+	width:270px;
+	padding: 3px 3px 3px 7px;
+}
+
+.ipa-envname-box-large{
+	position:relative;margin-left:3px;margin-top:10px;margin-bottom:4px;
+}
+
+.ipa-envName-large{
+	font: bold 9pt Tahoma, Arial, Verdana;
+	max-width:80px;
+	padding-right:9px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+}
+
+.ipa-eachEnv-box{
+	height:70px;
+	width:290px;
+	padding: 0 0 0 4px;
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+
+.ipa-buttonDetail-view{
+	height:114px;
+	width:22px;
+	background:lightblue;
+	position:relative;
+}
+
+.ipa-loadingEnv-box{
+	height: 108px;
+	width:290px;
+	padding: 3px 3px 3px 7px;
+}

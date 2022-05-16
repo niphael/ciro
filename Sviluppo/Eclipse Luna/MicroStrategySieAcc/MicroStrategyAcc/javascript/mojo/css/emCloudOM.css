@@ -1,0 +1,584 @@
+/*MicroStrategy Cloud Operations Manager - Enterprise Manager Stylesheet*/
+
+.mstrmojo-EMConf-button {
+	width: 17px;
+	height: 17px;
+	display: block;
+}
+
+.HIDE{
+	background: url(images/Remove-icon.png) no-repeat 0px -1px;
+}
+.HIDE:hover{
+	cursor: pointer;
+}
+
+.mstrmojo-Add-EMServer-Manually {    
+	margin-left: 5px;
+	margin-bottom: 5px;
+    margin-top: 10px;    
+    background-color:#E4E4E4;
+	border-top-left-radius:5px; 
+	border-top-right-radius:5px;     
+    border:1px solid #AAAAAA;
+}
+
+.mstrmojo-emsvrconfig-panel {
+    margin-left: 0px;
+    margin-top: 0px; 
+	margin-bottom: 1px;	  
+    width:720px;        
+}
+
+.mstrmojo-emsvrconfig-title {
+	width:715px;	
+	height:40px;
+	padding-left:10px;
+	padding-top:18px;
+	background: -moz-linear-gradient(top,  #767676 37%, #4d4d4d 81%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(37%,#767676), color-stop(81%,#4d4d4d)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #767676 37%,#4d4d4d 81%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #767676 37%,#4d4d4d 81%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #767676 37%,#4d4d4d81%); /* IE10+ */
+	background: linear-gradient(top,  #767676 37%,#4d4d4d 81%); /* W3C */
+	text-shadow: black 1px 1px 1px;
+}
+
+.mstrmojo-emsvrconfig-titleLabel{
+	height:25px;
+	padding-top:2px;	
+	background:#494949;
+	text-shadow: black 1px 1px 1px;
+}
+
+.mstrmojo-em-config-panel{
+    background-color:#e6e6e6;        
+	width:719px;
+	margin:0px 0px 0px 0px;
+	position:relative;
+	font-family: Tahoma;
+	color:#000000;
+	font-size:1.2em;
+}
+	
+.mstrmojo-em-left-pad-button {
+    padding-left: 15px;
+    padding-top: 8px;
+	padding-bottom: 8px;
+	font-weight: bold;
+	border-bottom: 1px solid #C6CBCB;
+}
+.mstrmojo-em-left-pad-button.selected {
+	font-weight: bold;	
+	background-color: #e6e6e6;
+	padding-left:15px;
+	color:#828282;
+}
+
+.mstrmojo-em-left-unpad-button {
+    padding-top: 8px;
+	padding-bottom: 8px;
+    font-weight: bold;	
+	border-bottom: 1px solid #C6CBCB;
+	background-color: #A9A9A9;
+}
+
+.mstrmojo-em-left-unpad-button.selected {
+	font-weight: bold;
+	color: #828282;
+	background-color: #E6E6E6;
+}
+
+.mstrmojo-emConfig-title
+{
+	margin-left: 10px;
+    margin-top: 10px;
+	background-color:#494949;
+	border:1px solid #676767;
+	color:white;
+	font-size:10pt;
+	width : 710px;	
+	padding-left:10px;
+	padding-top:8px;
+}
+
+.mstrmojo-emConfig-navTable 
+{
+    width: inherit;
+    padding: 0px;	
+}
+
+.mstrmojo-emConfig-labels
+{
+    padding-left: 10px;
+	padding-right: 10px;
+    text-align: left;
+}
+
+.mstrmojo-label-emServerProjects{
+	font-family: Tahoma;
+	font-size:9pt;		
+    color: black;
+	font-weight: bold;
+	text-align:left;
+    padding-top:5px;
+    padding-bottom:4px;
+    padding-left: 7px;                	
+	background: -moz-linear-gradient(top,  #d9d9d9 37%, #b2b2b2 81%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(37%,#d9d9d9), color-stop(81%,#b2b2b2)); /* Chrome,Safari4+ */		
+	background: -webkit-linear-gradient(top,  #d9d9d9 37%, #b2b2b2 81%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #d9d9d9 37%, #b2b2b2 81%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #d9d9d9 37%, #b2b2b2 81%); /* IE10+ */
+	background: linear-gradient(top,  #d9d9d9 37%, #b2b2b2 81%); /* W3C */
+	
+	border-color: -webkit-linear-gradient(top,  #ff0000 37%,#dd0000 81%); /* Chrome10+,Safari5.1+ */	  
+}
+
+.mstrmojo-emDataLoad-tabPanel{
+	height: auto; 
+	width: 500px;
+	padding: 10px; 
+	position: relative;
+	border: 0px;	
+	background-color: #e6e6e6;
+}
+
+.mstrmojo-emSched-borderLabel{
+	font-weight: bold; 
+	width:470px; 
+	padding: 10px;
+	border-bottom: 1px;
+	border-bottom-color: #AAA; 
+	border-style: solid;
+	border-right: 0px;
+	border-left: 0px;
+	border-top: 0px;
+}
+
+.mstrmojo-emSched-stepperUp,
+.mstrmojo-emSched-stepperDown{
+	margin-top:0px;
+    height: 10px;
+}
+
+.mstrmojo-emSched-stepperUp{
+	background: url(images/arrow_white_sprite.gif) no-repeat center top scroll transparent;	
+}
+
+.mstrmojo-emSched-stepperDown{  
+    background: url(images/arrow_white_sprite.gif) no-repeat center bottom scroll transparent;
+}
+
+.mstrmojo-emSched-stepperUp:hover,
+.mstrmojo-emSched-stepperDown:hover{
+    background-color: #D3E1F1;
+}
+
+.mstrmojo-DataGrid-emProjList{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+    width:100%;       
+    min-width:420px;
+    width:40em;
+    min-height: 180px;    
+    border-collapse:collapse;
+    border: 1px solid #bababa;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 10px;
+    margin-top: 10px;										
+}
+
+.mstrmojo-Add-Monitored-Server {    
+	margin-left: 10px;
+    margin-top: 10px;
+    width:525px;	
+    background-color:#E4E4E4;     
+    border:1px solid #AAAAAA;
+}
+
+.mstrmojo-EMSvrDetails-button {
+	width: 17px;
+	height: 17px;
+	display: block;
+}
+
+.mstrmojo-EMTimePicker-input {
+	padding:0;
+    padding-top:2px;
+    width:128px;
+    height:18px;    
+	background-color: white;
+    border:1px solid #B5B8C8;
+}
+
+.mstrmojo-ServerNode{
+	margin-right:5px;
+	width: 20px;
+	height: 20px;
+	background: url(images/IPA/iServer_normal.gif) no-repeat -1px -1px;
+}
+
+.mstrmojo-ProjectNode{
+	margin-top:5px;
+	width: 15px;
+	height: 15px;
+	background: url(images/Project.bmp) no-repeat -1px -1px;
+}
+
+.TreeCollapse{
+	margin: 5px -5px 0px 5px;
+	background: url(images/treeCollapse.gif) no-repeat -1px -1px;
+}
+
+.TreeExpand{
+	margin: 5px -5px 0px 5px;
+	background: url(images/treeExpand.gif) no-repeat -1px -1px;
+}
+
+.DISABLED {
+	background-color: #D4D0C8;
+}
+
+.RELOAD{
+	background: url(images/updatable.gif) no-repeat -1px -1px;
+}
+
+.REMOVE{
+	background: url(images/delete.gif) no-repeat -1px -1px;
+}
+
+.ADDSVR{
+	background: url(images/add.gif) no-repeat -1px -1px;
+}
+
+.MOVELEFT{
+	background: url(images/arrow_grey_left_6x9.gif) no-repeat -1px -1px;
+}
+
+.MOVERIGHT{
+	background: url(images/arrow_grey_right_6x9.gif) no-repeat -1px -1px;
+}
+
+/* EM Server grid */
+.mstrmojo-DataGrid-emServers{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	width: inherit;
+	min-width: 720px;
+    border-collapse:collapse;
+	min-height: 70px;    
+    margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	border: none;				
+}
+	
+.mstrmojo-DataGrid-emServers .mstrmojo-DataGrid-itemsScrollBox{
+	height: auto;			
+	overflow-x: hidden;	
+	cursor: default;
+}
+.mstrmojo-DataGrid-emServers .mstrmojo-DataGrid-itemsContainer{	
+	cursor:default;
+}
+
+.mstrmojo-DataGrid-emServers .mstrmojo-DataGrid-headerContainer {
+	border-radius: 0 0 5px 5px;
+}
+	
+.mstrmojo-DataGrid-emServers .mstrmojo-DataRow td {
+	border:0px solid #98bf21;
+	padding: 5px 7px 4px 7px;
+}
+
+.mstrmojo-DataGrid-emServers tr.alt td {
+	background-color:#e6e6e6;
+}
+
+.mstrmojo-DataGrid-workspace .mstrmojo-DataGrid-itemsScrollBox{				
+	overflow-x: hidden;	
+	cursor:default;
+}
+
+/* EM projects grid */
+.mstrmojo-DataGrid-emProjects{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+    border-collapse:collapse;
+    border: 1px solid #bababa;    
+    margin-left: 0px;
+    margin-top: 0px;	
+	max-height: 160px;				
+}
+
+/* EM Environment Tree Browser */
+
+.mstrmojo-TreeNode-text.ProjectLevel-Disabled{
+	background: url(images/file_li.gif) no-repeat 3px;
+	font-size:8pt;
+	margin-left:16px;
+	color:#828282;	
+}
+
+.mstrmojo-TreeNode-text.ProjectLevel{
+	background: url(images/file_li.gif) no-repeat 3px;
+	font-size:8pt;	
+}
+
+.mstrmojo-TreeNode-text.ISvrLevel{
+	background: url(images/IPA/iServer_normal.gif) no-repeat -2px;	
+	font-weight:600;
+	font-size:9pt;	
+	color:#000000;
+}
+
+.mstrmojo-TreeNode-text.ISvrLevel-Down{
+	background: url(images/IPA/iServer_error.gif) no-repeat -2px;	
+	font-weight:600;
+	font-size:9pt;	
+	color:#000000;
+}
+
+.mstrmojo-TreeNode-text.ISvrLevel-Down{
+	background: url(images/IPA/iServer_error.gif) no-repeat -2px;	
+	font-weight:600;
+	font-size:9pt;	
+	color:#000000;
+}
+
+.mstrmojo-emConfigNavTable{
+	padding-top:0px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	background: transparent;
+	background-color: #D3D3D3;
+	border-right: #AAAAAA;
+}
+
+/* Summary grid */
+.mstrmojo-DataGrid-dlSummary{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;	
+    width: 700px;
+    border-collapse:collapse;
+    border: 1px solid #bababa;
+    margin-left: 10px;
+    margin-top: 10px;
+	max-height: 150px;	
+	overflow: auto;				
+}
+	
+.mstrmojo-DataGrid-dlSummary .mstrmojo-DataGrid-itemsScrollBox{
+	height: auto;			
+	overflow-x: hidden;	
+	cursor:default;
+}
+.mstrmojo-DataGrid-dlSummary .mstrmojo-DataGrid-itemsContainer{	
+	cursor:default;
+}
+
+.mstrmojo-DataGrid-dlSummary .mstrmojo-DataGrid-headerContainer {
+	border-radius: 0 0 5px 5px;
+}
+	
+.mstrmojo-DataGrid-dlSummary .mstrmojo-DataRow td {
+	border:0px solid #98bf21;
+	padding: 4px 7px 0px 7px;
+}
+
+.mstrmojo-DataGrid-dlSummary tr.alt td {
+	background-color:#e6e6e6;
+}
+
+.mstrmojo-DataGrid table {
+table-layout: fixed;
+width: 100%;
+text-align: left;
+}
+
+/* Data Load list box */
+.mstrmojo-dlBox {
+	margin: 0px 0 0 0; 
+	width: 100%;
+}
+
+
+.mstrmojo-views-cl .mstrmojo-ListBox-table {
+	border-bottom: 1px solid #C6CBCB;
+}
+
+
+.mstrmojo-views-cl .view-item input,
+.mstrmojo-views-cl .view-item LABEL
+{
+	vertical-align: middle;
+}
+
+.mstrmojo-ListBox-table {
+	width: 100%;	
+}
+
+.mstrmojo-dlBox .mstrmojo-ListBox-table td {
+	height: 30px;
+	border-collapse: separate;
+	border-bottom: 1px solid #C6CBCB;
+	box-shadow: 0 2px #FFFFFF;
+	-moz-box-shadow: 0 1px #FFFFFF;
+	-webkit-box-shadow: 0 2px #FFFFFF;
+}
+
+.mstrmojo-dlMain-list {
+	width: 305px,
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 7.5pt;	
+}
+
+.dlMain-desc {	
+	padding-top: 0px;
+	padding-bottom: 0px;
+	width: 300px;
+}
+
+.dlName,
+.dlName-active,
+.mstrmojo-views-cl .view-item {
+	text-decoration: none;
+	margin-left: 15px;
+}
+
+.dlName {
+	font-weight: bold;
+	margin-top: 0px;
+	margin-right:-5px;
+	padding-left: 15px;
+	padding-top: 8px;
+	padding-bottom: 4px;
+}
+
+.dlName.selected {
+	color: #C00 !important;
+}
+
+.dlName.selected {
+	background-color: transparent;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-right:-5px;
+	padding-left: 15px;
+}
+
+.mstrmojo-ListBox-table div
+{
+	height: 20px;
+}
+
+.mstrmojo-dlBox-Delete{
+	background: url("images/delete.png") no-repeat scroll 0 0 transparent;
+}
+.mstrmojo-dlBox-Delete:hover{
+	background: url("images/delete_hover.png") no-repeat scroll 0 0 transparent;
+}
+
+.mstrmojo-dlBox-Delete{
+	width: 16px;
+	height:16px;
+	border: 0px;
+	margin-left:0px;
+	background-color:transparent;
+	visibility: hidden;
+}
+
+.mstrmojo-urlButton{
+	text-decoration:underline;
+	color:blue;
+	width:100px;
+	font-size:8.5pt;
+	text-align:left;
+	padding-left: 0px;
+	margin-left:0px;
+}
+
+.dlgrid-op-button{
+	cursor: pointer;
+    width: 8px;
+    padding-bottom: 1px;		    
+    padding-left: 5px;
+    padding-right: 1px;
+    border-color: #EEE #787878 #787878 #EEE;		    
+    height: auto;
+	border-width: 1px;			  	
+}
+
+.dlgrid-manage{
+	background:url(images/IPA/manage-icon.png) no-repeat center right;
+}
+
+.dlgrid-remove{
+	background:url(images/IPA/Remove.png) no-repeat center right;
+}
+
+.dlgrid-execute{
+	background:url(images/IPA/execute.gif) no-repeat center right;
+}
+
+.dlGrid-actionTable{
+	overflow:hidden;
+	margin-left:-10px;
+}
+
+.dlGrid-actionTable td{
+	width:5px;
+}
+
+.dlMain-table{
+	margin-left:20px;
+	margin-top:20px;
+}
+
+/* Landing page */
+.mstrmojo-emStatus-panel {
+    margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px;   
+	height: 80px;
+	width: 240px;
+    overflow: visible;
+	border:1px solid #BABABA;    
+	background-image:#f2f2f2; 
+	background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0.5, #fafafa), to(#f2f2f2)); 
+	background-image:-moz-linear-gradient(top, #fafafa 50%, #f2f2f2);
+	background-image: "linear-gradient(top, #fafafa, #f2f2f2)"; 
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#fafafa', EndColorStr='#f2f2f2')"; /* IE8 */
+}
+
+.mstrmojo-emStatus-list {
+	margin: 5px 5px 5px 10px;
+	padding: 5px 5px 5px;
+	height: 68px;
+	width: 180px;
+	overflow: visible;
+	border:1px solid #BABABA;    
+	background-image:#f2f2f2; 
+	background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0.5, #fafafa), to(#f2f2f2)); 
+	background-image:-moz-linear-gradient(top, #fafafa 50%, #f2f2f2);
+	background-image: "linear-gradient(top, #fafafa, #f2f2f2)"; 
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#fafafa', EndColorStr='#f2f2f2')"; /* IE8 */
+}
+
+.mstrmojo-emLabel-normal {
+	font-size: 11pt;	
+	text-align: center;	
+}
+
+.mstrmojo-emLabel-large {
+	font-size: 16pt;
+	font-weight: bold;
+	text-align: center;	
+}
+
+.emServerListItem{	
+	font-weight: bold;
+	text-align: center;
+	cursor:pointer;	
+}
+
+.emServerListItem.selected{
+	font-weight: bold;
+	text-align: center;
+	color: #4682B4 !important;
+}

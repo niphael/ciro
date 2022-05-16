@@ -1,0 +1,17 @@
+127.0.0.1 - - [06/Oct/2021:16:37:38 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:10 +0200] "GET /nuovaGestioneStampeWeb HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:10 +0200] "GET /nuovaGestioneStampeWeb/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:11 +0200] "GET /nuovaGestioneStampeWeb/scambioPagina.html;jsessionid=F21E8A3CF0ED94ABAB376536EBF58CE6 HTTP/1.1" 200 1087
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:11 +0200] "GET /nuovaGestioneStampeWeb/css/style.css HTTP/1.1" 200 23072
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:11 +0200] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:16 +0200] "GET /nuovaGestioneStampeWeb/simulaLogin.html?utente=ASSISTENZA.ENTRATE HTTP/1.1" 200 4338
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:16 +0200] "GET /nuovaGestioneStampeWeb/css/displaytag-table.css HTTP/1.1" 200 4183
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:16 +0200] "GET /nuovaGestioneStampeWeb/img/logo_rep.gif HTTP/1.1" 200 1109
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:16 +0200] "GET /nuovaGestioneStampeWeb/img/logo_sie.jpg HTTP/1.1" 200 19710
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:21 +0200] "GET /nuovaGestioneStampeWeb/viewStampe.html?utente=ASSISTENZA.ENTRATE&funzione=GEST_STAMPE&descFunzione=Visualizza HTTP/1.1" 200 3362
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:21 +0200] "GET /images/sie/spazio.gif HTTP/1.1" 404 993
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:32 +0200] "POST /nuovaGestioneStampeWeb/viewDettaglioReport.html HTTP/1.1" 200 11090
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:32 +0200] "GET /images/sie/spazio.gif HTTP/1.1" 404 993
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:39 +0200] "POST /nuovaGestioneStampeWeb/viewDettaglioReport.html HTTP/1.1" 200 5900
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:39:39 +0200] "GET /images/sie/spazio.gif HTTP/1.1" 404 993
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:16:40:39 +0200] "GET /nuovaGestioneStampeWeb/gestioneStampe.html?metodo=visualizzaStampa&stampa=8C8FB03C45BAB064B3F7708E9B4A9AAD&formato=modificabile HTTP/1.1" 302 -

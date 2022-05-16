@@ -1,0 +1,201 @@
+ .tableRicerca{
+    border-collapse: collapse;
+    border: 1px solid #000080;
+    background: #FFFFFF
+  }
+  .tableRicerca td{
+    border: 1px solid #000080;
+  }
+ .tableRicerca th{
+    border: 1px solid #000080;
+  }
+.tableDati {
+	margin: 10px auto 0 auto;
+	border-collapse: separate;
+	border-spacing: 2px;
+	background-color: #fff;
+	text-align: center;
+}
+.tableDati th {
+  	padding: 6px;
+  	color: #fff;
+  	background-color: #931617;
+}
+.tableDati th a {
+	color: #fff;
+	padding: 0;
+}
+.tableDati th a:hover,
+.tableDati th a:focus {
+	text-decoration: none;
+}
+.tableDati th.sorted a,
+.tableDati th.sortable a {
+	background-position: right;
+	display: block;
+	padding-right: 14px;
+}
+.tableDati th.sortable a {
+	background-image: url(arrow_off.png);
+	background-repeat: no-repeat;
+}
+.tableDati th.sortable:hover,
+.tableDati th.sortable:focus,
+.tableDati th.sorted {
+	background-image: none;
+	background-color: #6a6a6a;
+}
+.tableDati th.order1 a {
+	background-image: url(arrow_down.png);
+	background-repeat: no-repeat;
+}
+.tableDati th.order2 a {
+	background-image: url(arrow_up.png);
+	background-repeat: no-repeat;
+}
+.tableDati td {
+	padding: 0 5px;
+	height: 26px;
+}
+.tableDati tr.odd {
+	background-color: #eef0f0;
+}
+.tableDati tr.even {
+	background-color: #ccc;
+}
+.tableDati tr:hover td {
+	background-color: #f5e89f;
+	filter: none;
+}
+.tableDati img {
+	margin: 0 auto;
+	border: 1px solid #bbb;
+	padding: 3px;
+	border-radius: 4px;
+	background-color: #fff;
+	display: block;
+}
+.tableDati a img:hover,
+.tableDati a img:focus {
+	border-color: #000;
+}
+.tableDati img.disabled:hover,
+.tableDati img.disabled:focus {
+	border-color: #bbb;
+}
+.tableDati tfoot {
+	background-color: #f7f7f7;
+	filter: none;
+}
+/******************** start tabelle importi ********************/
+
+.tableDatiImporto {
+	margin: 10px auto 0 auto;
+	border-collapse: separate;
+	border-spacing: 2px;
+	background-color: #fff;
+	text-align: center;
+}
+.tableDatiImporto caption {
+	font-weight: bold;
+	padding: 15px 5px 3px 5px;
+}
+.tableDatiImporto th {
+  	padding: 6px 5px;
+}
+.tableDatiImporto th.thr,
+.tableDatiImporto td {
+  	padding: 3px 5px;
+}
+.tableDatiImporto th {
+  	color: #fff;
+  	background-color: #931617;
+}
+.tableDatiImporto th.thr {
+  	color: #000080;
+  	background-color: #ccc;
+  	text-align: left;
+  	/*font-weight: normal;*/
+}
+.tableDatiImporto th a {
+	color: #fff;
+	padding: 0;
+}
+.tableDatiImporto tr.odd {
+	background-color: #eef0f0;
+}
+.tableDatiImporto tr.even {
+	background-color: #ccc;
+}
+.tableDatiImporto tr:hover td {
+	background-color: #f5e89f;
+	filter: none;
+}
+.tableDatiImporto td.importo {
+	text-align: right;
+}
+
+/******************** start paginazione ********************/
+
+#content .pagelinks {
+	text-align: center;
+	padding: 0;
+	margin: 10px 0 0 0;
+	display: block;
+	line-height: 16px; /* per uniformare IE */
+}
+#content .pagelinks a {
+	padding: 2px 6px 2px 6px;
+	display: inline-block;
+	text-decoration: none;
+	border: 1px solid #d09192;
+	color: #931617;
+	margin: 0 4px;
+	background-color: #fff;
+	border-radius: 4px;
+	transition: background-color 0.2s;
+}
+#content .pagelinks strong {
+	margin: 0 3px;
+	padding: 2px 6px 2px 6px;
+	border-radius: 4px;
+	border: 1px solid #555;
+	display: inline-block;
+}
+#content .pagelinks strong,
+#content .pagelinks a:hover,
+#content .pagelinks a:focus {
+	background-color: #931617;
+	border-color: #931617;
+	color: #fff;
+}
+
+/******************** start export ********************/
+
+#content .pagebanner {
+	margin-top: 10px;
+}
+#content .exportlinks {
+	margin-top: 10px;
+	position: absolute;
+	right: 10px;
+	top: 0;
+}
+#content .exportlinks a span.export {
+	background: no-repeat 0px 1px transparent;
+	padding-left: 20px;
+	padding-right: 0px;
+	text-decoration: underline;
+	color: #000080;
+	display: inline-block;
+	height: 16px;
+}
+#content .exportlinks a span:hover.export {
+	text-decoration: none;
+}
+#content .exportlinks a span.excel {
+	background-image: url(export_xls.png);
+}
+#content .exportlinks a span.pdf {
+	background-image: url(export_pdf.png);
+}

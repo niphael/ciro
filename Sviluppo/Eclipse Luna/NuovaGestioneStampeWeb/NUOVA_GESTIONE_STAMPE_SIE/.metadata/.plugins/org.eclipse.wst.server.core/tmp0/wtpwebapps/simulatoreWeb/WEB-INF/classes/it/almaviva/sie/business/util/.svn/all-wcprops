@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/util
+END
+Util.class
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/util/Util.class
+END
+TraceLogger.class
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/util/TraceLogger.class
+END
+ApplicationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/util/ApplicationException.class
+END
+PropertyConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/simulatoreWeb/WEB-INF/classes/it/almaviva/sie/business/util/PropertyConfigurer.class
+END

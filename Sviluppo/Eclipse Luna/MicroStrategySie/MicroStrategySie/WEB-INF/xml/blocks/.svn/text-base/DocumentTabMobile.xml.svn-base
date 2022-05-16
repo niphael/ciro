@@ -1,0 +1,94 @@
+<!DOCTYPE block SYSTEM "../dtds/blockLibrary.dtd">
+<block inherits="Tab" name="DocumentTabMobile">
+  <assignments>
+    <property name="title">{desc:mstrWeb.3538|Document Properties} - {desc:mstrWeb.702|Advanced}</property>
+    <property name="width">550px</property>
+    <property name="height">100%</property>
+    <property name="visible">false</property>
+    <property name="helpTopic">properties_dialog_box_document_properties_mobile.htm</property>
+    <property name="children">
+      <list>
+        <block listElementKey="K362" name="FieldSet">
+          <property name="legend">{desc:mstrWeb.7866|BlackBerry}</property>
+          <property name="modelPath">parent/model</property>
+          <property name="children">
+            <list>
+              <block listElementKey="K363" name="RadioList">
+                <property name="caption">{desc:mstrWeb.7870|Data view}:</property>
+                <property name="cssClass">NPCheckList</property>
+                <property name="height">auto</property>
+                <property name="modelPath">parent/model/MobileDataView</property>
+              </block>
+            </list>
+          </property>
+        </block>
+        <block listElementKey="iPhonefs" name="FieldSet">
+          <property name="legend">{desc:mstrWeb.7725|iPhone}</property>
+          <property name="modelPath">parent/model</property>
+          <property name="children">
+            <list>
+              <block listElementKey="layoutBarStyle" name="ListPulldown">
+                <property name="horizontalCaption">{desc:mstrWeb.7571|Layout bar style}:</property>
+                <property name="modelPath">parent/model/layoutBarStyle</property>
+              </block>
+              <block listElementKey="layoutBarPosition" name="ListPulldown">
+                <property name="horizontalCaption">{desc:mstrWeb.7572|Layout bar position}:</property>
+                <property name="modelPath">parent/model/layoutBarPosition</property>
+                <property name="visibleField">parent/model/layoutBarStyle/selectedIndices:1</property>
+              </block>
+              <block listElementKey="layoutBarPosition2" name="ListPulldown">
+                <property name="horizontalCaption">{desc:mstrWeb.7572|Layout bar position}:</property>
+                <property name="modelPath">parent/model/layoutBarPosition2</property>
+                <property name="visibleField">parent/model/layoutBarStyle/selectedIndices:0</property>
+                <property name="enabledField">parent/model/layoutBarStyle/selectedIndices:1</property>
+              </block>
+              <block listElementKey="enableGraphTooltips" name="CheckBox">
+                <property name="caption">{desc:mstrWeb.7740|Enable graph tooltips}</property>
+                <property name="valueField">enableGraphTooltips</property>
+                <property name="modelPath">parent/model</property>
+              </block>
+            </list>
+          </property>
+        </block>
+        <block listElementKey="iPhoneAndIPadFS" name="FieldSet">
+          <property name="legend">{desc:mstrWeb.7865|iPhone and iPad}</property>
+          <property name="modelPath">parent/model</property>
+          <property name="children">
+            <list>
+              <block listElementKey="enableZoom" name="CheckBox">
+                <property name="caption">{desc:mstrWeb.8627|Enable zoom (Pinch and double-tap)}</property>
+                <property name="valueField">EnableZoom</property>
+                <property name="modelPath">parent/model</property>
+              </block>              
+              <block listElementKey="enableTextCopy" name="CheckBox">
+          		<property name="caption">{desc:mstrWeb.9816|Enable copy for text (Text sub-selection is only supported outside of the Detail section)}</property>
+          		<property name="valueField">EnableCopyForText</property>
+          		<property name="modelPath">parent/model</property>
+        	  </block>
+        	  <!-- block listElementKey="enableGridCellCopy" name="CheckBox">
+          	    <property name="caption">{desc:mstrWeb.9817|Enable copy for grid cell}</property>
+                <property name="valueField">EnableCopyForGridCell</property>
+                <property name="modelPath">parent/model</property>
+              </block-->
+            </list>
+          </property>
+        </block>
+		<block listElementKey="mobilefs" name="FieldSet">
+          <property name="legend">{desc:mstrWeb.5943|Mobile}</property>
+          <property name="modelPath">parent/model</property>
+          <property name="children">
+            <list>
+              <block listElementKey="documentThemeColor" name="ListPulldown">
+                <property name="horizontalCaption">{desc:mstrWeb.11463|Document theme color}:</property>
+                <property name="modelPath">parent/model/DocumentThemeColor</property>
+              </block>
+            </list>
+          </property>
+        </block>
+      </list>
+    </property>
+  </assignments>
+</block>
+<!--
+		DocumentTabAdvanced is the "Document Properties - Advanced" tab of the document properties editor.
+	-->

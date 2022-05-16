@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core
+END
+Prompt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/Prompt.xml
+END
+PromptAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/PromptAnswer.xml
+END
+Resolution.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/Resolution.xml
+END
+Property.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/Property.xml
+END
+Filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/Filter.xml
+END
+DateConstantPromptAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/DateConstantPromptAnswer.xml
+END
+PromptLocation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/PromptLocation.xml
+END
+ConstantPrompt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/ConstantPrompt.xml
+END
+ConstantPromptAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/ConstantPromptAnswer.xml
+END
+ElementsPrompt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/ElementsPrompt.xml
+END
+ElementsPromptAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/blocks/core/ElementsPromptAnswer.xml
+END

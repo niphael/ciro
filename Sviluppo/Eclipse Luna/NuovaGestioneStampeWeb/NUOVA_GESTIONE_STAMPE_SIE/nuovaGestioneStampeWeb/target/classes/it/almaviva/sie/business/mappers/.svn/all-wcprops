@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers
+END
+GestioneUtentiMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/GestioneUtentiMapper.class
+END
+DParametriApplicazioneMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/DParametriApplicazioneMapper.class
+END
+DVociMenuMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/DVociMenuMapper.class
+END
+DAnagraficaStampeMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/DAnagraficaStampeMapper.class
+END
+DCronologicoStampeMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/DCronologicoStampeMapper.class
+END
+DAbilitazioniStampeMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/DAbilitazioniStampeMapper.class
+END
+DProfiloMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/DProfiloMapper.class
+END
+VerificaEsistenzaMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/VerificaEsistenzaMapper.class
+END
+DAbilitazioniStampeLivOrgMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/DAbilitazioniStampeLivOrgMapper.class
+END
+DCronologicoMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/DCronologicoMapper.class
+END
+DUtentiProfiliMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/DUtentiProfiliMapper.class
+END
+RicercaPerCodiceDescrizioneMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/mappers/RicercaPerCodiceDescrizioneMapper.class
+END

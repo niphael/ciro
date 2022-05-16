@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Entrate/!svn/ver/3905/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service
+END
+MicrostrategyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/3905/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/MicrostrategyServiceImpl.java
+END
+DProfiloService.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/DProfiloService.java
+END
+VerificaEsistenzaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2369/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/VerificaEsistenzaService.java
+END
+DUtentiProfiliServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/DUtentiProfiliServiceImpl.java
+END
+RicercaPerCodiceDescrizioneService.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2353/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/RicercaPerCodiceDescrizioneService.java
+END
+GestioneUtentiServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2369/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/GestioneUtentiServiceImpl.java
+END
+DAnagraficheStampeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/Entrate/!svn/ver/3319/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/DAnagraficheStampeServiceImpl.java
+END
+DVociMenuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/2335/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/DVociMenuService.java
+END
+DAnagraficaStampeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2530/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/DAnagraficaStampeService.java
+END
+MicrostrategyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/3171/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/MicrostrategyService.java
+END
+CronologicoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2423/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/CronologicoServiceImpl.java
+END
+MicrostrategyServiceImpl2.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/3905/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/MicrostrategyServiceImpl2.java
+END
+DProfiloServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/Entrate/!svn/ver/2401/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/DProfiloServiceImpl.java
+END
+VerificaEsistenzaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2369/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/VerificaEsistenzaServiceImpl.java
+END
+DUtentiProfiliService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/DUtentiProfiliService.java
+END
+GestioneUtentiService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2358/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/GestioneUtentiService.java
+END
+RicercaPerCodiceDescrizioneServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/Entrate/!svn/ver/2353/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/RicercaPerCodiceDescrizioneServiceImpl.java
+END
+DAnagraficheStampeServiceImpl2.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2429/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/DAnagraficheStampeServiceImpl2.java
+END
+DVociMenuServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2422/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/DVociMenuServiceImpl.java
+END
+CronologicoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2369/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/service/CronologicoService.java
+END

@@ -1,0 +1,5 @@
+<application>
+  <controllers>
+    <controller name="mstrWeb"/>
+  </controllers>
+</application>

@@ -1,0 +1,191 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: env-details-view.css for environment details view
+*/
+
+.ipa-detailHeader-box{
+	margin: 0 0 5px 15px;
+	height:10px;
+	text-align:left;
+	padding-bottom:7px;	
+	background-color:#f0f0f0;	
+	border: 0px solid #494949;box-shadow: none;
+	min-width:890px;
+	width:82em;
+}
+
+.ipa-EnvDetail-moitorIcons{
+	width:150px;
+	margin-top:10px;
+	margin-left:2px;
+	margin-right:17px;
+}
+
+.ipa-envDetail-box{
+	border-radius:5px;
+	background-color:#EEE;
+	margin-bottom:5px;
+	padding-bottom:1px;
+	min-width:890px;
+	width:82em;
+}
+
+.ipa-envDetail-hbox{
+	height:80px;
+	padding: 5px 7px 4px 7px;
+	min-width:890px;
+	width:82em;
+	background-color:#e4e4e4;
+	padding-bottom:0px;
+}
+
+.ipa-envDetails-outer-box{	
+	position:relative;
+	min-width:945px;
+	width:82em;
+    overflow: visible;
+	 -moz-border-radius: 4px;
+	font-family: Tahoma, Arial, sans-serif;
+	//min-width:960px;	
+	border-radius:5px;
+	border-spacing:0;
+	border-collapse:separated;
+	margin: 0 auto;
+}
+
+.ipa-envDetails-page{	
+	height: 100%;
+	padding: 3px 3px 3px 7px;
+	overflow-x:hidden;
+	position:relative;
+	min-width:960px;
+	width:82em;
+	display:block;
+}
+
+.ipa-additional-counters-hbox{
+	position:relative;
+	height:100%;
+	min-width:960px;
+	width:82em;%;
+	overflow:hidden;	
+}
+
+.ipa-additional-counters-box{
+	 height:30px;
+	 border-radius:3px;
+	 background-color:#EAEAEA;
+	 margin:4px;
+	 width:240px;
+}
+
+.ipa-additional-counters-segment{
+	border-radius:5px;
+	background-color:#e4e4e4;
+	/*TQMS 652722*/
+	/*margin:10px;*/
+	margin-left:0px;
+	margin-top:0px;
+	padding:2px;
+	min-width:900px;
+	width:82em;
+}
+
+.ipa-additional-counters-segmentIE9{
+	border-radius:5px;
+	background-color:#e4e4e4;
+	/*TQMS 652722*/
+	/*margin:10px;*/
+	margin-left:0px;
+	margin-top:0px;
+	padding:2px;
+	/*TQMS 652722*/
+	min-width:885px;
+	width:82em;
+}
+
+.ipa-EnvTile-large{
+	position:relative;
+	height:100%;
+	width:33%;
+	float:left;
+}
+
+.ipa-iServer-view{
+	padding-top:10px;
+	border-top: 1px solid #555;
+	min-width:920px;
+	width:72em;
+}
+
+.ipa-webServer-view{
+	padding-top:16px;
+	padding-bottom:16px;
+	border-top: 1px solid #555;
+	min-width:920px;
+	width:72em;
+}
+
+.ipa-serverDown-img{
+	background:url(../images/IPA/serverDown_1.gif) no-repeat center right;	
+	width:900px;
+	position:relative;
+	height:100px;		
+	opacity:.15;	
+	left:-99%;
+	z-index:499;
+}
+
+.ipa-serverDown-lbl{
+	position: relative;
+	left: -1455px;
+	font-size: 22px;
+	color: orange;
+	font-weight: bolder;
+	z-index:500;
+}
+
+.ipa-additional-counter-button{
+	font-weight:bold;font-size:8pt;margin-bottom:4px;color:#008EAE
+}
+
+.ipa-counter-label{
+	text-align:left;font-weight: bold;width:110px;
+}
+
+.ipa-details-monitor-link{
+	text-decoration:underline;cursor:pointer
+}
+
+.ipa-details-manage-link{
+	text-decoration: underline;cursor: pointer;margin-left:20px;
+}
+
+.ipa-detailedGraph-dialog{
+	width:600px;height:550px;
+}
+
+.ipa-detailedGraph-lbl{
+	margin:10px;margin-bottom:0px;
+}
+
+.ipa-detailedGraph-popUp{
+	margin-left:10px;
+	width:600px;
+	border-bottom:1px solid #ABABAB;
+}
+
+.ipa-detailedGraph-btn{
+	cursor:pointer;
+	margin:0px;
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 11px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border:1px solid #ABABAB;
+	color:black;
+	background: #ededed;
+	outline:none;
+	input:-moz-focus-inner { border: 0; }	
+}

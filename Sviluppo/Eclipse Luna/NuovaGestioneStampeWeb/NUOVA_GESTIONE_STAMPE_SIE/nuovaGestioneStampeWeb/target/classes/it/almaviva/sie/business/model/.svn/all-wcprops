@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model
+END
+DAnagraficheStampeVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DAnagraficheStampeVO.class
+END
+MstrObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/MstrObject.class
+END
+BaseTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/BaseTO.class
+END
+BaseVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/BaseVO.class
+END
+DAmministrazioneVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DAmministrazioneVO.class
+END
+DAbilitazStampeVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DAbilitazStampeVO.class
+END
+DProfiloVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DProfiloVO.class
+END
+CronologicoNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/CronologicoNode.class
+END
+ReportMstrTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/ReportMstrTO.class
+END
+MstrConnectionParam.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/MstrConnectionParam.class
+END
+CodiceDescrizioneTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/CodiceDescrizioneTO.class
+END
+DCronologicoOnlineModVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DCronologicoOnlineModVO.class
+END
+DAnagraficaVociMenuVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DAnagraficaVociMenuVO.class
+END
+DParametriApplicazioneVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DParametriApplicazioneVO.class
+END
+ConnessioneMstrTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/ConnessioneMstrTO.class
+END
+EsitoMstrTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/EsitoMstrTO.class
+END
+DRagionerieVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DRagionerieVO.class
+END
+ParametriCodiceDescrizioneTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/ParametriCodiceDescrizioneTO.class
+END
+DCronologicoStampeVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DCronologicoStampeVO.class
+END
+Utente.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/Utente.class
+END
+DPeriodicitaVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DPeriodicitaVO.class
+END
+DAbilitazStampeLivOrgVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DAbilitazStampeLivOrgVO.class
+END
+DUtentiProfiliVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DUtentiProfiliVO.class
+END
+MstrUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/MstrUtils.class
+END
+DUtentiDestinatariVO.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/DUtentiDestinatariVO.class
+END
+MstrParamTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/MstrParamTO.class
+END
+Profilo.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/Profilo.class
+END
+UtenteDestinatarioReportTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/UtenteDestinatarioReportTO.class
+END
+VisualizzaStampaTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/model/VisualizzaStampaTO.class
+END

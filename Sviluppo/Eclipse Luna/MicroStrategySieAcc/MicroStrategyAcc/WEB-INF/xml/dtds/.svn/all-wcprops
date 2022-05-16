@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds
+END
+endpointClass.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/endpointClass.dtd
+END
+taskProcessorController.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/taskProcessorController.dtd
+END
+beanTask.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/beanTask.dtd
+END
+jsBundles.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/jsBundles.dtd
+END
+aggregatingTaskFactory.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/aggregatingTaskFactory.dtd
+END
+styleCatalog.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/styleCatalog.dtd
+END
+widgetDefinition.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/widgetDefinition.dtd
+END
+blockLibrary.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/blockLibrary.dtd
+END
+widgetAssignments.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/widgetAssignments.dtd
+END
+xhtml11-flat.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/xhtml11-flat.dtd
+END
+beanFactoryConfig.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/beanFactoryConfig.dtd
+END
+mstrlayout.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/dtds/mstrlayout.dtd
+END

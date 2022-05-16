@@ -1,0 +1,237 @@
+<DBS>
+	<DB n="DB2 Wire" id="1" captionIDS="584" mojoIDS="8516">
+		<DBP n="IP Address" t="text" captionIDS="585" mojoIDS="8517"/>
+		<DBP n="TCP Port" t="number" captionIDS="586" mojoIDS="8518"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	
+	<DB n="DB2 iSeries" id="2" captionIDS="588" mojoIDS="8520">
+		<DBP n="IP Address" t="text" captionIDS="585" mojoIDS="8517"/>
+		<DBP n="Collection" t="text" captionIDS="589" mojoIDS="8521"/>
+		<DBP n="Location" t="text" captionIDS="590" mojoIDS="689"/>
+		<DBP n="Isolation Level" t="list" captionIDS="591" mojoIDS="8522">
+			<PV v="0" n="Read uncommitted" captionIDS="592" mojoIDS="8523"/>
+			<PV v="1" n="Read Committed" captionIDS="593" mojoIDS="8524"/>
+			<PV v="2" n="Repeatable Read" captionIDS="594" mojoIDS="8528"/>
+			<PV v="3" n="Serializable" captionIDS="595" mojoIDS="8529"/>
+			<PV v="4" n="None" captionIDS="596" mojoIDS="512"/>
+		</DBP>
+		<DBP n="Package Owner" t="text" captionIDS="597" mojoIDS="8530"/>
+		<DBP n="TCP Port" t="text" captionIDS="586" mojoIDS="8518"/>
+	</DB>
+	
+	<DB n="DB2 z/OS" id="3" captionIDS="598" mojoIDS="8531">
+		<DBP n="IP Address" t="text" captionIDS="585" mojoIDS="8517"/>
+		<DBP n="Collection" t="text" captionIDS="589" mojoIDS="8521"/>
+		<DBP n="Location" t="text" captionIDS="590" mojoIDS="689"/>
+		<DBP n="Package Collection" t="text" captionIDS="599" mojoIDS="8532"/>
+		<DBP n="Package Owner" t="text" captionIDS="597" mojoIDS="8530"/>
+		<DBP n="TCP Port" t="text" captionIDS="586" mojoIDS="8518"/>
+		<DBP n="Host Name" t="text" captionIDS="600" mojoIDS="8533"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	
+	<DB n="Informix Wire" id="4" captionIDS="602" mojoIDS="8535">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Host Name" t="text" captionIDS="600" mojoIDS="8533"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	
+	<DB n="Informix XPS" id="5" captionIDS="604" mojoIDS="8537">
+		<DBP n="Database" t="text" captionIDS="605" mojoIDS="8538"/>
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Host Name" t="text" captionIDS="600" mojoIDS="8533"/>
+		<DBP n="Service Name" t="number" captionIDS="606" mojoIDS="8539"/>
+		<DBP n="Protocol Type" t="list" captionIDS="607" mojoIDS="8540">
+			<PV v="olsocspx"/>
+			<PV v="olsoctcp"/>
+			<PV v="onsocspx"/>
+			<PV v="onsoctcp"/>
+			<PV v="seipcpip"/>
+			<PV v="sesocspx"/>
+			<PV v="sesoctcp"/>
+		</DBP>
+	</DB>
+
+	<DB n="Postgre SQL" id="6" captionIDS="608" mojoIDS="8541">
+		<DBP n="Host Name" t="text" captionIDS="600" mojoIDS="8533"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	
+	<DB n="Sybase ASE" id="7" captionIDS="609" mojoIDS="8542">
+		<DBP n="Network Address" t="text" captionIDS="610" mojoIDS="8543"/>
+		<DBP n="Port" t="text" captionIDS="614" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+
+	<DB n="Sybase IQ" id="8" captionIDS="611" mojoIDS="8544">
+		<DBP n="Engine Name" t="text" captionIDS="612" mojoIDS="8536"/>
+		<DBP n="Host" t="text" captionIDS="613" mojoIDS="8533"/>
+		<DBP n="Port" t="text" captionIDS="614" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	
+	<DB n="Oracle" id="9" captionIDS="615" mojoIDS="8545">
+		<DBPS n="Standard Connection" captionIDS="616" mojoIDS="8546">
+			<DBP n="Host Name" t="text" captionIDS="600" mojoIDS="8533"/>
+			<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>			
+			<DBP n="SID" t="text" captionIDS="617" mojoIDS="8547"/>
+			<DBP n="Service Name" t="text" captionIDS="606" mojoIDS="8539"/>
+			<DBP n="Alternate Servers" t="text" captionIDS="618" mojoIDS="8548"/>			
+		</DBPS>
+		<DBPS n="TNSNames Connection" captionIDS="619" mojoIDS="8549">
+			<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+			<DBP n="TNSNames File" t="text" captionIDS="620" mojoIDS="8550"/>
+		</DBPS>
+	</DB>
+	
+	<DB n="SQL Server" id="10" captionIDS="621" mojoIDS="8552">
+		<DBP n="Server Name, Port" t="text" captionIDS="722" mojoIDS="8562"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+		<DBP n="Use Windows Authentication for login" t="boolean" captionIDS="622" mojoIDS="8551"/>
+	</DB>
+	
+	<DB n="Teradata" id="11" captionIDS="623" mojoIDS="8553">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>			
+		<DBP n="Use integrated security" t="boolean" captionIDS="624" mojoIDS="8554"/>
+		<DBP n="Mechanism" t="list" captionIDS="625" mojoIDS="8555">
+			<PV v=""/>
+			<PV v="KRB5"/>
+			<PV v="Ldap"/>
+			<PV v="NTLM"/>
+			<PV v="SPNEGO"/>
+			<PV v="TD2"/>
+		</DBP>
+		<DBP n="Parameter" t="text" captionIDS="626" mojoIDS="7135"/>
+	</DB>
+	
+	<DB n="MySQL" id="12" captionIDS="627" mojoIDS="8556">
+		<DBP n="Host Name" t="text" captionIDS="600" mojoIDS="8533"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+
+	<DB n="GreenPlum" id="13" captionIDS="628" mojoIDS="8557">
+		<DBP n="Host Name" t="text" captionIDS="600" mojoIDS="8533"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database" t="text" captionIDS="605" mojoIDS="8538"/>
+		<DBP n="Alternate Servers" t="text" captionIDS="618" mojoIDS="8548"/>
+	</DB>
+
+	<DB n="Netezza" id="14" captionIDS="629" mojoIDS="8558">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	
+	<DB n="Web Services" id="15" captionIDS="1660" mojoIDS="8560">
+		<DBP n="Script Mode" t="list" captionIDS="1663" mojoIDS="10064">
+			<PV v="XQuery"/>
+			<PV v="Salesforce SOQL"/>
+		</DBP>
+	</DB>
+	
+	<DB n="Hive" id="16" captionIDS="694" mojoIDS="8561">
+		<DBP n="Host" t="text" captionIDS="613" mojoIDS="8533"/>
+		<DBP n="Port" t="number" captionIDS="614" mojoIDS="8534"/>
+		<DBP n="Database" t="text" captionIDS="605" mojoIDS="8538"/>
+	</DB>
+
+	<DB n="Infobright" id="17" captionIDS="1619" mojoIDS="10063">
+		<DBP n="Host Name" t="text" captionIDS="600" mojoIDS="8533"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	
+	<DB n="Salesforce" id="18" captionIDS="1374"  mojoIDS="9213">
+		<DBP n="Host Name" t="text" captionIDS="600"  mojoIDS="8533" defaultValue="login.salesforce.com"/>
+	</DB>
+	<DB n="Microsoft Access" id="19" captionIDS="23839" mojoIDS="10054">
+		<DBP n="File Path" t="text" captionIDS="27283" mojoIDS="10055" />
+	</DB>		
+	<DB n="ParAccel" id="20" mojoIDS="10056">
+		<DBP n="Host Name" t="text" captionIDS="600"  mojoIDS="8533"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	<DB n="Amazon RedShift" id="21" mojoIDS="10057">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+
+	<DB n="Impala" id="22" mojoIDS="10065">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+	</DB>
+	
+	<DB n="Aster" id="23" mojoIDS="10058">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	<DB n="RedBrick" id="24" mojoIDS="10059">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	<DB n="VectorWise" id="25" mojoIDS="10060">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	<DB n="EnterpriseDB" id="26" mojoIDS="10061">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	<DB n="Vertica" id="27" mojoIDS="10062">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	<DB n="Denodo" id="28" mojoIDS="10072">
+		<DBP n="Server Name" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	<DB n="Composite" id="29" >
+		<DBP n="Server Name" t="text" captionIDS="600"  mojoIDS="8533"/>
+		<DBP n="Port Number" t="number" captionIDS="601" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	<DB n="MySQL Community Edition" id="30">
+		<DBP n="Server" t="text" captionIDS="603" mojoIDS="8536"/>
+		<DBP n="Port" t="number" captionIDS="614" mojoIDS="8534"/>
+		<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+	</DB>
+	<DB n="SAP HANA" id="31">
+        <DBP n="Server" t="text" captionIDS="603" mojoIDS="8536"/>
+    </DB>
+	<DB n="Connection Cloud" id="32">
+        <DBP n="Server" t="text" captionIDS="603" mojoIDS="8536"/>
+    </DB>
+    <DB n="Google Big Query" id="33">
+        <DBP n="RefreshToken" t="text" />
+        <DBP n="Catalog" t="text" />
+    </DB>
+    <DB n="Kognitio" id="34">
+        <DBP n="Server" t="text" captionIDS="603" mojoIDS="8536"/>
+    </DB>
+    <DB n="SAND CDBMS" id="35">
+        <DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+        <DBP n="Connection" t="text"/>
+    </DB>
+    <DB n="MapR Drill" id="121">
+	<DBP n="Host" t="text" captionIDS="600" mojoIDS="8533"/>
+	<DBP n="Port Number" t="number" captionIDS="614" mojoIDS="8534"/>
+	<DBP n="Database" t="text" captionIDS="587" mojoIDS="8538"/>
+    </DB>
+    <DB n="Cirro" id="122">
+	<DBP n="Server" t="text" captionIDS="603" mojoIDS="8536"/>
+	<DBP n="Port" t="number" captionIDS="614" mojoIDS="8534"/>
+	<DBP n="Database Name" t="text" captionIDS="587" mojoIDS="8519"/>
+    </DB>
+</DBS>

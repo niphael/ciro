@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+  <display-name>Web Tier</display-name>
+  <context-param>
+  	<!--
+  		This value is only used if you meet all of the following deployment criteria:
+  		1) J2EE
+  		2) unexploded deployments
+  		3) more than one deployment
+  		
+  		Each deployment must have a unique contextPath. Required
+  		as an interim measure until our baseline is Servlet API 2.5.
+  	-->
+  	<param-name>contextPath</param-name>
+  	<param-value></param-value>
+  </context-param>
+  <!-- filter>      
+    <filter-name>SpnegoFilter</filter-name>
+    <display-name>SpnegoFilter</display-name>
+    <filter-class>com.microstrategy.web.filter.SpnegoFilter</filter-class> 
+  </filter>
+  <filter-mapping>
+  	<filter-name>SpnegoFilter</filter-name>
+  	<servlet-name>mstrWeb</servlet-name>
+  </filter-mapping-->   
+  <filter>
+      <filter-name>ExpireHeader</filter-name>
+      <filter-class>com.microstrategy.web.filter.ExpireHeaderFilter</filter-class>
+  </filter>
+  <filter-mapping>
+      <filter-name>ExpireHeader</filter-name>
+      <url-pattern>*.js</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+      <filter-name>ExpireHeader</filter-name>
+      <url-pattern>*.css</url-pattern>
+  </filter-mapping>
+  <servlet>
+    <servlet-name>mstrDocumentImages</servlet-name>
+    <servlet-class>com.microstrategy.web.servlets.DocumentImageServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>mstrWeb</servlet-name>
+    <display-name>Main Servlet</display-name>
+    <servlet-class>com.microstrategy.web.servlets.MainServlet</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+    <servlet>
+    <servlet-name>exportWeb</servlet-name>
+    <display-name>Export Servlet</display-name>
+    <servlet-class>com.giano.transforms.ExportServlet</servlet-class>
+   </servlet>
+  <servlet>
+    <servlet-name>mstrWeb72GraphLoader</servlet-name>
+    <servlet-class>com.microstrategy.web.servlets.OldLinksServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>mstrWeb72RebuildReport</servlet-name>
+    <servlet-class>com.microstrategy.web.servlets.OldLinksServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>mstrWebAdmin</servlet-name>
+    <display-name>Web Administration Servlet</display-name>
+    <servlet-class>com.microstrategy.web.servlets.MainServlet</servlet-class> 
+    <security-role-ref>
+      <role-name>ADMIN</role-name>
+      <role-link>admin</role-link>
+    </security-role-ref>
+  </servlet>
+  <servlet>
+    <servlet-name>mstrServerAdmin</servlet-name>
+    <display-name>Intelligence-Server Administration Servlet</display-name>
+    <servlet-class>com.microstrategy.web.servlets.MainServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>TaskProcessorServlet</servlet-name>
+    <display-name>TaskProcessorServlet</display-name>
+    <description>This is the Servlet that handles all AJAX-style requests from browser clients.</description>
+    <servlet-class>com.microstrategy.web.servlets.TaskProcessorServlet</servlet-class>
+    <load-on-startup>10</load-on-startup>
+  </servlet>
+  <servlet>
+    <servlet-name>TaskViewerServlet</servlet-name>
+    <display-name>TaskViewerServlet</display-name>
+    <description>This is the Servlet that provides tool interface for task developers to discover and test tasks.</description>
+    <servlet-class>com.microstrategy.web.servlets.TaskViewerServlet</servlet-class>
+    <load-on-startup>20</load-on-startup>
+  </servlet>
+  <servlet>
+    <servlet-name>TaskAdminServlet</servlet-name>
+    <display-name>TaskAdminServlet</display-name>
+    <description>This is the Servlet that handles administrative tasks.</description>
+    <servlet-class>com.microstrategy.web.servlets.TaskAdminServlet</servlet-class>
+    <load-on-startup>30</load-on-startup>
+  </servlet>
+  <servlet>
+    <servlet-name>MobileServlet</servlet-name>
+    <display-name>MobileServlet</display-name>
+    <description>This is the Servlet that handles all requests from MicroStrategy Mobile.</description>
+    <servlet-class>com.microstrategy.web.servlets.MobileServlet</servlet-class>
+    <init-param>
+      <param-name>servletDeploymentName</param-name>
+      <param-value>mobile</param-value>
+    </init-param>
+    <init-param>
+      <param-name>controllerClass</param-name>
+      <param-value>com.microstrategy.web.controller.MobileController</param-value>
+      <description>This is the Fully Qualified Class Name of the AppController class to instantiate.</description>
+    </init-param>
+    <load-on-startup>10</load-on-startup>
+  </servlet>
+  <servlet>
+    <servlet-name>ResourceFeed</servlet-name>
+    <display-name>ResourceFeed</display-name>
+    <servlet-class>com.microstrategy.web.servlets.ResourceFeed</servlet-class>
+    <load-on-startup>11</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MobileServlet</servlet-name>
+    <url-pattern>/servlet/mobile</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TaskProcessorServlet</servlet-name>
+    <url-pattern>/servlet/taskProc</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TaskAdminServlet</servlet-name>
+    <url-pattern>/servlet/taskAdmin</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TaskViewerServlet</servlet-name>
+    <url-pattern>/servlet/taskViewer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>mstrDocumentImages</servlet-name>
+    <url-pattern>/servlet/Images/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>mstrWeb72GraphLoader</servlet-name>
+    <url-pattern>/servlet/MSIGraphLoader.asp</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>mstrWeb72RebuildReport</servlet-name>
+    <url-pattern>/servlet/RebuildReport.asp</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>mstrDocumentImages</servlet-name>
+    <url-pattern>/servlet/images/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>mstrWeb</servlet-name>
+    <url-pattern>/servlet/mstrWeb</url-pattern>
+  </servlet-mapping>
+    <servlet-mapping>
+    <servlet-name>exportWeb</servlet-name>
+    <url-pattern>/servlet/exportWeb</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>mstrWeb</servlet-name>
+    <url-pattern>/export/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>mstrWebAdmin</servlet-name>
+    <url-pattern>/servlet/mstrWebAdmin</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ResourceFeed</servlet-name>
+    <url-pattern>/servlet/resourceFeed</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>mstrServerAdmin</servlet-name>
+    <url-pattern>/servlet/mstrServerAdmin</url-pattern>
+  </servlet-mapping>
+  <session-config>
+    <session-timeout>30</session-timeout>
+  </session-config>
+  <mime-mapping>
+    <extension>css</extension>
+    <mime-type>text/css</mime-type>
+  </mime-mapping>
+  <taglib>
+    <taglib-uri>/webUtilTL.tld</taglib-uri>
+    <taglib-location>/WEB-INF/tlds/webUtilTL.tld</taglib-location>
+  </taglib>
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>Administrator</web-resource-name>
+      <url-pattern>/servlet/mstrWebAdmin</url-pattern>
+      <!-- TQMS 245539: The following url-patterns are to prevent IBM WebSphere 6.0.2 security hole being exploited.  -->
+      <url-pattern>/servlet/mstrWebAdmin/*</url-pattern>
+      <url-pattern>/servlet/mstrWeb/mstrWebAdmin</url-pattern>
+      <url-pattern>/servlet/mstrWeb/mstrWebAdmin/*</url-pattern>     
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>admin</role-name>
+    </auth-constraint>
+    <user-data-constraint>
+      <transport-guarantee>NONE</transport-guarantee>
+    </user-data-constraint>
+  </security-constraint>
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>TaskAdministrator</web-resource-name>
+      <url-pattern>/servlet/taskAdmin</url-pattern>
+      <url-pattern>/servlet/taskAdmin/*</url-pattern>        
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>admin</role-name>
+    </auth-constraint>
+    <user-data-constraint>
+      <transport-guarantee>NONE</transport-guarantee>
+    </user-data-constraint>
+  </security-constraint>
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>TaskDeveloper</web-resource-name>
+      <url-pattern>/servlet/taskViewer</url-pattern>
+      <url-pattern>/servlet/taskViewer/*</url-pattern>           
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>taskDeveloper</role-name>
+    </auth-constraint>
+    <user-data-constraint>
+      <transport-guarantee>NONE</transport-guarantee>
+    </user-data-constraint>
+  </security-constraint>
+  <!-- TQMS #859156 -->
+  <security-constraint>
+	<web-resource-collection>
+	  <web-resource-name>No HTTP access</web-resource-name>
+	  <url-pattern>/jsp/*</url-pattern>
+	  <url-pattern>/plugins/_Interface/jsp/*</url-pattern>
+	<url-pattern>/plugins/_Interface/WEB-INF/*</url-pattern>
+	</web-resource-collection>
+	<auth-constraint />
+	<user-data-constraint>
+	  <transport-guarantee>NONE</transport-guarantee>
+	</user-data-constraint>
+  </security-constraint>   
+  <login-config>
+    <auth-method>BASIC</auth-method>
+    <realm-name>Administrator Authentication Area</realm-name>
+  </login-config>
+  <security-role>
+    <role-name>admin</role-name>
+  </security-role>
+  <security-role>
+    <role-name>taskDeveloper</role-name>
+  </security-role>
+</web-app>

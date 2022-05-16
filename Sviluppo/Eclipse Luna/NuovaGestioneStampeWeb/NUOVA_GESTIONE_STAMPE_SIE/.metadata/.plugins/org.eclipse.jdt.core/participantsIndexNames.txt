@@ -1,0 +1,13 @@
+INDEX VERSION 1.127
+C:\nuovaGestioneStampe\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2904380665.index
+\simulatoreWeb\src\main\java
+C:\nuovaGestioneStampe\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\563714262.index
+\simulatoreWeb\src\main\java
+C:\nuovaGestioneStampe\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2195372011.index
+\simulatoreWeb\src\main\java
+C:\nuovaGestioneStampe\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\147233740.index
+\simulatoreWeb\src\main\java
+C:\nuovaGestioneStampe\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2318074546.index
+\simulatoreWeb\src\main\java
+C:\nuovaGestioneStampe\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3178056899.index
+\simulatoreWeb\src\main\java

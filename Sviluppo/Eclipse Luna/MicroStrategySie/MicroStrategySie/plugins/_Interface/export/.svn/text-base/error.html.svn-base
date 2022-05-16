@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>BENVENUTI. SIE</title>
+</head>
+<body>
+<!-- Inizio Intestazione-->
+<!-- Start Bean Transform -->
+<div>
+<link rel="stylesheet" type="text/css" href="../style/sie_style.css"/>
+<table class="w100 bgcolor" cellpadding="0" cellspacing="0">	
+<tbody>
+<tr>		
+<td class="width:196;">			
+<img src="../images/sie/logo_sie.jpg" alt="SIE - Sistema Informativo Entrate">		
+</td>		
+<td class="w100">			
+<table cellpadding="0" cellspacing="0" width="100%">	
+<tbody>
+<tr>			
+<td>					
+<table width="100%">				
+<tbody>
+<tr>											
+<td class="w80 alignTop" align="center">&nbsp;</td>
+<td class="w20 mnulat" align="center">						
+<a href="http://mizarp3.tesoro.it/sie/protected/visualizzaSchedaStampa.do?azione=inizializza" class="somm"><img src="../images/sie/torna_sie.png" title="Torna al SIE" alt="Torna al SIE"/></a>
+</td>
+</tr>
+</tbody>
+</table>		
+</td>	
+</tr>	
+<tr>
+<td class="intestazione">			
+<img src="../images/sie/stampa.png" title="Stampa" alt="Stampa"/>
+<img src="../images/sie/spazio.gif" alt="" height="2" width="1">
+</td>	
+</tr>	
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td class="titolo" align="center">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>		
+</tbody>
+</table>				
+</td>
+</tr>
+<tr>
+<td class="alignTop">		
+</td>		
+<td class="alignTop">			
+<table class="w100" cellpadding="1" cellspacing="2"> 
+<tbody>
+<tr> 
+<td class="intestazione2"></td> 
+</tr> 
+</tbody>
+</table>		
+</td>	
+</tr>	
+<tr>		
+<td class="alignTop">	</td>		
+</tr>
+</tbody>
+</table>
+</div>
+<!-- End Bean Transform -->
+<!-- Fine Intestazione-->
+<div class="mstrTransform" style="" ><table class="w100 cornice" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td class="alignTop" style="width: 100%;">		 		<table class="w100" cellpadding="0">               <tbody>						<tr style="display: none;">	                  <td class="w100"></td>	               </tr> 				</tbody>				</table>				<table class="w100" cellpadding="0">	            <tbody>						<tr>                      <td class="w100"></td>                  </tr>                  <tr>                  <td>   	               <table class="w100">   	                  <tbody>					     <tr style="display: none;">		                        <td class="w100"></td>   	                     </tr>   	                     <tr style="">   	                       <td class="w100 alignLeft"><h2>Attenzione non &egrave; stato possibile eseguire la richiesta.</h2><p>La stampa selezionata non &egrave; disponibile in questo momento riprovare pi&ugrave; tardi, se il problema persiste contattare l'amministratore di sistema.</p><br>											</td>										</tr>									</tbody>								</table>			             </td>         	       </tr> 					</tbody>				</table>			</td>		</tr>	</tbody></table></div>
+</body>
+</html>

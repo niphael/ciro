@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service
+END
+DAnagraficaStampeService.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/DAnagraficaStampeService.class
+END
+MicrostrategyService.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/MicrostrategyService.class
+END
+CronologicoServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/CronologicoServiceImpl.class
+END
+DProfiloServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/DProfiloServiceImpl.class
+END
+VerificaEsistenzaServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/VerificaEsistenzaServiceImpl.class
+END
+DUtentiProfiliService.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/DUtentiProfiliService.class
+END
+GestioneUtentiService.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/GestioneUtentiService.class
+END
+RicercaPerCodiceDescrizioneServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/RicercaPerCodiceDescrizioneServiceImpl.class
+END
+DVociMenuServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/DVociMenuServiceImpl.class
+END
+CronologicoService.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/CronologicoService.class
+END
+MicrostrategyServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/MicrostrategyServiceImpl.class
+END
+DProfiloService.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/DProfiloService.class
+END
+VerificaEsistenzaService.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/VerificaEsistenzaService.class
+END
+DUtentiProfiliServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/DUtentiProfiliServiceImpl.class
+END
+RicercaPerCodiceDescrizioneService.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/RicercaPerCodiceDescrizioneService.class
+END
+GestioneUtentiServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/GestioneUtentiServiceImpl.class
+END
+DAnagraficheStampeServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/DAnagraficheStampeServiceImpl.class
+END
+DVociMenuService.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/business/service/DVociMenuService.class
+END

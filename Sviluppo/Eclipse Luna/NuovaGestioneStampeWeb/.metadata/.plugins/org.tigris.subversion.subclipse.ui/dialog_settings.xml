@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="http://10.121.199.144/Entrate/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb" key="UrlCombo.nuovaGestioneStampeWeb.0"/>
+	<item value="700" key="SwitchDialog.size.x"/>
+	<item value="441" key="SwitchDialog.size.y"/>
+	<item value="610" key="SwitchDialog.location.x"/>
+	<item value="246" key="SwitchDialog.location.y"/>
+</section>

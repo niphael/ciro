@@ -1,0 +1,53 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: env-smallTiles-view.css for environment smallTiles view
+*/
+
+
+.ipa-env-small-thumbNailView{
+	position:relative;
+	height:100%;
+	width:100%;
+	overflow:hidden;
+}
+
+
+.ipa-EnvTile-small{
+	position:relative;
+	height:100%;
+	width:16.5%;
+	float:left;
+}
+
+.ipa-EMBox-small{
+	height: 50px;
+	width:135px;
+	padding: 3px 3px 0px 7px;
+}
+
+.ipa-EnvBox-small{
+	height: 50px;
+	width:120px;
+	padding: 3px 3px 0px 7px;
+}
+
+.ipa-envname-box-small{
+	position:relative;margin-bottom:4px
+}
+
+.ipa-envName-small{
+	font: bold 8pt Tahoma, Arial, Verdana;
+	max-width:90px;
+	padding-right:9px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+}
+
+.ipa-buttonDetailView-small{
+	height:57px;
+	width:15px;
+	background:lightblue;
+	position:relative;
+}

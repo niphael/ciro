@@ -1,0 +1,2262 @@
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465283105432</miliseconds>
+  <timestamp>06/07/2016 09:05:05:434</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465283105435</miliseconds>
+  <timestamp>06/07/2016 09:05:05:438</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465283105438</miliseconds>
+  <timestamp>06/07/2016 09:05:05:441</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465283105442</miliseconds>
+  <timestamp>06/07/2016 09:05:05:445</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465283105446</miliseconds>
+  <timestamp>06/07/2016 09:05:05:448</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465283105449</miliseconds>
+  <timestamp>06/07/2016 09:05:05:452</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465283109661</miliseconds>
+  <timestamp>06/07/2016 09:05:09:664</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465283124620</miliseconds>
+  <timestamp>06/07/2016 09:05:24:624</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284410847</miliseconds>
+  <timestamp>06/07/2016 09:26:50:849</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284410850</miliseconds>
+  <timestamp>06/07/2016 09:26:50:873</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284410873</miliseconds>
+  <timestamp>06/07/2016 09:26:50:877</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284410877</miliseconds>
+  <timestamp>06/07/2016 09:26:50:880</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284410881</miliseconds>
+  <timestamp>06/07/2016 09:26:50:886</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284410886</miliseconds>
+  <timestamp>06/07/2016 09:26:50:892</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284413073</miliseconds>
+  <timestamp>06/07/2016 09:26:53:080</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284419685</miliseconds>
+  <timestamp>06/07/2016 09:26:59:689</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284448031</miliseconds>
+  <timestamp>06/07/2016 09:27:28:036</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284528196</miliseconds>
+  <timestamp>06/07/2016 09:28:48:197</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284528197</miliseconds>
+  <timestamp>06/07/2016 09:28:48:202</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284528202</miliseconds>
+  <timestamp>06/07/2016 09:28:48:205</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284528206</miliseconds>
+  <timestamp>06/07/2016 09:28:48:209</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284528209</miliseconds>
+  <timestamp>06/07/2016 09:28:48:212</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284528213</miliseconds>
+  <timestamp>06/07/2016 09:28:48:216</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284529807</miliseconds>
+  <timestamp>06/07/2016 09:28:49:813</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284538097</miliseconds>
+  <timestamp>06/07/2016 09:28:58:102</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284609724</miliseconds>
+  <timestamp>06/07/2016 09:30:09:731</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284691644</miliseconds>
+  <timestamp>06/07/2016 09:31:31:648</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284744521</miliseconds>
+  <timestamp>06/07/2016 09:32:24:522</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284744523</miliseconds>
+  <timestamp>06/07/2016 09:32:24:527</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284744528</miliseconds>
+  <timestamp>06/07/2016 09:32:24:532</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284744532</miliseconds>
+  <timestamp>06/07/2016 09:32:24:536</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284744536</miliseconds>
+  <timestamp>06/07/2016 09:32:24:540</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284744540</miliseconds>
+  <timestamp>06/07/2016 09:32:24:544</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284746208</miliseconds>
+  <timestamp>06/07/2016 09:32:26:215</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465284829295</miliseconds>
+  <timestamp>06/07/2016 09:33:49:299</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287607313</miliseconds>
+  <timestamp>06/07/2016 10:20:07:313</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287622886</miliseconds>
+  <timestamp>06/07/2016 10:20:22:891</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287713723</miliseconds>
+  <timestamp>06/07/2016 10:21:53:724</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287713725</miliseconds>
+  <timestamp>06/07/2016 10:21:53:729</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287713729</miliseconds>
+  <timestamp>06/07/2016 10:21:53:733</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287713733</miliseconds>
+  <timestamp>06/07/2016 10:21:53:737</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287713737</miliseconds>
+  <timestamp>06/07/2016 10:21:53:742</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287713742</miliseconds>
+  <timestamp>06/07/2016 10:21:53:746</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287715590</miliseconds>
+  <timestamp>06/07/2016 10:21:55:595</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287733448</miliseconds>
+  <timestamp>06/07/2016 10:22:13:452</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465287799008</miliseconds>
+  <timestamp>06/07/2016 10:23:19:038</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465288098192</miliseconds>
+  <timestamp>06/07/2016 10:28:18:193</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465288098194</miliseconds>
+  <timestamp>06/07/2016 10:28:18:198</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465288098199</miliseconds>
+  <timestamp>06/07/2016 10:28:18:203</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465288098203</miliseconds>
+  <timestamp>06/07/2016 10:28:18:207</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465288098207</miliseconds>
+  <timestamp>06/07/2016 10:28:18:211</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465288098211</miliseconds>
+  <timestamp>06/07/2016 10:28:18:215</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465288100360</miliseconds>
+  <timestamp>06/07/2016 10:28:20:364</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465288116261</miliseconds>
+  <timestamp>06/07/2016 10:28:36:266</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465288165580</miliseconds>
+  <timestamp>06/07/2016 10:29:25:586</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465293932942</miliseconds>
+  <timestamp>06/07/2016 12:05:32:944</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465293932945</miliseconds>
+  <timestamp>06/07/2016 12:05:32:976</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465293932976</miliseconds>
+  <timestamp>06/07/2016 12:05:32:980</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465293932981</miliseconds>
+  <timestamp>06/07/2016 12:05:32:987</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465293932987</miliseconds>
+  <timestamp>06/07/2016 12:05:32:991</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465293932991</miliseconds>
+  <timestamp>06/07/2016 12:05:32:995</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465293935352</miliseconds>
+  <timestamp>06/07/2016 12:05:35:357</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465294235810</miliseconds>
+  <timestamp>06/07/2016 12:10:35:816</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465294279218</miliseconds>
+  <timestamp>06/07/2016 12:11:19:220</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465294279220</miliseconds>
+  <timestamp>06/07/2016 12:11:19:226</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465294279227</miliseconds>
+  <timestamp>06/07/2016 12:11:19:232</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465294279232</miliseconds>
+  <timestamp>06/07/2016 12:11:19:236</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465294279236</miliseconds>
+  <timestamp>06/07/2016 12:11:19:241</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465294279241</miliseconds>
+  <timestamp>06/07/2016 12:11:19:245</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465294280966</miliseconds>
+  <timestamp>06/07/2016 12:11:20:970</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295021830</miliseconds>
+  <timestamp>06/07/2016 12:23:41:831</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295021833</miliseconds>
+  <timestamp>06/07/2016 12:23:41:839</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295021839</miliseconds>
+  <timestamp>06/07/2016 12:23:41:843</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295021843</miliseconds>
+  <timestamp>06/07/2016 12:23:41:848</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295021848</miliseconds>
+  <timestamp>06/07/2016 12:23:41:855</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295021855</miliseconds>
+  <timestamp>06/07/2016 12:23:41:861</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295026815</miliseconds>
+  <timestamp>06/07/2016 12:23:46:815</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295315232</miliseconds>
+  <timestamp>06/07/2016 12:28:35:233</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295315234</miliseconds>
+  <timestamp>06/07/2016 12:28:35:242</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295315243</miliseconds>
+  <timestamp>06/07/2016 12:28:35:247</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295315247</miliseconds>
+  <timestamp>06/07/2016 12:28:35:251</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295315251</miliseconds>
+  <timestamp>06/07/2016 12:28:35:256</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295315257</miliseconds>
+  <timestamp>06/07/2016 12:28:35:261</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295321185</miliseconds>
+  <timestamp>06/07/2016 12:28:41:193</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295321201</miliseconds>
+  <timestamp>06/07/2016 12:28:41:205</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465295321208</miliseconds>
+  <timestamp>06/07/2016 12:28:41:213</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465296406216</miliseconds>
+  <timestamp>06/07/2016 12:46:46:218</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465296406219</miliseconds>
+  <timestamp>06/07/2016 12:46:46:226</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465296406226</miliseconds>
+  <timestamp>06/07/2016 12:46:46:232</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465296406233</miliseconds>
+  <timestamp>06/07/2016 12:46:46:236</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465296406236</miliseconds>
+  <timestamp>06/07/2016 12:46:46:240</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465296406240</miliseconds>
+  <timestamp>06/07/2016 12:46:46:244</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465296409576</miliseconds>
+  <timestamp>06/07/2016 12:46:49:581</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465296409588</miliseconds>
+  <timestamp>06/07/2016 12:46:49:593</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465296409595</miliseconds>
+  <timestamp>06/07/2016 12:46:49:601</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465297417173</miliseconds>
+  <timestamp>06/07/2016 13:03:37:175</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465297417176</miliseconds>
+  <timestamp>06/07/2016 13:03:37:224</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465297417225</miliseconds>
+  <timestamp>06/07/2016 13:03:37:231</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465297417231</miliseconds>
+  <timestamp>06/07/2016 13:03:37:235</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465297417235</miliseconds>
+  <timestamp>06/07/2016 13:03:37:240</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465297417240</miliseconds>
+  <timestamp>06/07/2016 13:03:37:245</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465297422519</miliseconds>
+  <timestamp>06/07/2016 13:03:42:526</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465297422529</miliseconds>
+  <timestamp>06/07/2016 13:03:42:535</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465297422538</miliseconds>
+  <timestamp>06/07/2016 13:03:42:543</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465303720360</miliseconds>
+  <timestamp>06/07/2016 14:48:40:361</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465303720383</miliseconds>
+  <timestamp>06/07/2016 14:48:40:389</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465303720390</miliseconds>
+  <timestamp>06/07/2016 14:48:40:395</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465303720395</miliseconds>
+  <timestamp>06/07/2016 14:48:40:401</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465303720402</miliseconds>
+  <timestamp>06/07/2016 14:48:40:407</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465303720407</miliseconds>
+  <timestamp>06/07/2016 14:48:40:412</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465303731412</miliseconds>
+  <timestamp>06/07/2016 14:48:51:417</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465303731425</miliseconds>
+  <timestamp>06/07/2016 14:48:51:431</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465303731434</miliseconds>
+  <timestamp>06/07/2016 14:48:51:440</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304016150</miliseconds>
+  <timestamp>06/07/2016 14:53:36:152</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304016154</miliseconds>
+  <timestamp>06/07/2016 14:53:36:192</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304016193</miliseconds>
+  <timestamp>06/07/2016 14:53:36:198</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304016199</miliseconds>
+  <timestamp>06/07/2016 14:53:36:203</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304016204</miliseconds>
+  <timestamp>06/07/2016 14:53:36:208</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304016208</miliseconds>
+  <timestamp>06/07/2016 14:53:36:212</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304016842</miliseconds>
+  <timestamp>06/07/2016 14:53:36:848</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304016854</miliseconds>
+  <timestamp>06/07/2016 14:53:36:862</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304016864</miliseconds>
+  <timestamp>06/07/2016 14:53:36:869</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304214835</miliseconds>
+  <timestamp>06/07/2016 14:56:54:836</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304214837</miliseconds>
+  <timestamp>06/07/2016 14:56:54:843</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304214844</miliseconds>
+  <timestamp>06/07/2016 14:56:54:849</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304214849</miliseconds>
+  <timestamp>06/07/2016 14:56:54:853</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304214854</miliseconds>
+  <timestamp>06/07/2016 14:56:54:858</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304214858</miliseconds>
+  <timestamp>06/07/2016 14:56:54:863</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304215505</miliseconds>
+  <timestamp>06/07/2016 14:56:55:512</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304215522</miliseconds>
+  <timestamp>06/07/2016 14:56:55:527</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304215529</miliseconds>
+  <timestamp>06/07/2016 14:56:55:534</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304527014</miliseconds>
+  <timestamp>06/07/2016 15:02:07:015</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304527016</miliseconds>
+  <timestamp>06/07/2016 15:02:07:048</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304527048</miliseconds>
+  <timestamp>06/07/2016 15:02:07:053</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304527054</miliseconds>
+  <timestamp>06/07/2016 15:02:07:058</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304527058</miliseconds>
+  <timestamp>06/07/2016 15:02:07:062</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304527063</miliseconds>
+  <timestamp>06/07/2016 15:02:07:067</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304528167</miliseconds>
+  <timestamp>06/07/2016 15:02:08:174</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304531461</miliseconds>
+  <timestamp>06/07/2016 15:02:11:465</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304531467</miliseconds>
+  <timestamp>06/07/2016 15:02:11:472</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304900427</miliseconds>
+  <timestamp>06/07/2016 15:08:20:428</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304900429</miliseconds>
+  <timestamp>06/07/2016 15:08:20:462</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304900462</miliseconds>
+  <timestamp>06/07/2016 15:08:20:466</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304900467</miliseconds>
+  <timestamp>06/07/2016 15:08:20:471</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304900471</miliseconds>
+  <timestamp>06/07/2016 15:08:20:475</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304900476</miliseconds>
+  <timestamp>06/07/2016 15:08:20:480</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304901242</miliseconds>
+  <timestamp>06/07/2016 15:08:21:248</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304901256</miliseconds>
+  <timestamp>06/07/2016 15:08:21:263</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465304901265</miliseconds>
+  <timestamp>06/07/2016 15:08:21:270</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305021038</miliseconds>
+  <timestamp>06/07/2016 15:10:21:040</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305021042</miliseconds>
+  <timestamp>06/07/2016 15:10:21:051</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305021052</miliseconds>
+  <timestamp>06/07/2016 15:10:21:057</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305021057</miliseconds>
+  <timestamp>06/07/2016 15:10:21:063</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305021063</miliseconds>
+  <timestamp>06/07/2016 15:10:21:068</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305021069</miliseconds>
+  <timestamp>06/07/2016 15:10:21:074</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305021704</miliseconds>
+  <timestamp>06/07/2016 15:10:21:710</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305021717</miliseconds>
+  <timestamp>06/07/2016 15:10:21:723</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305021725</miliseconds>
+  <timestamp>06/07/2016 15:10:21:731</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305250067</miliseconds>
+  <timestamp>06/07/2016 15:14:10:069</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305250112</miliseconds>
+  <timestamp>06/07/2016 15:14:10:141</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305250141</miliseconds>
+  <timestamp>06/07/2016 15:14:10:146</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305250146</miliseconds>
+  <timestamp>06/07/2016 15:14:10:150</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305250151</miliseconds>
+  <timestamp>06/07/2016 15:14:10:155</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305250156</miliseconds>
+  <timestamp>06/07/2016 15:14:10:160</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305250950</miliseconds>
+  <timestamp>06/07/2016 15:14:10:955</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305250962</miliseconds>
+  <timestamp>06/07/2016 15:14:10:968</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305250970</miliseconds>
+  <timestamp>06/07/2016 15:14:10:975</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305349458</miliseconds>
+  <timestamp>06/07/2016 15:15:49:493</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305349499</miliseconds>
+  <timestamp>06/07/2016 15:15:49:505</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.findClass(WebappClassLoader.java:1176)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1647)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465305349508</miliseconds>
+  <timestamp>06/07/2016 15:15:49:516</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (null)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317104846</miliseconds>
+  <timestamp>06/07/2016 18:31:44:847</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317104848</miliseconds>
+  <timestamp>06/07/2016 18:31:44:896</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317104896</miliseconds>
+  <timestamp>06/07/2016 18:31:44:900</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317104901</miliseconds>
+  <timestamp>06/07/2016 18:31:44:905</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317104905</miliseconds>
+  <timestamp>06/07/2016 18:31:44:909</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317104909</miliseconds>
+  <timestamp>06/07/2016 18:31:44:913</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317105904</miliseconds>
+  <timestamp>06/07/2016 18:31:45:910</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0 (java.lang.UnsupportedClassVersionError)</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:1361)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1825)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.createPage(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processEvent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.GenericEventHandler.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.ServletEventHandlerImpl.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractWebComponent.handleRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317105917</miliseconds>
+  <timestamp>06/07/2016 18:31:45:922</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0</message>
+  <exception>java.lang.UnsupportedClassVersionError: com/giano/transforms/GianoFolderViewTransform : Unsupported major.minor version 51.0&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass1(Native Method)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClassCond(ClassLoader.java:631)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.defineClass(ClassLoader.java:615)&#x0D;&#x0A;&#x09;at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:141)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.defineClass(URLClassLoader.java:283)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.access$000(URLClassLoader.java:58)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader$1.run(URLClassLoader.java:197)&#x0D;&#x0A;&#x09;at java.security.AccessController.doPrivileged(Native Method)&#x0D;&#x0A;&#x09;at java.net.URLClassLoader.findClass(URLClassLoader.java:190)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:1361)&#x0D;&#x0A;&#x09;at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1825)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:295)&#x0D;&#x0A;&#x09;at java.lang.ClassLoader.loadClass(ClassLoader.java:247)&#x0D;&#x0A;&#x09;at java.lang.Class.forName0(Native Method)&#x0D;&#x0A;&#x09;at java.lang.Class.forName(Class.java:249)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.classForName(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.ReflectionHelper.newInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.transform.StyleCatalogImpl.getTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.addTransformByStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.utils.BeanHelper.addStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.getTransformForStyle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.setBeanStyles(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.WebBeanInfo.initBeanInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.PageInfo.getPageInstance(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.controller.GenericWebAppController.processRequest(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)&#x0D;&#x0A;&#x09;at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)&#x0D;&#x0A;&#x09;at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Thread.java:662)&#x0D;&#x0A;</exception>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317105924</miliseconds>
+  <timestamp>06/07/2016 18:31:45:929</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (Cannot call sendRedirect() after the response has been committed)</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317337081</miliseconds>
+  <timestamp>06/07/2016 18:35:37:082</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317337082</miliseconds>
+  <timestamp>06/07/2016 18:35:37:088</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317337089</miliseconds>
+  <timestamp>06/07/2016 18:35:37:093</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317337093</miliseconds>
+  <timestamp>06/07/2016 18:35:37:099</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317337099</miliseconds>
+  <timestamp>06/07/2016 18:35:37:103</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317337103</miliseconds>
+  <timestamp>06/07/2016 18:35:37:108</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1465317351588</miliseconds>
+  <timestamp>06/07/2016 18:35:51:588</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/annotation/support
+END
+SubscriptionMethodReturnValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/annotation/support/SubscriptionMethodReturnValueHandler.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/annotation/support/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/annotation/support/package-summary.html
+END
+PrincipalMethodArgumentResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/annotation/support/PrincipalMethodArgumentResolver.html
+END
+SimpAnnotationMethodMessageHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/annotation/support/SimpAnnotationMethodMessageHandler.html
+END
+SendToMethodReturnValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/annotation/support/SendToMethodReturnValueHandler.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/annotation/support/package-tree.html
+END
+MissingSessionUserException.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/simp/annotation/support/MissingSessionUserException.html
+END

@@ -1,0 +1,94 @@
+/*
+ * MicroStrategy Labs
+ * Copyright © 1996-2013 MicroStrategy, Incorporated
+ * CSS file: IPAManagers-jsp.css for IPAManagers.jsp page
+ */
+/* START manager button image selectors */
+.ipa-mgr-title { /* manager title  */
+    text-overflow: ellipsis;
+    font: bold 10pt Tahoma, Arial, Verdana;
+    padding-left: 10px;
+}
+
+.ipa-mgr-main-area { /*data table and editing area*/
+    margin: 0;
+    margin-top: 10px;
+    border-radius: 4px 4px 4px 4px;
+    border: 1px solid #BABABA;
+    width: 940px;
+}
+
+.ipa-mgr-navbar {
+    margin-top: 10px;
+    width: 100%;
+    border-bottom: 2px solid #BABABA;
+}
+
+.ipa-mgr-btn {
+    float: right;
+    height: 32px;
+    width: 32px;
+    text-align: left;
+    margin-left: 0px;
+    margin-bottom: 3px;
+    font-size: 0.99em;
+    display: block;
+}
+
+.ipa-mgr-cmdmgr-btn {
+    background: url(../images/IPA/cmdmgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-clustermgr-btn {
+    background: url(../images/IPA/clusterMgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-dbinstance-btn {
+    background: url(../images/IPA/dbinstanceMgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-user-btn {
+    background: url(../images/IPA/userMgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-subscription-btn {
+    background: url(../images/IPA/subscriptionMgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-secroles-btn {
+    background: url(../images/IPA/secRolesMgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-language-btn {
+    background: url(../images/IPA/languageMgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-projaccess-btn {
+    background: url(../images/IPA/projAccessMgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-device-btn {
+    background: url(../images/IPA/deviceMgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-schemaint-btn {
+    background: url(../images/IPA/scheMaintMgr_32.gif) no-repeat center;
+}
+
+.ipa-mgr-schedule-btn {
+    background: url(../images/IPA/scheduleMgr_32.gif) no-repeat center;
+}
+
+/* END manager button image selectors */
+.mgr-link-btn { /* the button looks like a link */
+    text-decoration: underline;
+    color: blue;
+    font-size: 10pt;
+    margin-left: 5px;
+    text-align: left;
+}
+
+.mgr-text-in-tbl { /*text in the data grid*/
+    text-align: left;
+    margin-left: 5px
+}

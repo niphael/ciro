@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/3171/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/util
+END
+MstrCodedErrors.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/util/MstrCodedErrors.java
+END
+ApplicationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/util/ApplicationException.java
+END
+PropertyConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/util/PropertyConfigurer.java
+END
+MstrCostanti.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/Entrate/!svn/ver/3171/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/util/MstrCostanti.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Entrate/!svn/ver/2632/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/util/Util.java
+END
+TraceLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/util/TraceLogger.java
+END

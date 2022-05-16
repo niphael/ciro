@@ -1,0 +1,871 @@
+/* <!-- These classes define the colors, fonts, borders & backgrounds of global HTML elements of the page. --> */
+
+.mstr {
+    background: #d7f3ff;
+    cursor: default;
+}
+.mstr, .mstr input, .mstr select, .mstr textarea{
+    font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+    font-size: 8pt;
+}
+.mstr select {
+    background: #ffffff;
+}
+.mstr input.txt,
+.mstr textarea {
+    border: 1px solid #404040;
+    background: #ffffff;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.mstr input.img {
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #8C8783;
+    border-bottom: 1px solid #82817D;
+}
+.mstr .btn,
+.mstr .btnDisabled,
+.mstr .btnSelected {
+    padding-left: 3px;
+    padding-right: 3px;
+    color: #000000;
+
+    /* use Windows 2003 grey */
+    background: #d4d0c7;
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #8C8783;
+    border-bottom: 1px solid #82817D;
+}
+.mstr .btnSelected {
+    border-bottom: 1px solid #ffffff;
+    border-right: 1px solid #ffffff;
+    border-left: 1px solid #8C8783;
+    border-top: 1px solid #82817D;
+}
+.mstr .btn {
+    cursor: pointer;
+    cursor: hand;
+}
+.mstr .btnDisabled,
+.mstr .btnDisabledSelected {
+    -moz-opacity: 0.3;
+    /* removed opacity filter */
+}
+
+/* color scheme (these will be moved to a separate file in Beta 2 */
+
+.mstr a {
+    color: #000000;         /* was #000099 */
+    text-decoration: underline; /* was none */
+    cursor: pointer;
+}
+.mstr .largeIconView .name a {
+    color: #cc0000;
+    text-decoration: none;
+}
+.mstr .largeIconView .name a:hover {
+    color: #990000;
+}
+.mstr .mstrFooter a {
+    color: #990000;
+    text-decoration: none;
+}
+.mstr .mstrFooter a:hover {
+    color: #cc0000;
+}
+.mstr .tree span {
+    color: #000000;
+    text-decoration: none;
+}
+.mstr #folderToolbar,
+.mstr #subscriptionsToolbar,
+.mstr #inboxToolbar {
+    background: transparent;    /* no gradient for Folder, Subscriptions & History List toolbars in Path bar */
+    background-image: none;     /* for Safari & other browsers, who don't overwrite background-image with background */
+}
+
+/* The following classes define the colors, fonts, borders & backgrounds of the major areas of the page. */
+
+.mstrToolbarWrapper {
+    width: 100%;
+    text-align: left;    
+}
+
+/* Shortcuts Bar */
+
+.mstrHeader {   
+    
+}
+
+#mstrWeb_shortcutsBar .mstr-link{
+    font-weight: bold;
+}
+
+.mstrHeader a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.mstrHeader a:hover {
+    color: #ffffcc;
+    text-decoration: underline;
+}
+.mstrHeader span.selected a {
+    color: #ffffcc;
+}
+.mstrHeader input.txt {
+    background: #d4d0c7;
+    border-left: 1px solid #8C8783;
+    border-top: 1px solid #82817D;
+    border-right: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+.mstrHeader #tbSearch {
+    border: 0px;
+    background: url(images/magnifyGlassWhite.gif) no-repeat center center;
+}
+.mstrHeader td {
+    white-space: nowrap;
+}
+
+/* Path Bar  */
+
+.mstrPath {
+    background: #f5f5f4 url(images/greyGradientHoriz.jpg) repeat-y left top;    /* grey gradient background image */
+    padding-left: 5px;
+    padding-bottom: 0px;
+}
+
+/* possibly try using a textbox like scheme for address bar path
+.mstrPath .path {
+    float: none;
+    margin-left: 54px;
+    border: 2px inset;
+    background: #ffffff;
+    padding: 1px;
+}
+*/
+.mstrPath .path a {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.mstrPath img {
+    border: 0px;
+    text-decoration: none;
+    background: transparent no-repeat left center;  /* was center center; use left to show enabled version only for toolbar icons */
+}
+.mstrPath .last {
+    font-weight: bold;
+}
+#tbHome {
+    background-image: url(images/tbHome.gif);
+}
+#tbReturn {
+    background-image: url(images/tbReturn.gif);
+}
+#tbNewFolder {
+    background-image: url(images/tbNewFolder.gif);  /* was: btnNewFolder.gif */
+}
+
+/* top toolbar dock area */
+
+.mstrDockTop {
+    
+}
+
+
+/* Menu Bar(s) */
+
+.mstrMenuBar {
+    background: #f5f4f2 url(images/greyGradientVert.jpg) repeat-x left bottom;  /* grey gradient background image */
+    border-top: 1px solid #7E7D7B;
+    border-left: 2px solid #ffffff;
+    border-right: 1px solid #8C8783;
+    border-bottom: 1px solid #82817D;
+}
+
+
+/* html only menus */
+
+.htmlMenu .menu-header,
+.htmlMenu .menu-header-disabled,
+.htmlMenu .menu-header-selected {
+    padding: 0px;
+    border: 0px;
+    cursor: default;
+    background: none;
+}
+
+.menu-header,
+.menu-header-disabled,
+.menu-header-selected {
+    padding: 2px;
+    xpadding-right: 18px;
+    padding-left: 6px;
+    padding-right: 14px;
+    white-space: nowrap;
+    border: 1px solid #d4d0c7;
+    cursor: hand;
+    cursor: pointer;
+    background: transparent url(images/tbPulldown.gif) no-repeat right center;
+}
+.menu-header-disabled {
+    cursor: default;
+    color: #cccccc;
+}
+.menu-header-selected {
+    cursor: default;
+    background-color: #CACAC2;
+    border: 1px solid #404040;
+}
+.menu-header img,
+.menu-header-disabled img,
+.menu-header-selected img {
+    display: none;
+}
+.menu-hidden {
+    position: absolute;
+    visibility: hidden;
+    top: 0;
+    left: -300;
+    z-index: 98;
+}
+.menu-block {
+        border:             1pt solid #404040;
+        background-color:   #f7f7ee;
+        cursor:             pointer;
+        cursor:             hand;
+}
+.menu-row {
+}
+.menu-row-selected {
+    background-color: #aebed2;
+    cursor: default;
+}
+.menu-item,
+.menu-item-disabled {
+    padding: 2px;
+    cursor: default;
+}
+.menu-item-disabled {
+        color:              #cccccc;
+}
+.menu-item-image {
+        background-color:   #cacac2;
+}
+.menu-item-image-disabled {
+        background-color:   #dbdbd2;
+}
+.menu-separator,
+.menu-separator-disabled {
+        padding:            2px;
+        border-bottom:      1px solid #999999;
+}
+.menu-separator-disabled {
+        color:              #cccccc;
+}
+.menu-top-separator,
+.menu-top-separator-disabled {
+        padding:            2px;
+        border-top:         1px solid #999999;
+}
+.menu-top-separator-disabled {
+        color:              #cccccc;
+}
+
+/* toolbars */
+
+.mstrToolbar {
+    margin: 0px;
+    background: #f5f4f2 url(images/greyGradientVert.jpg) repeat-x left bottom;  /* grey gradient background image */
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #8C8783;
+    border-bottom: 1px solid #82817D;
+}
+.mstrToolbar .group,
+.mstrToolbar .groupdisabled {
+    border-right: 1px solid #A5A4A2;
+    border-left: 1px solid #ffffff;
+}
+.mstrToolbar .caption {
+    border: 1px solid #ffffff;
+    background-color: transparent;
+}
+.mstrToolbar .captiondisabled,
+.mstrToolbar .groupdisabled .caption {
+    color: #404040;
+}
+.mstrToolbar .objectList,
+.mstrToolbar .objectListdisabled,
+.mstrToolbar .pulldown {
+    border: 1px solid #404040;
+    background-color: #ffffff;
+}
+.mstrToolbar .pulldown,
+.mstrToolbar .pulldowndisabled {
+    padding-right: 13px;
+    background-image: url(images/tbPulldown.gif);
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+.mstrToolbar .pulldowndisabled,
+.mstrToolbar .groupdisabled .pulldown {
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    color: #404040;
+}
+.mstrToolbar label.disabled,
+.mstrToolbar .groupdisabled label {
+    color: #404040;
+}
+.mstrToolbar img,
+.mstrToolbar input.img,
+.mstrToolbar input.imgdisabled {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: left center;   /* was center center */
+    border: 0px;
+    /*  formerly threed border
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+    */
+}
+.mstrToolbar img.arrow,
+.mstrToolbar img.arrowdisabled {
+    background-image: url(images/tbPulldown.gif);
+}
+.mstrToolbar img,
+.mstrToolbar input.img,
+.mstrToolbar .pulldown {
+    cursor: hand;
+    cursor: pointer;
+}
+.mstrToolbar img.disabled,
+.mstrToolbar img.disabledselected,
+.mstrToolbar .groupdisabled img,
+.mstrToolbar input.imgdisabled,
+.mstrToolbar input.imgdisabledselected,
+.mstrToolbar .groupdisabled input.img,
+.mstrToolbar .pulldowndisabled,
+.mstrToolbar .groupdisabled .pulldown,
+.mstrToolbar .combodowndisabled img,
+.mstrToolbar .groupdisabled .combodown img {
+    color: #404040;
+    cursor: default;
+}
+.mstrToolbar img.selected,
+.mstrToolbar img.disabledselected,
+.mstrToolbar input.imgselected,
+.mstrToolbar input.imgdisabledselected {
+    background-color: #D4D5D8;  /* was #eeeeee */
+    margin: 0px;
+    /* new border color for Win2003 consistency
+    border-left: 1px solid #999999;
+    border-top: 1px solid #999999;
+    border-right: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    */
+    border: 1px solid #0A246A;
+}
+.mstrToolbar .groupdisabled img,
+.mstrToolbar img.disabled,
+.mstrToolbar img.disabledselected,
+.mstrToolbar .groupdisabled input.img,
+.mstrToolbar input.imgdisabled,
+.mstrToolbar input.imgdisabledselected,
+.mstrToolbar .combodowndisabled img {
+    -moz-opacity: 0.3;
+    background-position: right center;  /* was center center, removed opacity 33 filter */
+}
+.mstrToolbar .combodown,
+.mstrToolbar .combodowndisabled {
+    margin: 1px;
+    border: 0px;
+}
+.mstrToolbar .caption img {
+    background-image: url(images/x8x8.gif);
+}
+.mstrToolbar input.txt {
+    border: 1px solid #404040;
+    background-color: #ffffff;
+}
+.mstrToolbar .groupdisabled input.txt,
+.mstrToolbar input.txtdisabled {
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    color: #404040;
+}
+
+/* <!-- Error display --> */
+
+.mstrError {
+    padding: 0px;
+}
+.mstrAlert .title {
+    font-size: 11pt;
+    font-weight: bold;
+}
+.mstrError .mstrAlert .title {
+    color: #660000;
+}
+.mstrError .mstrAlert {
+    border: 1px solid #660000;
+    background: #eeeeee;
+}
+.mstrContent .mstrAlert {
+    /*
+    padding-left: 73px;
+    background: url(images/lgGrid.gif) no-repeat left top;  
+    *//* formerly jobError.gif*/
+}
+
+
+/* <!-- Main Contents --> */
+
+.mstrContent {
+}
+
+/* <!-- Page Footer --> */
+
+.mstrFooter {
+    border-top: 1px solid #d4d0c7;
+    padding: 6px;
+    padding-top: 9px;
+}
+.mstrFooter a {
+    border-left: 1px solid #d4d0c7;
+}
+
+/* <!-- Other common elements --> */
+.divWaitCurtain {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 119;
+    background-color: transparent;  /* was #00000 with 1% opacity */
+    background: transparent url(../../images/1ptrans.gif) no-repeat center center;
+}
+#divWaitBox {
+    z-index: 120;
+}
+#divWaitBox .body img {
+    width: 10px;
+    height: 17px;
+    border: 0px;
+    float: left;
+    margin-right: 6px;
+}
+#divWaitBox .buttonbar {
+    padding: 0px;
+    padding-left: 17px;
+    text-align: left;
+    z-index: 120;
+}
+
+#msgBox {
+    width: 400px;
+}
+#msgBox .buttonBar {
+    text-align: center;
+}
+
+.mstrCurtain {
+    background: transparent;    /* was #ffffff */
+    background: transparent url(../../images/1ptrans.gif) no-repeat center center;
+}
+#btnDockLeft {      /* icon to open and close left dock bar */
+    border: 0px;
+}
+
+/* bulleted lists, as in left dock bar */
+
+div.bullets div {
+    padding-left: 1.25em;
+    margin-top: 0.5em;
+    background: transparent url(images/bullet.gif) no-repeat 3px 0.5em;
+
+}
+div.bullets div.title {
+    padding-left: 0px;
+    background: transparent;
+    background-image: none;     /* for Safari & browsers who don't overwrite background-image with background */
+}
+
+/* Help and Close buttons */
+
+.mstr .btnHelp,
+.mstr .btnClose {
+    width: 13px;
+    height: 12px;
+    border-top: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #8C8783;
+    border-bottom: 1px solid #82817D;
+    background: #d4d0c7 no-repeat center center;
+}
+.mstr .btnHelp {
+    background-image: url(images/btnHelp.gif);
+}
+.mstr .btnClose {
+    background-image: url(images/btnClose.gif);
+}
+.mstr .btnGo {
+    height: 21px;
+    width: 22px;
+    cursor: pointer;
+    cursor: hand;
+    background: transparent url(images/btnGo.gif) no-repeat center center;
+}
+.mstr span.box,
+.mstr span.boxChecked {
+    padding-left: 16px;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+.mstr .box {
+    background-image: url(images/box.gif);
+}
+.mstr .boxChecked {
+    background-image: url(images/boxChecked.gif);
+}
+
+/* incremental fetch arrows */
+
+.fetch span {
+    margin-left: 0.25em;    /* was 0.5em */
+    margin-right: 0.25em;   /* was 0.5em */
+    vertical-align: top;    /* added, to align text with arrow images */
+    cursor: hand;
+    cursor: pointer;
+}
+.fetch img,
+.fetch input {
+    border: 0px;
+    height: 13px;
+    width: 13px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: hand;
+    cursor: pointer;
+}
+.fetch .fetchFirst {
+    background-image: url(images/fetchFirst.gif);
+}
+.fetch .fetchFirstDisabled {
+    background-image: url(images/fetchFirstDisabled.gif);
+}
+.fetch .fetchPrevious {
+    background-image: url(images/fetchPrevious.gif);
+}
+.fetch .fetchPreviousDisabled {
+    background-image: url(images/fetchPreviousDisabled.gif);
+}
+.fetch .fetchNext {
+    background-image: url(images/fetchNext.gif);
+}
+.fetch .fetchNextDisabled {
+    background-image: url(images/fetchNextDisabled.gif);
+}
+.fetch .fetchLast {
+    background-image: url(images/fetchLast.gif);
+}
+.fetch .fetchLastDisabled {
+    background-image: url(images/fetchLastDisabled.gif);
+}
+.fetch .fetchFirstDisabled,
+.fetch .fetchPreviousDisabled,
+.fetch .fetchNextDisabled,
+.fetch .fetchLastDisabled {
+    cursor: default;
+    -moz-opacity: 0.3;
+    /* remove IE opacity 33 filter */
+}
+
+
+/* <!-- Formatting Pickers --> */
+
+/* pulldown pickers */
+
+.mstrPicker {
+    cursor: default;
+    background: #FFFFFF;        /* was #D4D0C7; was #dddddd */
+    border: 1px solid #666666;  /* was #000000 */
+    padding: 2px;           /* was 0px */
+}
+.mstrPicker span {
+    margin: 0px;
+    padding: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border: 1px solid #ffffff;  /* was dddddd; */
+    cursor: hand;
+    cursor: pointer;
+    background-color: #ffffff;  /* was transparent */
+    background-repeat: no-repeat;
+    background-position: 1px 1px;
+}
+.mstrPicker span.selected {
+    border: 1px solid #000066;  /* was missing */
+    background-color: #CCD3E5;  /* was color: #660000; */
+    cursor: default;
+}
+.mstrPicker span.disabled {
+    color: #cccccc;         /* removed background-color: #eeeeeee */
+    cursor: default;
+}
+
+.mstrPicker ul.pictured img {
+    border: 0px;
+}
+.mstrPicker ul .separator {
+    border-top: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+.mstrPicker a.selected {
+    color: #0000cc;
+}
+.mstrPicker a.disabled {
+    color: #cccccc;
+}
+#majorpicker #pkr1,
+#tbGenmajorGraphPicker #pkr1 {
+    background-image: url(images/grtp1_2.gif)
+}
+#majorpicker #pkr2,
+#tbGenmajorGraphPicker #pkr2 {
+    background-image: url(images/grtp2_2.gif)
+}
+#majorpicker #pkr4,
+#tbGenmajorGraphPicker #pkr4 {
+    background-image: url(images/grtp4_2.gif)
+}
+#majorpicker #pkr8,
+#tbGenmajorGraphPicker #pkr8 {
+    background-image: url(images/grtp8_2.gif)
+}
+#majorpicker #pkr16,
+#tbGenmajorGraphPicker #pkr16 {
+    background-image: url(images/grtp16_2.gif)
+}
+#majorpicker #pkr32,
+#tbGenmajorGraphPicker #pkr32 {
+    background-image: url(images/grtp32_2.gif)
+}
+#majorpicker #pkr64,
+#tbGenmajorGraphPicker #pkr64 {
+    background-image: url(images/grtp64_2.gif)
+}
+#majorpicker #pkr128,
+#tbGenmajorGraphPicker #pkr128 {
+    background-image: url(images/grtp128_2.gif)
+}
+#majorpicker #pkr256,
+#tbGenmajorGraphPicker #pkr256 {
+    background-image: url(images/grtp256_2.gif)
+}
+#majorpicker #pkr512,
+#tbGenmajorGraphPicker #pkr512 {
+    background-image: url(images/grtp512_2.gif)
+}
+#majorpicker #pkr1024,
+#tbGenmajorGraphPicker #pkr1024 {
+    background-image: url(images/grtp1024_2.gif);
+}
+#majorpicker #pkr2048,
+#tbGenmajorGraphPicker #pkr2048 {
+    background-image: url(images/grtp2048_2.gif)
+}
+#majorpicker #pkr4096,
+#tbGenmajorGraphPicker #pkr4096 {
+    background-image: url(images/grtp4096_2.gif)
+}
+#majorpicker #pkr8192,
+#tbGenmajorGraphPicker #pkr8192 {
+    background-image: url(images/grtp8192_2.gif)
+}
+#majorpicker #pkr16384,
+#tbGenmajorGraphPicker #pkr16384 {
+    background-image: url(images/grtp16384_2.gif)
+}
+#majorpicker #pkr32768,
+#tbGenmajorGraphPicker #pkr32768 {
+    background-image: url(images/grtp32768_2.gif)
+}
+#majorpicker #pkr65536,
+#tbGenmajorGraphPicker #pkr65536 {
+    background-image: url(images/grtp65536_2.gif)
+}
+#majorpicker #pkr131072,
+#tbGenmajorGraphPicker #pkr131072 {
+    background-image: url(images/grtp131072_2.gif)
+}
+#majorpicker #pkr262144,
+#tbGenmajorGraphPicker #pkr262144 {
+    background-image: url(images/grtp262144_2.gif)
+}
+#majorpicker #pkr524288,
+#tbGenmajorGraphPicker #pkr524288 {
+    background-image: url(images/grtp524288_2.gif)
+}
+#majorpicker #pkr1048576,
+#tbGenmajorGraphPicker #pkr1048576 {
+    background-image: url(images/grtp1048576_2.gif)
+}
+#majorpicker #pkr2097152,
+#tbGenmajorGraphPicker #pkr2097152 {
+    background-image: url(images/grtp2097152_2.gif)
+}
+#majorpicker #pkr4194304,
+#tbGenmajorGraphPicker #pkr4194304 {
+    background-image: url(images/grtp4194304_2.gif)
+}
+#majorpicker #pkr8388608,
+#tbGenmajorGraphPicker #pkr8388608 {
+    background-image: url(images/grtp8388608_2.gif)
+}
+#minorpicker span {
+    background-image: none;
+}
+.mstrPicker .solid {
+    background-image: url(images/lisolid.gif)
+}
+.mstrPicker .dashed {
+    background-image: url(images/lidashed.gif)
+}
+.mstrPicker .dotted {
+    background-image: url(images/lidotted.gif)
+}
+.mstrPicker .double {
+    background-image: url(images/lidouble.gif)
+}
+.mstrPicker .ln0 {
+    background-image: url(images/liln0.gif)
+}
+.mstrPicker .ln1 {
+    background-image: url(images/liln1.gif)
+}
+.mstrPicker .ln2 {
+    background-image: url(images/liln2.gif)
+}
+.mstrPicker .ln3 {
+    background-image: url(images/liln3.gif)
+}
+.mstrPicker .ln4 {
+    background-image: url(images/liln4.gif)
+}
+.mstrPicker .ln5 {
+    background-image: url(images/liln5.gif)
+}
+.mstrPicker .ln6 {
+    background-image: url(images/liln6.gif)
+}
+.mstrPicker .alignl {
+    background-image: url(images/objalignleft.gif)
+}
+.mstrPicker .alignc {
+    background-image: url(images/objaligncenter.gif)
+}
+.mstrPicker .alignr {
+    background-image: url(images/objalignright.gif)
+}
+.mstrPicker .alignt {
+    background-image: url(images/objaligntop.gif)
+}
+.mstrPicker .alignm {
+    background-image: url(images/objalignmiddle.gif)
+}
+.mstrPicker .alignb {
+    background-image: url(images/objalignbottom.gif)
+}
+.mstrPicker .disth {
+    background-image: url(images/lidisth.gif)
+}
+.mstrPicker .distv {
+    background-image: url(images/lidistv.gif)
+}
+.mstrPicker .bord4 {
+    background-image: url(images/liborder4.gif)
+}
+.mstrPicker .bord0 {
+    background-image: url(images/liborder0.gif)
+}
+.mstrPicker .bordt {
+    background-image: url(images/libordert.gif)
+}
+.mstrPicker .bordb {
+    background-image: url(images/liborderb.gif)
+}
+.mstrPicker .bordl {
+    background-image: url(images/liborderl.gif)
+}
+.mstrPicker .bordr {
+    background-image: url(images/liborderr.gif)
+}
+
+/* color pickers */
+
+.mstrColorPicker {
+    cursor: default;
+    background: #D4D0C7;        /* was #dddddd */
+    border: 1px solid #666666;  /* was #000000 */
+    padding: 0px;
+    padding-bottom: 6px;        /* was 0px, but span margins have changed */
+}
+.mstrColorPicker span {
+    padding: 0px;
+    overflow: hidden;
+    border: 1px solid #808080;  /* was #404040 */
+    cursor: hand;
+    cursor: pointer;
+}
+.mstrColorPicker span.selected {
+    border-color: #ffff00;
+}
+.mstrColorPicker span.disabled {
+    border-color: #cccccc;
+    background-color: #eeeeee;
+    color: #cccccc;
+    cursor: default;
+}
+.mstrColorPicker #pkr,
+.mstrColorPicker #pkrMore {
+    padding: 2px;
+}
+.mstrColorPicker #pkr.selected,
+.mstrColorPicker #pkrMore.selected {
+    background-color: #eeeeee;
+}
+.mstrColorPicker table {
+    border: 0px;
+}
+.mstrColorPicker table tr td {
+    border: 1px solid #cccccc;
+    font-size: 2pt;
+}
+.mstrColorPicker table tr td.selected {
+    border: 1px solid #ffff00;
+}
+.mstrColorPicker div {
+    border: 1px solid #cccccc;
+    font-size: 8pt;
+}
+.mstrColorPicker div.selected {
+    background: #ffffff;
+    border: 1px solid #ffff00;
+}
+
+img.errorIcon {
+    width: 23px;
+    height: 23px;
+    border: 0px;
+    background-image: url(images/errorIcon.gif);
+}

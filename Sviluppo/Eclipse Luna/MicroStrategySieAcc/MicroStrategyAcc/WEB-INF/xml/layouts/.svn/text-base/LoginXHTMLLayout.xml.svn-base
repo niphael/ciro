@@ -1,0 +1,27 @@
+<!DOCTYPE mstrlayout:layout SYSTEM "mstrlayout.dtd">
+<mstrlayout:layout>
+	<mstrlayout:if name="isPortlet">
+	<mstrlayout:then>
+	  <mstrlayout:render name="portletWarning"/>
+	</mstrlayout:then>
+	<mstrlayout:else>
+	  <div class="mstrTitle">
+	    <mstrlayout:render name="projectSection"/>
+	  </div>
+	  <div class="mstrLoginContainer">
+		  <div class="mstrServer">
+		    <mstrlayout:render name="serverSection"/>
+		  </div>
+           <div class="mstrUsherLogin">
+             <mstrlayout:render name="usherLogin"/>
+          </div>
+		  <div class="mstrPanelPortrait" id="divLogin">
+		    <mstrlayout:render name="loginDialog"/>
+		  </div>
+		  <div class="mstrLoginOptions">
+		    <mstrlayout:render name="NTGuestLoginSection"/>
+		  </div>
+	  </div>
+	</mstrlayout:else>	
+	</mstrlayout:if>
+</mstrlayout:layout>

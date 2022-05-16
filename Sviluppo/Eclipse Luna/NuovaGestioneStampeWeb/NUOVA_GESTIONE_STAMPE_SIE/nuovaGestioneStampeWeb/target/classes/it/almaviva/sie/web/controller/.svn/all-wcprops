@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller
+END
+GestProfiloStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/GestProfiloStampeController.class
+END
+ConfermaAttivazStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/ConfermaAttivazStampeController.class
+END
+AttivazioneStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/AttivazioneStampeController.class
+END
+MyAbstractController.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/MyAbstractController.class
+END
+LogoutController.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/LogoutController.class
+END
+GestioneReportController.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/GestioneReportController.class
+END
+ModificaProfiloStampaController.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/ModificaProfiloStampaController.class
+END
+InsDestinatariReportController.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/InsDestinatariReportController.class
+END
+AllineamentoStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/AllineamentoStampeController.class
+END
+RicercaStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/RicercaStampeController.class
+END
+RicercaPerCodiceDescrizioneController.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/RicercaPerCodiceDescrizioneController.class
+END
+RicercaStampeDaAggiungereController.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/RicercaStampeDaAggiungereController.class
+END
+GestioneStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/GestioneStampeController.class
+END
+RicercaStampeDaAttivareController.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/RicercaStampeDaAttivareController.class
+END
+StampeTO.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/StampeTO.class
+END
+RicercaTitoliReportController.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/RicercaTitoliReportController.class
+END
+SalvaDestinatariReportController.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/SalvaDestinatariReportController.class
+END
+ConfermaModificaProfiloStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/ConfermaModificaProfiloStampeController.class
+END
+SchedulazioneInvioReportController.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/SchedulazioneInvioReportController.class
+END
+SchedulazioneReportMstrController.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/SchedulazioneReportMstrController.class
+END
+RedirectController.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/RedirectController.class
+END
+GestioneStampePersonaliController.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/GestioneStampePersonaliController.class
+END
+GestListaProfiloStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/GestListaProfiloStampeController.class
+END
+AggiungiStampeController.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2416/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/target/classes/it/almaviva/sie/web/controller/AggiungiStampeController.class
+END

@@ -1,0 +1,1390 @@
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464617908758</miliseconds>
+  <timestamp>05/30/2016 16:18:28:759</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464617908760</miliseconds>
+  <timestamp>05/30/2016 16:18:28:763</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464617908764</miliseconds>
+  <timestamp>05/30/2016 16:18:28:767</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464617908767</miliseconds>
+  <timestamp>05/30/2016 16:18:28:769</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464617908770</miliseconds>
+  <timestamp>05/30/2016 16:18:28:773</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464617908774</miliseconds>
+  <timestamp>05/30/2016 16:18:28:778</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464617913631</miliseconds>
+  <timestamp>05/30/2016 16:18:33:631</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618351837</miliseconds>
+  <timestamp>05/30/2016 16:25:51:841</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618697648</miliseconds>
+  <timestamp>05/30/2016 16:31:37:657</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618956482</miliseconds>
+  <timestamp>05/30/2016 16:35:56:483</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618956484</miliseconds>
+  <timestamp>05/30/2016 16:35:56:488</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618956488</miliseconds>
+  <timestamp>05/30/2016 16:35:56:491</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618956491</miliseconds>
+  <timestamp>05/30/2016 16:35:56:494</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618956494</miliseconds>
+  <timestamp>05/30/2016 16:35:56:497</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618956497</miliseconds>
+  <timestamp>05/30/2016 16:35:56:500</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618958924</miliseconds>
+  <timestamp>05/30/2016 16:35:58:927</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618975742</miliseconds>
+  <timestamp>05/30/2016 16:36:15:747</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618982499</miliseconds>
+  <timestamp>05/30/2016 16:36:22:499</timestamp>
+  <thread>2</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1325)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+  <userName>ASSISTENZA.ENTRATE</userName>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464618982506</miliseconds>
+  <timestamp>05/30/2016 16:36:22:509</timestamp>
+  <thread>2</thread>
+  <class>WebPromptImpl</class>
+  <method>validateRequired</method>
+  <message>Convalida prompt non riuscita.  Prompt obbligatorio. (com.microstrategy.web.objects.WebObjectsException)</message>
+  <exception>com.microstrategy.web.objects.WebObjectsException: Convalida prompt non riuscita.  Prompt obbligatorio.&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateRequired(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebConstantPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validateAnswer(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptImpl.validate(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessibleInputPromptTransform.transform(AccessibleInputPromptTransform.java:56)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.PromptsClassicTransform.renderPrompt(Unknown Source)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.transformForRequestSuccessful(AccessiblePromptTransform.java:585)&#x0D;&#x0A;&#x09;at com.giano.transforms.AccessiblePromptTransform.renderShell(AccessiblePromptTransform.java:724)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.beans.PromptsContainerBeanImpl.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.ReportFrameClassicTransform.transformForRequestWaitingForUserInput(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.checkStatus(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.renderShell(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.transforms.AbstractAppTransform.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.beans.AbstractTransformable.transform(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.gui.GuiComponentImpl.renderElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.renderComponent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.DisplayGuiComponentTagHelper.getContent(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.app.taglibs.AbstractNoBodyTag.doStartTag(Unknown Source)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fdisplayGuiComponent_005f0(Report_005fContent_jsp.java:747)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fthen_005f2(Report_005fContent_jsp.java:715)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspx_meth_web_005fifBeanValue_005f1(Report_005fContent_jsp.java:673)&#x0D;&#x0A;&#x09;at org.apache.jsp.jsp.Report_005fContent_jsp._jspService(Report_005fContent_jsp.java:112)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doInclude(ApplicationDispatcher.java:551)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.include(ApplicationDispatcher.java:488)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.JspRuntimeLibrary.include(JspRuntimeLibrary.java:968)&#x0D;&#x0A;&#x09;at org.apache.jsp.plugins.DefaultPlugIn.jsp.mstrWeb_jsp._jspService(mstrWeb_jsp.java:1325)&#x0D;&#x0A;&#x09;at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:388)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:313)&#x0D;&#x0A;&#x09;at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:260)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:646)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:436)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:374)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:302)&#x0D;&#x0A;&#x09;at com.microstrategy.web.servlets.MainServlet.doGet(Unknown Source)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:617)&#x0D;&#x0A;&#x09;at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)&#x0D;&#x0A;&#x09;at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:470)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)&#x0D;&#x0A;&#x09;at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)&#x0D;&#x0A;&#x09;at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)&#x0D;&#x0A;&#x09;at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)&#x0D;&#x0A;&#x09;at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:620)&#x0D;&#x0A;&#x09;at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)&#x0D;&#x0A;&#x09;at java.lang.Thread.run(Unknown Source)&#x0D;&#x0A;</exception>
+  <userName>ASSISTENZA.ENTRATE</userName>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619000611</miliseconds>
+  <timestamp>05/30/2016 16:36:40:615</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619007381</miliseconds>
+  <timestamp>05/30/2016 16:36:47:385</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619021953</miliseconds>
+  <timestamp>05/30/2016 16:37:01:957</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619233782</miliseconds>
+  <timestamp>05/30/2016 16:40:33:783</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619233784</miliseconds>
+  <timestamp>05/30/2016 16:40:33:789</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619233790</miliseconds>
+  <timestamp>05/30/2016 16:40:33:793</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619233793</miliseconds>
+  <timestamp>05/30/2016 16:40:33:797</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619233797</miliseconds>
+  <timestamp>05/30/2016 16:40:33:801</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619233801</miliseconds>
+  <timestamp>05/30/2016 16:40:33:804</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619235284</miliseconds>
+  <timestamp>05/30/2016 16:40:35:289</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619250757</miliseconds>
+  <timestamp>05/30/2016 16:40:50:757</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619267629</miliseconds>
+  <timestamp>05/30/2016 16:41:07:635</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619359275</miliseconds>
+  <timestamp>05/30/2016 16:42:39:276</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619359276</miliseconds>
+  <timestamp>05/30/2016 16:42:39:281</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619359281</miliseconds>
+  <timestamp>05/30/2016 16:42:39:284</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619359285</miliseconds>
+  <timestamp>05/30/2016 16:42:39:288</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619359288</miliseconds>
+  <timestamp>05/30/2016 16:42:39:291</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619359292</miliseconds>
+  <timestamp>05/30/2016 16:42:39:295</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619360743</miliseconds>
+  <timestamp>05/30/2016 16:42:40:748</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619381296</miliseconds>
+  <timestamp>05/30/2016 16:43:01:301</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619403326</miliseconds>
+  <timestamp>05/30/2016 16:43:23:332</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619447162</miliseconds>
+  <timestamp>05/30/2016 16:44:07:167</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619468793</miliseconds>
+  <timestamp>05/30/2016 16:44:28:802</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619522372</miliseconds>
+  <timestamp>05/30/2016 16:45:22:372</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464619572600</miliseconds>
+  <timestamp>05/30/2016 16:46:12:683</timestamp>
+  <thread>4</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621397918</miliseconds>
+  <timestamp>05/30/2016 17:16:37:918</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621416947</miliseconds>
+  <timestamp>05/30/2016 17:16:56:964</timestamp>
+  <thread>4</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621463600</miliseconds>
+  <timestamp>05/30/2016 17:17:43:601</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621463601</miliseconds>
+  <timestamp>05/30/2016 17:17:43:605</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621463606</miliseconds>
+  <timestamp>05/30/2016 17:17:43:609</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621463610</miliseconds>
+  <timestamp>05/30/2016 17:17:43:614</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621463614</miliseconds>
+  <timestamp>05/30/2016 17:17:43:618</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621463618</miliseconds>
+  <timestamp>05/30/2016 17:17:43:623</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621466142</miliseconds>
+  <timestamp>05/30/2016 17:17:46:151</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621481073</miliseconds>
+  <timestamp>05/30/2016 17:18:01:077</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464621539718</miliseconds>
+  <timestamp>05/30/2016 17:18:59:735</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622021652</miliseconds>
+  <timestamp>05/30/2016 17:27:01:659</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622322281</miliseconds>
+  <timestamp>05/30/2016 17:32:02:282</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622322282</miliseconds>
+  <timestamp>05/30/2016 17:32:02:287</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622322287</miliseconds>
+  <timestamp>05/30/2016 17:32:02:291</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622322291</miliseconds>
+  <timestamp>05/30/2016 17:32:02:295</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622322295</miliseconds>
+  <timestamp>05/30/2016 17:32:02:299</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622322299</miliseconds>
+  <timestamp>05/30/2016 17:32:02:304</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622324498</miliseconds>
+  <timestamp>05/30/2016 17:32:04:502</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622335420</miliseconds>
+  <timestamp>05/30/2016 17:32:15:426</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622592551</miliseconds>
+  <timestamp>05/30/2016 17:36:32:552</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622592552</miliseconds>
+  <timestamp>05/30/2016 17:36:32:557</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622592557</miliseconds>
+  <timestamp>05/30/2016 17:36:32:561</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622592561</miliseconds>
+  <timestamp>05/30/2016 17:36:32:565</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622592565</miliseconds>
+  <timestamp>05/30/2016 17:36:32:569</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622592569</miliseconds>
+  <timestamp>05/30/2016 17:36:32:573</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622596305</miliseconds>
+  <timestamp>05/30/2016 17:36:36:305</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622611559</miliseconds>
+  <timestamp>05/30/2016 17:36:51:564</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622904162</miliseconds>
+  <timestamp>05/30/2016 17:41:44:164</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622904164</miliseconds>
+  <timestamp>05/30/2016 17:41:44:169</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622904170</miliseconds>
+  <timestamp>05/30/2016 17:41:44:173</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622904174</miliseconds>
+  <timestamp>05/30/2016 17:41:44:177</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622904178</miliseconds>
+  <timestamp>05/30/2016 17:41:44:181</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622904182</miliseconds>
+  <timestamp>05/30/2016 17:41:44:185</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622909411</miliseconds>
+  <timestamp>05/30/2016 17:41:49:411</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622919405</miliseconds>
+  <timestamp>05/30/2016 17:41:59:414</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464622962587</miliseconds>
+  <timestamp>05/30/2016 17:42:42:592</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464623126769</miliseconds>
+  <timestamp>05/30/2016 17:45:26:770</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464623126770</miliseconds>
+  <timestamp>05/30/2016 17:45:26:775</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464623126776</miliseconds>
+  <timestamp>05/30/2016 17:45:26:780</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464623126780</miliseconds>
+  <timestamp>05/30/2016 17:45:26:785</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464623126785</miliseconds>
+  <timestamp>05/30/2016 17:45:26:789</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464623126789</miliseconds>
+  <timestamp>05/30/2016 17:45:26:792</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464623131339</miliseconds>
+  <timestamp>05/30/2016 17:45:31:339</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464623140307</miliseconds>
+  <timestamp>05/30/2016 17:45:40:311</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624155081</miliseconds>
+  <timestamp>05/30/2016 18:02:35:082</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624155082</miliseconds>
+  <timestamp>05/30/2016 18:02:35:088</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624155088</miliseconds>
+  <timestamp>05/30/2016 18:02:35:093</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624155093</miliseconds>
+  <timestamp>05/30/2016 18:02:35:099</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624155099</miliseconds>
+  <timestamp>05/30/2016 18:02:35:104</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624155104</miliseconds>
+  <timestamp>05/30/2016 18:02:35:108</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624159811</miliseconds>
+  <timestamp>05/30/2016 18:02:39:813</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624285813</miliseconds>
+  <timestamp>05/30/2016 18:04:45:818</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624303325</miliseconds>
+  <timestamp>05/30/2016 18:05:03:331</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624311935</miliseconds>
+  <timestamp>05/30/2016 18:05:11:939</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624461080</miliseconds>
+  <timestamp>05/30/2016 18:07:41:081</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624461081</miliseconds>
+  <timestamp>05/30/2016 18:07:41:088</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624461088</miliseconds>
+  <timestamp>05/30/2016 18:07:41:092</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624461093</miliseconds>
+  <timestamp>05/30/2016 18:07:41:096</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624461096</miliseconds>
+  <timestamp>05/30/2016 18:07:41:100</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624461100</miliseconds>
+  <timestamp>05/30/2016 18:07:41:104</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624462836</miliseconds>
+  <timestamp>05/30/2016 18:07:42:841</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624469163</miliseconds>
+  <timestamp>05/30/2016 18:07:49:182</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624475769</miliseconds>
+  <timestamp>05/30/2016 18:07:55:776</timestamp>
+  <thread>2</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624482954</miliseconds>
+  <timestamp>05/30/2016 18:08:02:958</timestamp>
+  <thread>3</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624633086</miliseconds>
+  <timestamp>05/30/2016 18:10:33:087</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624633088</miliseconds>
+  <timestamp>05/30/2016 18:10:33:092</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624633092</miliseconds>
+  <timestamp>05/30/2016 18:10:33:096</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624633097</miliseconds>
+  <timestamp>05/30/2016 18:10:33:101</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624633102</miliseconds>
+  <timestamp>05/30/2016 18:10:33:106</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624633106</miliseconds>
+  <timestamp>05/30/2016 18:10:33:111</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624638148</miliseconds>
+  <timestamp>05/30/2016 18:10:38:148</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464624659431</miliseconds>
+  <timestamp>05/30/2016 18:10:59:435</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>

@@ -1,0 +1,73 @@
+/.project/1.1/Tue Dec 28 16:19:26 2010//TCONTECO_REV_PROCESSO_DLB
+/activation-1.1.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/akka-actor-1.3.1.jar/1.1/Tue Jul  2 11:11:56 2013/-kb/TCONTECO_REV_PROCESSO_DLB
+/almavivaitalia.commons.crystal-0.0.1.jar/1.2/Wed Oct 19 13:01:34 2011/-kb/TCONTECO_REV_PROCESSO_DLB
+/aopalliance-1.0.jar/1.1/Tue Oct 26 12:56:08 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/aspectjrt-1.5.4.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/aspectjweaver-1.5.2.jar/1.1/Tue Oct 26 12:56:08 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+D/axis2////
+D/axis2_1_5_1////
+/baseValidation.jar/1.3/Wed Oct 19 13:01:34 2011/-kb/TCONTECO_REV_PROCESSO_DLB
+/bcel.jar/1.1/Tue Apr 20 16:39:24 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+D/codehaus////
+/commons-beanutils-1.8.0.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/commons-beanutils-core-1.8.0.jar/1.1/Fri Apr 30 16:08:46 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/commons-codec-1.3.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/commons-collections-3.2.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/commons-collections.jar/1.1/Tue Apr 20 16:39:23 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/commons-digester-1.8.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/commons-lang-2.4.jar/1.1/Fri Apr 30 16:08:46 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/commons-logging-1.1.1.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/commons-logging.jar/1.1/Tue Apr 20 16:39:24 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+D/crystal-reports////
+/displayTagExtension-1.2.jar/1.2/Wed Oct 19 13:01:34 2011/-kb/TCONTECO_REV_PROCESSO_DLB
+/displaytag-1.2.jar/1.1/Wed May 26 12:25:51 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/dozer-5.2.1.jar/1.1/Fri Apr 30 16:08:46 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/ibatis-2.3.0.677.jar/1.1/Tue Apr 20 16:39:24 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/itext-1.3.jar/1.1/Wed May 26 12:25:51 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/javaee-api-5.0.0.jar/1.1/Tue May 11 16:46:06 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+D/jaxb////
+D/jibx////
+/jibx-bind.jar/1.1/Tue Apr 20 16:39:24 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/jibx-run.jar/1.1/Tue Apr 20 16:39:24 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/jsp-api.jar/1.1/Tue Jun  8 09:48:56 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/jstl-1.1.2.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/junit-4.7.jar/1.1/Mon May 17 14:18:57 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/log4j-1.2.14.jar/1.1/Tue Apr 20 16:39:23 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/mail.jar/1.1/Fri Jun 25 10:15:07 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/nls_charset12.jar/1.1/Tue May 11 16:44:12 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/ojdbc14_g.jar/1.1/Tue Apr 20 16:39:24 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/ojdbc5_g.jar/1.1/Wed Sep 12 11:10:17 2012/-kb/TCONTECO_REV_PROCESSO_DLB
+/ojdbc6_g.jar/1.1/Wed Aug 29 07:58:12 2012/-kb/TCONTECO_REV_PROCESSO_DLB
+/poi-3.7-20101029.jar/1.2/Fri Jul 22 13:20:02 2011/-kb/TCONTECO_REV_PROCESSO_DLB
+/quartz-1.5.0.jar/1.1/Tue Apr 20 16:39:24 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/quartz-1.6.3.jar/1.1/Tue May 11 16:44:12 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/scala-library.jar/1.1/Tue Jul  2 09:20:00 2013/-kb/TCONTECO_REV_PROCESSO_DLB
+/servlet-api.jar/1.2/Tue Jun  8 09:48:56 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+D/spring////
+/spring-aop-2.5.6.jar/1.1/Tue Oct 26 12:56:08 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-beans.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-context-support.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-context.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-core.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-jdbc.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-ldap-1.3.0.RELEASE-all.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-modules-validation.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-orm.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-security-acl-2.0.4.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-security-core-2.0.4.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-security-core-tiger-2.0.4.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-security-taglibs-2.0.4.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-tx.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-web.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/spring-webmvc.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+D/spring-ws-1.5.9////
+/spring.jar/1.1/Tue Apr 20 16:39:24 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/ssofed15.jar/1.1/Thu May 13 09:51:44 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/ssosdk902.jar/1.1/Thu May 13 09:51:44 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/standard-1.1.2.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/xalan-2.6.0.jar/1.2/Tue Dec 28 16:19:26 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/xercesImpl.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/xmlparserv2.jar/1.3/Fri Jul  9 14:30:05 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/xpp3.jar/1.1/Tue Apr 20 16:39:24 2010/-kb/TCONTECO_REV_PROCESSO_DLB
+/xsltc.jar/1.2/Tue Dec 28 16:19:25 2010/-kb/TCONTECO_REV_PROCESSO_DLB

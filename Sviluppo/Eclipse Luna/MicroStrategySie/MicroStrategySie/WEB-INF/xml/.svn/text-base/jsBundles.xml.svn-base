@@ -1,0 +1,733 @@
+<?xml version="1.0"?>
+<!DOCTYPE jsBundles SYSTEM "dtds/jsBundles.dtd">
+<jsBundles dir="javascript/bundles">
+    
+<!-- 
+    MicroStrategy "Mojo" JavaScript library bundle definitions
+    
+    This file contains two sections - the Core bundles and the "feature" bundles.
+    
+    CORE BUNDLES
+    ============
+    The Core bundles contain files that almost all Mojo-based applications will need.  Because almost all applications
+    will use these bundles ONLY FILES THAT APPLY TO A MAJORITY OF APPLICATIONS should be placed in these bundles.
+    
+    Each core bundle has a "debug" version which is not compressed other than having the comments removed.
+    
+    Bundle name     Description:
+    ===============================================================================================
+    MOJO-CORE       includes DOM, CSS, inheritance, and other basic library functions
+    MOJO-COREUI     inherits MOJO-CORE and adds basic UI widgets like container, vbox, hbox, etc.
+                    Used as the starting point for most "feature" bundles.
+
+
+    FEATURE BUNDLES
+    ===============
+    Feature bundles are those which are built on top of the core bundles to implement specific functionality.  To use these bundles you
+    most first include the relevant core bundle.
+    
+    For example, to use the OIVM bundle you need to have the following <SCRIPT> tags in your markup:
+    
+            <SCRIPT type="text/javascript" src="mojo-coreui.js" />
+            <SCRIPT type="text/javascript" src="mojo-oivm.js" />
+
+    Note: References to the core source files have been left in the definition of feature bundles to preserve the dependencies.  The core source
+            files are omitted from the feature bundles by using the "excludes" attribute on the feature bundle definition.
+
+-->    
+
+
+<!--
+    CORE BUNDLE:    MOJO-CORE       
+    
+    includes DOM, CSS, inheritance, and other basic library functions 
+-->
+<jsBundle name="mojo-core" depSort="false" minify="true" type="yui">
+    <jsDir path="javascript/mojo/js/source">
+        <jsFile name="copyright.js"/>
+        <jsFile name="mstrmojo.js"/>
+        <jsFile name="hash.js"/>
+        <jsFile name="string.js"/>
+        <jsFile name="array.js"/>
+        <jsFile name="publisher.js"/>
+        <jsFile name="dom.js"/>
+        <jsFile name="css.js"/>
+        <jsFile name="locales.js"/>
+        <jsFile name="date.js"/>
+        <jsFile name="expr.js"/>
+        <jsFile name="registry.js"/>
+        <jsFile name="num.js"/>
+        <jsFile name="color.js"/>
+        <jsFile name="boxmodel.js"/>
+        <jsFile name="func.js"/>
+        <jsFile name="fx.js"/>
+        <jsFile name="base64.js" />
+        <jsFile name="Serializer.js" />
+        <jsFile name="Xhr.js"/>
+      <jsFile name="DynamicClassFactory.js" />
+        <jsFile name="Event.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/storage">
+        <jsFile name="DOMStorage.js" />
+        <jsFile name="DOMLocalStorage.js" />
+        <jsFile name="DOMSessionStorage.js" />
+    </jsDir>
+</jsBundle>    
+
+<jsBundle name="mojo-core-debug" depSort="false" inherits="mojo-core" minify="true" type="comments-only" >
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="stacktrace.js" />
+      <jsFile name="Debug.js" />
+      <jsFile name="DebugUtils.js" />
+    </jsDir>
+</jsBundle>
+
+
+ 
+
+
+
+
+<!-- 
+    CORE BUNDLE:    MOJO-COREUI
+    
+    Core Mojo User Interface Library - includes basic widgets for creating user interfaces.  It includes basic MVC support.
+-->        
+<jsBundle name="mojo-coreui" inherits="mojo-core" depSort="false" minify="true" type="yui" >
+    <jsDir path="javascript/mojo/js/source">
+    	<jsFile name="_Provider.js"/>
+    	<jsFile name="Obj.js"/>
+        <jsFile name="Arr.js" />
+
+    	<jsFile name="_LoadsScript.js"/>
+    	<jsFile name="Binding.js"/>
+    	<jsFile name="_HasBindings.js"/>
+    	<jsFile name="_HasMarkup.js"/>
+    	<jsFile name="_HasTooltip.js"/>
+        <jsFile name="_HasLayout.js" />
+    	<jsFile name="Widget.js"/>
+
+    	<jsFile name="_HasChildren.js"/>
+    	<jsFile name="_ShowsStatus.js"/>
+    	<jsFile name="Container.js"/>
+
+    	<jsFile name="Box.js"/>
+    	<jsFile name="VBox.js"/>
+    	<jsFile name="HBox.js"/>
+    	
+    	<jsFile name="Button.js"/>
+
+    	<jsFile name="_ListSelections.js"/>
+    	<jsFile name="ListBase.js"/>
+    	<jsFile name="SelectBox.js"/>
+
+        <jsFile name="_HasPopup.js"/>
+    	<jsFile name="_IsPopup.js"/>
+    	<jsFile name="_CanAutoClose.js"/>
+    	<jsFile name="Popup.js"/>
+
+        <jsFile name="tooltip.js"/>
+
+    	<jsFile name="CheckBox.js"/>
+
+    	<jsFile name="_HasScrollbox.js"/>
+    	<jsFile name="ListBoxBase.js"/>
+    	<jsFile name="ListBox.js"/>
+    	<jsFile name="ListBoxHoriz.js"/>
+    	<jsFile name="_InputList.js"/>
+    	<jsFile name="CheckList.js"/>
+
+    	<jsFile name="Label.js"/>
+    	
+        <jsFile name="TextBox.js"/>
+
+    	<jsFile name="Dialog.js"/>	
+    	
+        <jsFile name="Model.js" />
+
+        <jsFile name="StepperContentProvider.js" />
+        <jsFile name="NumStepperContentProvider.js" />
+        <jsFile name="DateStepperContentProvider.js" />
+        <jsFile name="Stepper.js" />
+
+        <jsFile name="Calendar.js" />
+
+        <jsFile name="GraphBase.js" />
+
+        <jsFile name="DateTimePicker.js" />
+        
+    </jsDir>
+</jsBundle>
+
+<jsBundle name="mojo-coreui-debug" depSort="false" inherits="mojo-coreui" minify="true" type="comments-only" >
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="stacktrace.js" />
+      <jsFile name="Debug.js" />
+      <jsFile name="DebugUtils.js" />
+    </jsDir>
+</jsBundle>
+
+
+<!--    ================ FEATURE BUNDLES ================   -->
+
+<!--
+    FEATURE BUNDLE: MOJO-OIVM
+    REQUIRES:       MOJO-COREUI, MOJO-MOBILE
+-->
+<jsBundle name="mojo-oivm" depSort="true" minify="true" excludes="">
+    <jsDir path="javascript">
+      <jsFile name="AC_OETags.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="OIVMApp.js" />
+      <jsFile name="OIVMViewFactory.js" />
+      <jsFile name="MojoFlexHelper.js"/>
+      <jsFile name="SharingEditor.js"/>
+      <jsFile name="XtabCellMenu.js"/>
+      </jsDir>
+  </jsBundle>
+
+  
+<!--
+    FEATURE BUNDLE: MOJO-OVI
+    REQUIRES:       MOJO-COREUI, MOJO-MOBILE
+-->
+<jsBundle name="mojo-ovi" depSort="true" minify="true" excludes="">
+    <jsDir path="javascript">
+      <jsFile name="AC_OETags.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="xhr.js" />
+      <jsFile name="OVIApp.js" />
+      <jsFile name="MojoFlexHelper.js"/>
+      <jsFile name="SharingEditor.js"/>
+    </jsDir>
+</jsBundle>
+  
+  
+<!--
+    FEATURE BUNDLE: MOJO-ALL
+    REQUIRES:       MOJO-COREUI, MOJO-MOBILE
+-->    
+  <jsBundle name="mojo-all" depSort="false" minify="true" inherits="mojo-oivm" excludes="mojo-core,mojo-coreui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="_ListBase2Selections.js" />
+      <jsFile name="ListBase2.js" />
+      <jsFile name="ListMapper.js" />
+      <jsFile name="ListBuilder.js" />
+      <jsFile name="List.js" />
+      <jsFile name="ListMapperHoriz.js" />
+      <jsFile name="ListHoriz.js" />
+      <jsFile name="MultiColListBuilder.js" />
+      <jsFile name="MultiColList.js" />
+      <jsFile name="MultiColListHoriz.js" />
+      <jsFile name="WidgetListBase.js" />
+      <jsFile name="WidgetListMapper.js" />
+      <jsFile name="WidgetListBuilder.js" />
+      <jsFile name="WidgetList.js" />
+      <jsFile name="WidgetListMapperHoriz.js" />
+      <jsFile name="WidgetListHoriz.js" />
+      <jsFile name="ListSelector.js" />
+      <jsFile name="WidgetTreeBuilder.js" />
+      <jsFile name="WidgetTree.js" />
+      <jsFile name="TreeNode.js" />
+      <jsFile name="Callback.js" />
+      <jsFile name="CallbackList.js" />
+      <jsFile name="EnumRenderMode.js" />
+      <jsFile name="FieldSet.js" />
+      <jsFile name="Serializer.js" />
+      <jsFile name="XtabCellHoverPopup.js" />
+      <jsFile name="_XtabSelections.js" />
+    </jsDir>
+  </jsBundle>
+  
+  
+  
+<!--
+    FEATURE BUNDLE: MOJO-IXTAB
+    REQUIRES:       MOJO-COREUI, MOJO-MOBILE
+-->
+  <jsBundle name="mojo-ixtab" depSort="false" minify="true" excludes="mojo-core,mojo-coreui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="EnumReadystate.js" />
+      <jsFile name="_Formattable.js" />
+      <jsFile name="_HasChildren.js" />
+      <jsFile name="_HasWaitIcon.js" />
+      <jsFile name="_HasScrollbox.js" />
+      <jsFile name="markup.js" />
+      <jsFile name="Model.js" />                                             
+      <jsFile name="_TouchGestures.js" />
+      <jsFile name="TouchScroller.js" />
+      <jsFile name="_HasXtabTouchScroll.js" />
+      <jsFile name="GridBase.js" />
+      <jsFile name="Grid.js" />
+      <jsFile name="XtabZone.js" />      
+      <jsFile name="XtabBase.js" />
+      <!-- 
+      Uncomment it when iXtab mix the mixin
+      <jsFile name="_XtabSeamlessIncrementalFetch.js" />
+      Uncomment it when the user do not want to customize the proxy 
+      <jsFile name="iMobileRequestProxy.js"/>  
+      Uncomment the following three lines if xtab action menu is enabled    
+      <jsFile name="VBox.js" />
+      <jsFile name="Button.js" />
+      <jsFile name="_iToolbarMgr.js"/>
+       --> 
+      <jsFile name="StringBuffer.js" />
+      <jsFile name="_ResultSetXt.js" />          
+      <jsFile name="MobileXtab.js" />              
+      <jsFile name="ServerProxy.js" />
+      <jsFile name="XtabDataService.js" />                 
+      <jsFile name="_FillsBrowser.js" />
+      <jsFile name="iXtab.js" />
+      <jsFile name="XtabModel.js" />
+      <jsFile name="iPhoneXtabController.js" />      
+      <jsFile name="iPhoneApp.js" />	  
+     </jsDir>  
+  </jsBundle>
+  
+  
+  
+<!--
+    FEATURE BUNDLE: MOJO-MOBILE-LIST
+    REQUIRES:       MOJO-COREUI, MOJO-MOBILE
+-->
+  <jsBundle name="mojo-mobile-list" depSort="true" minify="true" excludes="mojo-core,mojo-coreui">
+    <jsDir path="javascript/mojo/js/source"> 
+      <jsFile name="AjaxCall.js" />
+      <jsFile name="HTMLButton.js" />
+      <jsFile name="Model.js" />
+      <jsFile name="ObjectBrowser.js" />
+      <jsFile name="Panel.js" />
+      <jsFile name="TextArea.js" />
+      <jsFile name="ValidationTextBox.js" />
+      <jsFile name="_CanRenderChildrenOnShow.js" />
+      <jsFile name="_HasLayout.js" />
+        <jsFile name="mobileListModel.js"/>
+      </jsDir>
+  </jsBundle>
+  
+  
+  
+  
+<!--
+    FEATURE BUNDLE: MOJO-MOBILE-CONFIG
+    REQUIRES:       MOJO-COREUI, MOJO-MOBILE
+-->
+  <jsBundle name="mojo-mobile-config" depSort="true" minify="true" excludes="mojo-core,mojo-coreui">
+    <jsDir path="javascript/mojo/js/source"> 
+      <jsFile name="GradientEditor.js" />
+      <jsFile name="ObjectBrowser.js" />
+      <jsFile name="Slider.js" />
+      <jsFile name="TabButton.js" />
+      <jsFile name="TextArea.js" />
+      <jsFile name="TextBoxWithLabel.js" />
+        <jsFile name="WidgetListMapperTile.js"/>
+        <jsFile name="WidgetTileList.js"/>
+      <jsFile name="form.js" />
+		<jsFile name="ipadHomescreen_tab.js"/>
+        <jsFile name="mobileModel.js"/>
+    </jsDir>
+  </jsBundle>
+  
+<!--
+    FEATURE BUNDLE: MOJO-BOOTSTRAP
+    REQUIRES:       
+-->
+
+  <jsBundle name="mojo-bootstrap" depSort="true" minify="true">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="mstrmojo.js" />
+      <jsFile name="hash.js" />
+      <jsFile name="array.js" />
+      <jsFile name="base64.js" />	
+      <jsFile name="registry.js" />
+      <jsFile name="publisher.js" />
+      <jsFile name="Xhr.js" />
+      <jsFile name="locales.js" />
+    </jsDir>
+  </jsBundle>
+  
+  
+<!--
+    FEATURE BUNDLE: MOJO-CGE
+    REQUIRES:       MOJO-COREUI
+-->
+  <jsBundle name="mojo-cge" depSort="true" minify="true" excludes="mojo-core,mojo-coreui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="CustomGroupEditor.js" />
+    </jsDir>
+  </jsBundle>
+  
+<!--
+    FEATURE BUNDLE: MOJO-ACL
+    REQUIRES:       MOJO-COREUI
+-->
+    
+<!--   <jsBundle name="mojo-acl" depSort="true" minify="true" excludes="mojo-core,mojo-coreui">
+    <jsDir path="javascript/mojo/js/source/ACL">
+      <jsFile name="ACLEditor.js" />
+    </jsDir>
+  </jsBundle> -->
+      <jsBundle name="mojo-sharing" depSort="true" minify="true" excludes="mojo-core,mojo-coreui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="SharingEditor.js" />
+    </jsDir>
+  </jsBundle>
+  <jsBundle name="mojo-metric" depSort="true" minify="true" excludes="mojo-bootstrap">
+    <jsDir path="javascript/mojo/js/source/ME">
+      <jsFile name="MetricEditor.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="ObjectBrowser.js" />
+    </jsDir>
+  </jsBundle>    
+
+  
+<!--
+    FEATURE BUNDLE: ANDROID-APPLICATION
+    REQUIRES:       NONE
+-->
+  <jsBundle name="android-application" depSort="true" minify="true" type="yui">
+    <jsDir path="javascript/mojo/js/source/android">
+      <jsFile name="AndroidApp.js" />
+    </jsDir> 
+    <jsDir path="javascript/mojo/js/source/android/factories">
+      <jsFile name="ViewFactory.js" />
+      <jsFile name="ControllerFactory.js" />
+      <jsFile name="ModelFactory.js" />
+    </jsDir>
+  </jsBundle>
+  
+<!--
+    FEATURE BUNDLE: ANDROID-PHONE
+    REQUIRES:       NONE
+-->
+  <jsBundle name="android-phone" depSort="true" minify="true" inherits="android-application" type="yui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="MobileServerProxy.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/android">
+      <jsFile name="AndroidServerTransport.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/android/medium/factories">
+      <jsFile name="ViewFactory.js" />
+      <jsFile name="ControllerFactory.js" />
+    </jsDir>
+  </jsBundle>
+
+<!--
+    FEATURE BUNDLE: ANDROID-TABLET
+    REQUIRES:       NONE
+-->
+  <jsBundle name="android-tablet" depSort="true" minify="true" inherits="android-application" type="yui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="MobileServerProxy.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/android">
+      <jsFile name="AndroidServerTransport.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/android/large/factories">
+      <jsFile name="ViewFactory.js" />
+      <jsFile name="ControllerFactory.js" />
+    </jsDir>
+  </jsBundle>
+  
+<!--
+    FEATURE BUNDLE: ANDROID-PHONE-DEBUG
+    REQUIRES:       ANDROID-PHONE
+-->
+  <jsBundle name="android-phone-debug" depSort="true" minify="true" inherits="android-phone" type="comments-only">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="stacktrace.js" />
+      <jsFile name="Debug.js" />
+      <jsFile name="DebugUtils.js" />
+    </jsDir>
+  </jsBundle>
+  
+  
+<!--
+    FEATURE BUNDLE: ANDROID-PHONE-HOSTED
+    REQUIRES:       ANDROID-PHONE-DEBUG
+-->
+  <jsBundle name="android-phone-hosted" depSort="true" minify="false" inherits="android-phone-debug" type="yui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="MobileAppProxy.js" />
+      <jsFile name="XHRServerTransport.js" />
+    </jsDir>
+  </jsBundle>  
+
+  
+<!--
+    FEATURE BUNDLE: ANDROID-TABLET-DEBUG
+    REQUIRES:       ANDROID-TABLET
+-->
+  <jsBundle name="android-tablet-debug" depSort="true" minify="true" inherits="android-tablet" type="comments-only">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="stacktrace.js" />
+      <jsFile name="Debug.js" />
+      <jsFile name="DebugUtils.js" />
+    </jsDir>
+  </jsBundle>
+  
+  
+<!--
+    FEATURE BUNDLE: ANDROID-TABLET-HOSTED
+    REQUIRES:       ANDROID-TABLET-DEBUG
+-->
+  <jsBundle name="android-tablet-hosted" depSort="true" minify="false" inherits="android-tablet-debug" type="yui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="MobileAppProxy.js" />
+      <jsFile name="XHRServerTransport.js" />
+    </jsDir>
+  </jsBundle>  
+
+  
+<!--
+    FEATURE BUNDLE: MOJO-MAPS-INFO
+    REQUIRES:       MOJO-COREUI-DEBUG, MOJO-MOBILE-DEBUG
+-->
+  <jsBundle name="mojo-maps-info" depSort="true" minify="true" type="yui" excludes="mojo-core,mojo-coreui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="MobileServerProxy.js" />
+      <jsFile name="_CanMakeServerProxyRequests.js" />
+      <jsFile name="DocVisTimeSeries.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/maps/jsmap">
+      <jsFile name="InfoWindowApp.js" />
+      <jsFile name="InfoWindowRootController.js" />
+      <jsFile name="AndroidMap.js" />
+      <jsFile name="AndroidDocMap.js" />
+      <jsFile name="DocInfoWindowController.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/maps/androidmap">
+      <jsFile name="InfoWindowApp.js" />
+      <jsFile name="InfoWindowRootController.js" />
+      <jsFile name="AndroidMap.js" />
+      <jsFile name="AndroidDocMap.js" />
+      <jsFile name="DocInfoWindowController.js" />
+    </jsDir>
+     <jsDir path="javascript/mojo/js/source/maps">
+      <jsFile name="AndroidMapModel.js" />
+      <jsFile name="MapInfoWindowLayoutViewer.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/android">
+      <jsFile name="AndroidServerTransport.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/android/medium/factories">
+      <jsFile name="ViewFactory.js" />
+    </jsDir>
+  </jsBundle>
+  <jsBundle name="mojo-maps-info-debug" depSort="true" minify="true" inherits="mojo-maps-info" type="comments-only" excludes="mojo-core-debug,mojo-coreui-debug">
+  </jsBundle>
+
+<!--
+    FEATURE BUNDLE: ANDROID-MAP-INFO-HOSTED
+    REQUIRES:       MOJO-COREUI-DEBUG, MOJO-MOBILE-DEBUG
+-->
+  <jsBundle name="mojo-maps-info-hosted" depSort="true" minify="false" inherits="mojo-maps-info-debug" type="closure" minifyflags="--warning_level=QUIET" excludes="mojo-core-debug,mojo-coreui-debug">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="MobileAppProxy.js" />
+      <jsFile name="XHRServerTransport.js" />
+    </jsDir>
+  </jsBundle>
+  
+
+<!--
+    FEATURE BUNDLE: MOJO-MAP
+    REQUIRES:       
+-->
+  <jsBundle name="mojo-ive-picker" depSort="true" minify="true" excludes="mojo-bootstrap">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="IVEDatasetPicker.js" />
+    </jsDir>
+  </jsBundle>
+  <jsBundle name="mojo-qb" depSort="true" minify="true" excludes="mojo-bootstrap">
+      <jsDir path="javascript/mojo/js/source/qb">
+        <jsFile name="QBApp.js" />
+      </jsDir>
+  </jsBundle>
+  <jsBundle name="mojo-wh" depSort="true" minify="true" excludes="mojo-bootstrap">
+      <jsDir path="javascript/mojo/js/source/WH">
+        <jsFile name="WHPanel.js" />
+      </jsDir>
+  </jsBundle>
+  <jsBundle name="mojo-di" depSort="true" minify="true" excludes="mojo-bootstrap">
+      <jsDir path="javascript/mojo/js/source/qb">
+        <jsFile name="DataImport.js" />
+      </jsDir>
+  </jsBundle>
+  <jsBundle name="mojo-txe" depSort="true" minify="true" excludes="mojo-bootstrap">
+    <jsDir path="javascript/mojo/js/source/txEditor">
+      <jsFile name="TransactionEditor.js" />
+      <jsFile name="CommonComponent.js" />
+      <jsFile name="AdvancedSetting.js" />
+      <jsFile name="BarcodePropertiesPanel.js" />
+      <jsFile name="ButtonsBar.js" />
+      <jsFile name="CalculatedPanel.js" />
+      <jsFile name="CalendarPropertiesPanel.js" />
+      <jsFile name="ControlPropsPanel.js" />
+      <jsFile name="DatasetPanel.js" />
+      <jsFile name="EditorModel.js" />
+      <jsFile name="FieldsMapTable.js" />
+      <jsFile name="LikertScalePropertiesPanel.js" />
+      <jsFile name="ListPropertiesPanel.js" />
+      <jsFile name="ManualPanel.js" />
+      <jsFile name="RatingPropertiesPanel.js" />
+      <jsFile name="ReportSelector.js" />
+      <jsFile name="SignatureCapturePropertiesPanel.js" />
+      <jsFile name="SliderPropertiesPanel.js" />
+      <jsFile name="StepperPropertiesPanel.js" />
+      <jsFile name="SwitchPropertiesPanel.js" />
+      <jsFile name="TextAreaPropertiesPanel.js" />
+      <jsFile name="TextFieldPropertiesPanel.js" />
+      <jsFile name="TimePickerPropertiesPanel.js" />
+      <jsFile name="TogglePropertiesPanel.js" />
+      <jsFile name="ValuesPropsPanel.js" />
+    </jsDir>
+  </jsBundle>
+  <jsBundle name="mojo-tc" depSort="true" minify="true" excludes="mojo-bootstrap">
+    <jsDir path="javascript/mojo/js/source/platform">
+      <jsFile name="TableControl.js" />
+    </jsDir>
+  </jsBundle>    
+  <jsBundle name="mojo-dve" depSort="true" minify="true" excludes="mojo-bootstrap">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="DocViewsEditor.js" />
+    </jsDir>
+  </jsBundle> 
+  <jsBundle name="mojo-map" depSort="true" minify="true">
+    <jsDir path="javascript/mojo/js/source">
+    	<jsFile name="mstrmojo.js"/>
+    	<jsFile name="array.js"/>
+    	<jsFile name="base64.js" />
+    	<jsFile name="css.js"/>
+    	<jsFile name="dom.js"/>
+    	<jsFile name="form.js"/>
+    	<jsFile name="hash.js"/>
+    	<jsFile name="publisher.js"/>
+    	<jsFile name="registry.js"/>
+    	<jsFile name="string.js"/>
+    	<jsFile name="_HasBindings.js"/>
+    	<jsFile name="_HasChildren.js"/>        
+        <jsFile name="_HasLayout.js"/>
+        <jsFile name="_CanLoadMapExternalScript.js"/>
+    	<jsFile name="_HasMarkup.js"/>
+    	<jsFile name="_HasPopup.js"/>
+    	<jsFile name="_HasTooltip.js"/>
+    	<jsFile name="_ListSelections.js"/>
+    	<jsFile name="_LoadsScript.js"/>
+    	<jsFile name="_Provider.js"/>
+    	<jsFile name="_ShowsStatus.js"/>
+    	<jsFile name="Binding.js"/>
+    	<jsFile name="Button.js"/>
+    	<jsFile name="Container.js"/>
+    	<jsFile name="Dialog.js"/>
+    	<jsFile name="Editor.js"/>
+    	<jsFile name="ListBase.js"/>
+    	<jsFile name="HBox.js"/>
+    	<jsFile name="Obj.js"/>
+    	<jsFile name="SelectBox.js"/>
+    	<jsFile name="VBox.js"/>
+        <jsFile name="Vis.js"/>
+    	<jsFile name="Widget.js"/>
+        <jsFile name="Xhr.js"/>
+    </jsDir>
+	<jsDir path="javascript/mojo/js/source/gmaps">
+	       <jsFile name="_CanShowMapToolbar.js"/>
+	</jsDir>
+  </jsBundle>
+  
+  
+<!--
+    FEATURE BUNDLE: MOJO-IPHONE-DOC
+    REQUIRES:       
+-->
+ 
+  <jsBundle name="mojo-iphone-doc" depSort="true" minify="false">
+    <jsDir path="javascript/mojo/js/source"> 
+      <jsFile name="iPhoneApp.js" />
+      <jsFile name="iPhoneDocController.js"/>
+      <jsFile name="iPhoneDoc.js"/>
+    </jsDir>
+  </jsBundle>
+
+<!-- For Windows Phones -->
+
+<!--
+    FEATURE BUNDLE: WINPHONE-APP
+    REQUIRES:       MOJO-COREUI
+-->
+  <jsBundle name="winphone-app" depSort="true" minify="true" type="yui" excludes="mojo-core,mojo-coreui">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="MobileServerProxy.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/android">
+      <jsFile name="AndroidServerTransport.js" />
+    </jsDir>
+    <jsDir path="javascript/mojo/js/source/winphone">
+      <jsFile name="ViewFactory.js" />
+    </jsDir>
+  </jsBundle>
+
+<!--
+    FEATURE BUNDLE: WINPHONE-APP-DEBUG
+    REQUIRES:       MOJO-COREUI-DEBUG
+-->
+  <jsBundle name="winphone-app-debug" depSort="true" minify="true" inherits="winphone-app" type="comments-only" excludes="mojo-core-debug,mojo-coreui-debug">
+  </jsBundle>
+
+<!--
+    FEATURE BUNDLE: WINPHONE-APP-HOSTED
+    REQUIRES:       MOJO-COREUI-DEBUG, MOJO-MOBILE-DEBUG
+-->
+  <jsBundle name="winphone-app-hosted" depSort="true" minify="false" inherits="winphone-app-debug" type="closure" minifyflags="--warning_level=QUIET" excludes="mojo-core-debug,mojo-coreui-debug">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="MobileAppProxy.js" />
+      <jsFile name="XHRServerTransport.js" />
+      </jsDir>
+    <jsDir path="javascript/mojo/js/source/maps/jsmap">
+      <jsFile name="InfoWindow.js" />
+    </jsDir>    
+    
+  </jsBundle>
+    <jsBundle name="mojo-ros" depSort="true" minify="true" excludes="mojo-bootstrap">
+      <jsDir path="javascript/mojo/js/source">
+        <jsFile name="ReportQuickSearchBox.js" />
+    </jsDir>
+  
+  </jsBundle>
+
+  <jsBundle name="mojo-dde" depSort="true" minify="true" excludes="mojo-bootstrap">
+    <jsDir path="javascript/mojo/js/source">
+      <jsFile name="DynamicDateEditor.js" />
+    </jsDir>
+  </jsBundle>
+  <jsBundle name="mojo-drl" depSort="true" minify="true" excludes="mojo-bootstrap">
+    <jsDir path="javascript/mojo/js/source">
+	  <jsFile name="Editor.js"/>
+	  <jsFile name="DynamicRecipientListDataService.js"/>
+	  <jsFile name="DynamicRecipientEditor.js" />
+      <jsFile name="DynamicRecipientList.js" />
+    </jsDir>
+  </jsBundle>
+  <jsBundle name="mojo-sle" depSort="true" minify="true" excludes="mojo-bootstrap">
+    <jsDir path="javascript/mojo/js/source">
+        <jsFile name="dom.js" />
+        <jsFile name="css.js" />
+        <jsFile name="fx.js" />
+        <jsFile name="form.js" />
+        <jsFile name="dnd.js" />
+        <jsFile name="_IsPopup.js" />
+        <jsFile name="_HasPopup.js" />
+        <jsFile name="container.js" />
+        <jsFile name="Button.js" />
+        <jsFile name="Label.js" />
+        <jsFile name="TextBox.js" />
+        <jsFile name="HBox.js" />
+        <jsFile name="VBox.js" />
+        <jsFile name="Table.js" />
+        <jsFile name="Editor.js" />
+    </jsDir>
+  </jsBundle>
+</jsBundles>

@@ -1,0 +1,437 @@
+<prs version="1.0">
+  <srcs n="default">
+    <src scp="server" cache="sp"/>
+    <src scp="project" cache="pp"/>
+    <src scp="user" cache="up"/>
+    <src scp="user_project" cache="upp"/>
+  </srcs>
+  <srcs n="locale.md">
+    <src scp="server" cache="prf.ses.loc.md.svr"/>
+    <src scp="project" cache="prf.ses.loc.md.prj"/>
+    <src scp="user" cache="prf.ses.loc.md.usr"/>
+    <src scp="user_project" cache="prf.ses.loc.md.usrprj"/>
+  </srcs>
+  <srcs n="locale.whd">
+    <src scp="server" cache="prf.ses.loc.whd.svr"/>
+    <src scp="project" cache="prf.ses.loc.whd.prj"/>
+    <src scp="user" cache="prf.ses.loc.whd.usr"/>
+    <src scp="user_project" cache="prf.ses.loc.whd.usrprj"/>
+  </srcs>
+  <srcs n="locale.msgs">
+    <src scp="server" cache="prf.ses.loc.msgs.svr"/>
+    <src scp="project" cache="prf.ses.loc.msgs.prj"/>
+    <src scp="user" cache="prf.ses.loc.msgs.usr"/>
+    <src scp="user_project" cache="prf.ses.loc.msgs.usrprj"/>
+  </srcs>
+  <srcs n="locale.face">
+    <src scp="server" cache="prf.ses.loc.face.svr"/>
+    <src scp="project" cache="prf.ses.loc.face.prj"/>
+    <src scp="user" cache="prf.ses.loc.face.usr"/>
+    <src scp="user_project" cache="prf.ses.loc.face.usrprj"/>
+  </srcs>
+  <srcs n="locale.num">
+    <src scp="server" cache="prf.ses.loc.num.svr"/>
+    <src scp="project" cache="prf.ses.loc.num.prj"/>
+    <src scp="user" cache="prf.ses.loc.num.usr"/>
+    <src scp="user_project" cache="prf.ses.loc.num.usrprj"/>
+  </srcs>
+  <srcs n="projectAliases">
+    <src scp="project" class="com.microstrategy.web.preferences.ProjectAlias"/>
+  </srcs>
+  <pr des="Show WH authentication" n="showWH" scp="user_project" v="1" dt="boolean" />
+  <pr des="Time before wait page auto-refresh" n="maxWaitTime" scp="user_project" v="3" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Default rows per page" n="printDefaultRowsPerPage" scp="user_project" v="20" dt="integer" mn="0" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceValidationForPrintRowsColsPerPage"/>
+  <pr des="Text for footer right section" n="printFooterRightSection" scp="user_project" v=""/>
+  <pr des="Text for header right section" n="printHeaderRightSection" scp="user_project" v="&lt;IMG SRC=&quot;../images/125msi.gif&quot; WIDTH=&quot;125&quot; HEIGHT=&quot;25&quot; BORDER=&quot;0&quot; ALT=&quot;MicroStrategy&quot; /&gt;"/>
+  <pr des="Export plaintext delimiter" n="exportPlaintextDelimiter" scp="user_project" v="1" dt="boolean" />
+  <pr des="Maximum number of concurrent searches" n="searchWorkingSet" scp="user_project" v="1" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Specifies how many reports should be in the working set" n="workingSetSize" scp="user_project" v="10" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Specifies if re-executing against the warehouse is available" n="reportReexecute" scp="user_project" v="0" dt="boolean" />
+  <pr des="Name of footer file for print" n="printAdminFooterFile" scp="user_project" v="_administrator_Footer.htm"/>
+  <pr des="Close Session - Prompt Cancel Requests" n="promptCancelRequests" scp="user_project" v="1" dt="boolean" />
+  <pr des="Require mouse click to open menu items" n="ddMenu" scp="user_project" v="1" dt="boolean" />
+  <pr des="Right margin size" n="printMarginSizeRight" scp="user_project" v="0.75" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceValidationForMargins"/>
+  <pr des="Maximum number of objects used for incremental fetching" n="objectsBlockCount" scp="user_project" v="30" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Subscriptions view mode" n="subscriptionsViewMode" scp="user_project" v="SubscriptionsListStyle"/>
+  <pr des="Report Filter Section" n="showReportFilter" scp="user_project" v="0" dt="boolean" />
+  <pr des="View Filter Section" n="showViewFilter" scp="user_project" v="0" dt="boolean" />
+  <pr des="Export format for graphs" n="exportFormatGraphs" scp="user_project" v="htmlGraphs"/>
+  <pr des="Print Paper Orientation" n="printPaperOrientationOption" scp="user_project" v="0" dt="integer" mn="0" mx="1" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Number of cols per page" n="maxCol" scp="user_project" v="10" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Remember last tab opened on grid format editor" n="tabGridFormat" scp="user_project" v=""/>
+  <pr des="Max graphs per block" n="printMaxGraphsPerBlock" scp="user_project" v="10" dt="integer" mn="0" mx="500" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Allow to encrypt the user credentials" n="encryptCredentials" scp="user_project" v="0" dt="boolean" />
+  <pr des="Name of the class of the security plug-in to use" n="securityClass" scp="user_project" v=""/>
+  <pr des="User value for graph Width" n="graphWidth" scp="user_project" v="700" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Report Pageby Section" n="showReportPageBy" scp="user_project" v="CHECKED"/>
+  <pr des="Specifies the location of the object browser editor" n="objectBrowser_displayPreference" scp="user_project" v="left"/>
+  <pr des="Narrowcast Subscriptions view mode" n="ncSubscriptionsViewMode" scp="user_project" v="NCSubscriptionsListStyle"/>
+  <pr des="Specifies the maximum size a file can have if used to answer a prompt" n="promptsMaxUploadFileSize" scp="user_project" v="100" dt="integer" mn="1" mx="99999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Display print options before printing" n="printShowOptionsOnPrint" scp="user_project" v="1" dt="boolean" />
+  <pr des="Left Margin Size" n="printMarginSizeLeft" scp="user_project" v="0.75" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceValidationForMargins"/>
+  <pr des="Locale for numbers and date format" n="sLoc" scp="user_project" v="-1" srcs="locale.num" class="com.microstrategy.web.preferences.PreferenceDefinitionLocale"/>
+  <pr des="Time zone format" n="timeZone" scp="user_project" v="0"/>
+  <pr des="Measurement units" n="units" scp="user_project" v="0"/>
+  <pr des="Color theme" n="colorTheme" scp="user_project" v="Red"/>
+  <pr des="Export PDF" n="exportPDF" scp="user_project" v="1" dt="boolean" />
+  <pr des="Maximum number of cells to export to plain text" n="exportMaxCellsPlainText" scp="user_project" v="100000" dt="integer" mn="1" mx="9999999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Report grid style source" n="useBuiltInFormat" scp="user_project" v="1" dt="boolean" />
+  <pr des="Report Editor Section" n="reportEditor" scp="user_project" v=""/>
+  <pr des="Show save user&apos;s password" n="showSavePwd" scp="user_project" v="0" dt="boolean" />
+  <pr des="Graph image format." n="graphImageFormat" scp="user_project" v="1">
+    <allowableValues>
+      <allowableValue n="0" des="Use the settings stored in the report definition" des-id="mstrWeb.270" v="com.microstrategy.web.objects.EnumWebPreferences.GRAPH_IMAGE_TYPE_REPORT" />
+      <allowableValue n="1" des="JPEG" des-id="" v="com.microstrategy.web.objects.EnumWebPreferences.GRAPH_IMAGE_TYPE_JPEG" />
+      <allowableValue n="2" des="PNG" des-id="" v="com.microstrategy.web.objects.EnumWebPreferences.GRAPH_IMAGE_TYPE_PNG" />
+      <allowableValue n="3" des="BMP" des-id="" v="com.microstrategy.web.objects.EnumWebPreferences.GRAPH_IMAGE_TYPE_BMP" />
+    </allowableValues>
+  </pr>
+  <pr des="Login first, then show the projects accessible by this set of credentials" n="loginFirst" scp="user_project" v="0" dt="boolean" />
+  <pr des="Show options when exporting" n="exportShowOptions" scp="user_project" v="1"  dt="boolean"/>
+  <pr des="Close Session - Prompt Remove Jobs" n="promptRemoveRequests" scp="user_project" v="1"  dt="boolean"/>
+  <pr des="Show options when exporting" n="PDFShowOptions" scp="user_project" v="1"  dt="boolean"/>
+  <pr des="Merge or repeat column headers" n="mergeColHeader" scp="user_project" v="3"/>
+  <pr des="Expand page by fields while printing" n="printExpandPagebyFields" scp="user_project" v="0"  dt="boolean"/>
+  <pr des="Export metric values as text" n="exportMetricValuesAsText" scp="user_project" v="0"  dt="boolean"/>
+  <pr des="Specifies the list of extensions of files that can be used to upload prompts answers" n="promptsUploadFileExtensions" scp="user_project" v="txt,csv"/>
+  <pr des="Preference that keeps the permanent browser settings values" n="browserSettings" scp="user_project" v=""/>
+  <pr des="Show Guest authentication" n="showGuest" scp="user_project" v="1" dt="boolean" />
+  <pr des="Remember last tab opened on object browser" n="tabObjectBrowser" scp="user_project" v=""/>
+  <pr des="User value for graph Height" n="graphHeight" scp="user_project" v="400" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Preference that keeps the browser settings that should last only for the current session" n="temporalBrowserSettings" scp="user_project" v=""/>
+  <pr des="Start (project home) page" n="startPage" scp="user_project" v="desktop"/>
+  <pr des="Start (project home) page name" n="startPageName" scp="user_project" v=""/>
+  <pr des="Display subtitle (attribute form name) or not" n="showSubtitle" scp="user_project" v="3"/>
+  <pr des="Open new window when printing" n="printOpenNewWindow" scp="user_project" v="1" dt="boolean" />
+  <pr des="Export section" n="exportSection" scp="user_project" v="1" dt="boolean" />
+  <pr des="Text for footer left section" n="printFooterLeftSection" scp="user_project" v=""/>
+  <pr des="Export filter details" n="exportFilterDetails" scp="user_project" v="0" dt="boolean" />
+  <pr des="Locale" n="locale" scp="user_project" v="-1" srcs="locale.face" class="com.microstrategy.web.preferences.PreferenceDefinitionLocale"/>
+  <pr des="Show NT authentication" n="showNT" scp="user_project" v="1" dt="boolean" />
+  <pr des="Use Dynamic HTML (Only supported by IE5+ and Netscape6+" n="useDHTML" scp="user_project" v="3"/>
+  <pr n="viewMode" scp="server" v=""/>
+  <!-- <pr des="Allow auto apply for view filter" n="avf" scp="user_project" v="1"/> 0-->
+  <pr des="Shrink Font Percentage" n="printShrinkFontPercentage" scp="user_project" v="100" dt="integer" mn="10" mx="400" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="View mode" n="folderViewMode" scp="user_project" v="FolderStyleIcon"/>
+  <pr des="Drill retain thresholds" n="drillRetainThresholds" scp="user_project" v="3">
+    <allowableValues>
+      <allowableValue n="0" des="Yes" des-id="mstrWeb.219" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_RETAIN_THRESHOLD_YES" />
+      <allowableValue n="1" des="No" des-id="mstrWeb.218" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_RETAIN_THRESHOLD_NO" />
+      <allowableValue n="2" des="Use the settings stored in the report definition" des-id="mstrWeb.270" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_RETAIN_THRESHOLD_REPORT_DEFINITION" />
+    </allowableValues>
+  </pr>
+  <pr des="Allow automatic login if session is lost" n="automaticLogin" scp="user_project" v="1" dt="boolean" />
+  <pr des="Display pivot buttons or not" n="showPivot" scp="user_project" v="0" dt="boolean" />
+  <pr des="Cancel Request session flag" n="cr" scp="user_project" v="0" dt="boolean" />
+  <pr des="Specifies Paper Scaling" n="printScalingOption" scp="user_project" v="0" dt="integer"/>
+  <pr des="Allow users to select whether or not to use DHTML" n="allowUseDHTML" scp="user_project" v="1" dt="boolean" />
+  <pr des="Export format for documents" n="exportFormatDocuments" scp="user_project" v="htmlDocuments"/>
+  <pr des="Text for header left section" n="printHeaderLeftSection" scp="user_project" v=""/>
+  <pr des="Max rows per page" n="printMaxRowsPerPage" scp="user_project" v="50" dt="integer" mn="0" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Bottom margin size" n="printMarginSizeBottom" scp="user_project" v="0.75" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceValidationForMargins"/>
+  <pr des="Maximum number of cells to export to HTML" n="exportMaxCellsHTML" scp="user_project" v="10000" dt="integer" mn="1" mx="99999999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Export headers as text" n="exportHeadersAsText" scp="user_project" v="0" dt="boolean" />
+  <pr des="Max cols per page" n="printMaxColsPerPage" scp="user_project" v="20"  dt="integer" mn="0" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Indicates if cookies are enabled or not for all the users" n="cookiesEnabled" scp="user_project" v="1" dt="boolean" />
+  <pr des="Drill Options for normal reports" n="drillOption" scp="user_project" v="5">
+    <allowableValues>
+      <allowableValue n="0" des="Allow drilling as defined in each report" des-id="mstrWeb.5168" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_REPORT_DEFINITION" />
+      <allowableValue n="1" des="Allow simple drill only" des-id="mstrWeb.737" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_SIMPLE_DRILL" />
+      <allowableValue n="2" des="Allow drilling with hyperlinks only" des-id="mstrWeb.736" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_DRILL_HYPERLINKS" />
+      <allowableValue n="3" des="Disable all drilling" des-id="mstrWeb.753" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_NO_DRILL" />
+    </allowableValues>
+  </pr>
+  <pr des="Drill Options for grids in RWD" n="rwDrillOption" scp="user_project" v="5">
+    <allowableValues>
+      <allowableValue n="0" des="Allow drilling as defined in each grid" des-id="mstrWeb.5169" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_REPORT_DEFINITION" />
+      <allowableValue n="1" des="Allow simple drill only" des-id="mstrWeb.737" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_SIMPLE_DRILL" />
+      <allowableValue n="2" des="Allow drill within only" des-id="mstrWeb.5170" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_ALLOW_DRILL_WITHIN" /><!--Sameer - Need Descriptor -->
+      <allowableValue n="3" des="Allow hyperlink drilling only" des-id="mstrWeb.736" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_DRILL_HYPERLINKS" /><!--Sameer - Need Descriptor -->
+      <allowableValue n="4" des="Disable all drilling" des-id="mstrWeb.753" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_NO_DRILL" />
+    </allowableValues>
+  </pr>
+  <pr des="Drill within behavior for grids in RWD" n="rwDrillWithinMode" scp="user_project" v="1">
+    <allowableValues>
+      <allowableValue n="0" des="Automatic" des-id="mstrWeb.6019" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_WITHIN_AUTOMATIC" /><!--Sameer - Need Descriptor -->
+      <allowableValue n="1" des="Based on menu location" des-id="mstrWeb.6020" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_WITHIN_MENU_LOCATION" /><!--Sameer - Need Descriptor -->
+      <allowableValue n="2" des="Always drill to new report" des-id="mstrWeb.6021" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_WITHIN_ALWAYS_NEW_REPORT" /><!--Sameer - Need Descriptor -->
+    </allowableValues>
+  </pr>
+  <pr des="Be able to hide the My Reports link or not" n="hideMyReports" scp="user_project" v="CHECKED"/>
+  <pr des="Text for header center section" n="printHeaderCenterSection" scp="user_project" v="&amp;[Report]"/>
+  <pr des="Option to save print settings per report" n="printSaveSettingsPerReport" scp="user_project" v="0" dt="boolean" />
+  <pr des="Maximum header size in inches" n="printMaxHeaderSize" scp="user_project" v="5" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Graph preference to use report graph size or as input by the user" n="graphSize" scp="user_project" v="1">
+    <allowableValues>
+      <allowableValue n="0" des="Use the settings stored in the report definition" des-id="mstrWeb.270" v="com.microstrategy.web.objects.EnumWebPreferences.GRAPH_USE_REPORT_SIZE" />
+      <allowableValue n="1" des="" des-id="" v="com.microstrategy.web.objects.EnumWebPreferences.GRAPH_USE_USER_SIZE" />
+    </allowableValues>
+  </pr>
+  <pr des="Specifies how reports are added to the history list" n="inboxMode" scp="user_project" v="2">
+    <allowableValues>
+      <allowableValue n="0" des="Automatically" des-id="mstrWeb.52" v="com.microstrategy.web.objects.EnumWebPreferences.INBOX_ADD_AUTOMATICALLY" />
+      <allowableValue n="1" des="Manually" des-id="mstrWeb.53" v="com.microstrategy.web.objects.EnumWebPreferences.INBOX_ADD_MANUAL" />
+    </allowableValues>
+  </pr>
+  <pr des="Export format for grids" n="exportFormatGrids" scp="user_project" v="excelPlaintext"/>
+  <pr des="Display popup print dialog" n="printDisplayPopupPrintDialog" scp="user_project" v="0" dt="boolean" />
+  <pr des="Disable DHTML Printing" n="printDisableDHTMLPrinting" scp="user_project" v="0" dt="boolean" />
+  <pr des="Administrator contact info" n="adminInfo" scp="user_project" v=""/>
+  <pr des="Top margin size" n="printMarginSizeTop" scp="user_project" v="0.75" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceValidationForMargins"/>
+  <pr des="Remove Jobs session flag" n="rj" scp="user_project" v="0"/>
+  <pr des="PDF Paper Size" n="PDFPaperSize" scp="user_project" v="Letter,8.5,11"/>
+  <pr des="Display sort buttons or not" n="sSrt" scp="user_project" v="0" dt="boolean" />
+  <pr des="Allow word-wrapping of row headers in the report grid" n="wrapRowHeader" scp="user_project" v="1" dt="boolean" />
+  <pr des="Allow character-level wrapping of text in the report grid" n="wrapCharacter" scp="user_project" v="0" dt="boolean" />
+  <pr des="Specifies how to show multiple prompts in one report" n="promptsMode" scp="user_project" v="1">
+    <allowableValues>
+      <allowableValue n="0" des="All on one page" des-id="mstrWeb.1040" v="1" />
+      <allowableValue n="1" des="Each on a separate page" des-id="mstrWeb.1041" v="2" />
+    </allowableValues>
+  </pr>
+  <pr des="Default grid style" n="defGridStyle" scp="user_project" v="ReportTransformGridCorporate.css"/>
+  <pr des="Maximum number of elements used for incremental fetching" n="elementsBlockCount" scp="user_project" v="30" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Number of rows per page" n="maxRow" scp="user_project" v="50" dt="integer" mn="1" mx="999999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Fit all columns to page" n="printFitColsToPage" scp="user_project" v="1" dt="boolean" />
+  <pr des="Report Toolbar Section" n="showReportToolbar" scp="user_project" v="CHECKED"/>
+  <pr des="Grid cols per page" n="printGridColsPerPage" scp="user_project" v="5" dt="integer" mn="0" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceValidationForPrintRowsColsPerPage"/>
+  <pr des="Allow users to change password when it has expired" n="changePwd" scp="user_project" v="0" dt="boolean" />
+  <pr des="Allow to use a security plug-in and define when it will be used" n="useSecurityPlugIn" scp="user_project" v=""/>
+  <pr des="PDF Paper Orientation" n="PDFPaperOrientationOption" scp="user_project" v="0" dt="integer" mn="0" mx="1" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Name of header file for print" n="printAdminHeaderFile" scp="user_project" v="_administrator_Header.htm"/>
+  <pr des="Enable screen reader compatibility" n="accessibility" scp="user_project" v="0" dt="boolean" />
+  <pr des="Text for footer center section" n="printFooterCenterSection" scp="user_project" v=""/>
+  <pr des="Default authentication mode" n="defaultAuth" scp="user_project" v="1"/>
+  <pr des="Remember last tab opened on graph format editor" n="tabGraphFormat" scp="user_project" v=""/>
+  <pr des="Specifies whether new scheduled messages should use the same message" n="inboxReuseMessage" scp="user_project" v="1" dt="boolean" />
+  <pr des="Grid rows per page" n="printGridRowsPerPage" scp="user_project" v="20" dt="integer" mn="0" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceValidationForPrintRowsColsPerPage"/>
+  <pr des="Fit all rows to page" n="printFitRowsToPage" scp="user_project" v="1" dt="boolean" />
+  <pr des="Drill retain parent" n="drillRetainParent" scp="user_project" v="3">
+    <allowableValues>
+      <allowableValue n="0" des="Yes" des-id="mstrWeb.219" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_RETAIN_PARENT_YES" />
+      <allowableValue n="1" des="No" des-id="mstrWeb.218" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_RETAIN_PARENT_NO" />
+      <allowableValue n="2" des="Use the settings stored in the report definition" des-id="mstrWeb.270" v="com.microstrategy.web.objects.EnumWebPreferences.DRILL_OPTION_RETAIN_PARENT_REPORT_DEFINITION" />
+    </allowableValues>
+  </pr>
+  <pr des="Enable context menu drilling" n="drillEnableContextMenuDrill" scp="user_project" v="1" dt="boolean" />
+  <pr des="Disable hyperlink drilling" n="drillDisableHyperlinkDrill" scp="user_project" v="0" dt="boolean" />
+  <pr des="Show Metric Value Link" n="drillShowMetricValueLink" scp="user_project" v="0" dt="boolean" />
+  <pr des="Show Metric Value RMC" n="drillShowMetricValueRMC" scp="user_project" v="0" dt="boolean" />
+  <pr des="Open the drilled report in a new window" n="drillOpenInNewWindow" scp="user_project" v="0" dt="boolean" />
+  <pr des="Print grid and graph on the same page" n="printGridGraphSamePage" scp="user_project" v="1" dt="boolean" />
+  <pr des="Graph preference to use report graph series and categories or as input by the user" n="graphSeriesCategories" scp="user_project" v="1"/>
+  <pr des="Print Paper Size" n="printPaperSize" scp="user_project" v="Letter,8.5,11"/>
+  <pr des="Maximum footer size in inches" n="printMaxFooterSize" scp="user_project" v="5" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Maximum number of objects to bring in a search" n="maxSearchResults" scp="user_project" v="50" dt="integer" mn="1" mx="999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Maximum number of sort keys" n="maxSort" scp="project" v="3" dt="integer" mn="1" mx="99" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="User value for graph Categories" n="graphMaxCategories" scp="user_project" v="6"/>
+  <pr des="Iframe support" n="iframe" scp="user_project" v="0" dt="boolean" />
+  <pr des="Show report format toolbar" n="showFormatToolbar" scp="user_project" v=""/>
+  <pr des="User value for graph Series" n="graphMaxSeries" scp="user_project" v="5"/>
+  <pr des="Automatic page by or not" n="autoPageBy" scp="user_project" v="1" dt="boolean" />
+  <pr des="Use images for outline mode" n="useImagesForOutlineMode" scp="user_project" v="1" dt="boolean" />
+  <pr des="Enable sorting by attribute forms that are not displayed on the grid" n="enableWSFormsSorting" scp="user_project" v="1" dt="boolean" />
+  <pr des="Show LDAP authentication" n="showLDAP" scp="user_project" v="1" dt="boolean" />
+  <pr des="Specifies the maximum number of elements to use from a file when answering a prompt" n="promptsMaxElementsToImport" scp="user_project" v="300" dt="integer" mn="1" mx="999999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Export open new window" n="exportNewWindow" scp="user_project" v="1" dt="boolean" />
+  <pr des="Max cells per block" n="printMaxCellsPerBlock" scp="user_project" v="500" dt="integer" mn="0" mx="50000" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Admin option to allow user to change graph Series and Categories" n="graphChangeSeriesCategories" scp="user_project" v="1" dt="boolean" />
+  <pr des="This option controls the initial value that users will see on the prompts page for any prompts that have a search field with a 'match case' check box." n="promptsMatchCaseSensitivity" scp="user_project" v="1" dt="boolean" />
+  <pr des="Specifies whether to show required prompts first, or just in the other they are retrieved from the report" n="promptsRequiredFirst" scp="user_project" v="0" dt="boolean" />
+  <pr des="Default cols per page" n="printDefaultColsPerPage" scp="user_project" v="5" dt="integer" mn="0" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceValidationForPrintRowsColsPerPage"/>
+  <pr des="Report Formula Editor Section" n="showFormulaBar" scp="user_project" v=""/>
+  <pr des="Allow word-wrapping of metric values in the report grid" n="wrapMetricValue" scp="user_project" v="0" dt="boolean" />
+  <pr des="Enable header locking in the report grid" n="enableLockHeaders" scp="user_project" v="1" dt="boolean" />
+  <pr des="Show Standard authentication" n="showStandard" scp="user_project" v="1" dt="boolean" />
+  <pr des="Specifies to use report header and footer or use User header and footer" n="printHeaderFooterOption" scp="user_project" v="2"/>
+  <pr des="Print cover page with filter details" n="printCoverPageFilterDetails" scp="user_project" v="0" dt="boolean" />
+  <pr des="PDF Export Section" n="PDFExportSection" scp="user_project" v="1"/>
+  <pr des="PDF Header Left Section" n="PDFHeaderLeftSection" scp="user_project" v="&amp;[Page By]"/>
+  <pr des="PDF Header Center Section" n="PDFHeaderCenterSection" scp="user_project" v="&amp;[Report]"/>
+  <pr des="PDF Header Right Section" n="PDFHeaderRightSection" scp="user_project" v=""/>
+  <pr des="PDF Footer Left Section" n="PDFFooterLeftSection" scp="user_project" v=""/>
+  <pr des="PDF Footer Center Section" n="PDFFooterCenterSection" scp="user_project" v="&amp;[Page]/&amp;[NPages]"/>
+  <pr des="PDF Footer Right Section" n="PDFFooterRightSection" scp="user_project" v=""/>
+  <pr des="PDF Shrink Font Percentage" n="PDFShrinkFontPercentage" scp="user_project" v="100" dt="integer" mn="10" mx="400" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="PDF Specifies Paper Scaling" n="PDFScalingOption" scp="user_project" v="0" dt="integer"/>
+  <pr des="PDF Fit all rows to page" n="PDFFitToPagesTall" scp="user_project" v="1" mn="1" mx="999" class="com.microstrategy.web.app.preferences.EmptyNumericStringPreferenceDefinition"/>
+  <pr des="PDF Fit all coulmns to page" n="PDFFitToPagesWide" scp="user_project" v="1" mn="1" mx="999" class="com.microstrategy.web.app.preferences.EmptyNumericStringPreferenceDefinition"/>
+  <pr des="PDF Margin Size Left" n="PDFMarginSizeLeft" scp="user_project" v="0.75" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceValidationForMargins"/>
+  <pr des="PDF Margin Size Right" n="PDFMarginSizeRight" scp="user_project" v="0.75" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceValidationForMargins"/>
+  <pr des="PDF Margin Size Top" n="PDFMarginSizeTop" scp="user_project" v="0.75" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceValidationForMargins"/>
+  <pr des="PDF Margin Size Bottom" n="PDFMarginSizeBottom" scp="user_project" v="0.75" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceValidationForMargins"/>
+  <pr des="PDF Max Header Size" n="PDFMaxHeaderSize" scp="user_project" v="5" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="PDF Max Footer Size" n="PDFMaxFooterSize" scp="user_project" v="5" dt="real" mn="0" mx="5" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="PDF Max Cells" n="PDFMaxCells" scp="user_project" v="1000" dt="integer" mn="1" mx="9999999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="PDF display cover page with filter details" n="PDFCoverPageFilterDetails" scp="user_project" v="0" dt="boolean" />
+  <pr des="Allow to use embedded filter in report filter editor" n="useEmbeddedFilter" scp="user_project" v="1" dt="boolean" />
+  <pr des="Folder ID to be used as the shared reports folder" n="sharedReportsFolderID" scp="user_project" v=""/>
+  <pr des="Folder Name to be used as the shared reports folder" n="sharedReportsFolderName" scp="user_project" v=""/>
+  <pr des="Option to determine if we want to use the default font family" n="fontFamilyOption" scp="user_project" v="0" dt="boolean" />
+  <pr des="Font style name used through out the application" n="fontFamily" scp="user_project" v="Tahoma,Arial,Verdana,Microsoft Sans Serif"/>
+  <pr des="Option to determine if we want to use the default font size" n="fontSizeOption" scp="user_project" v="0" dt="boolean" />
+  <pr des="Font size used through out the application" n="fontSize" scp="user_project" v="8" dt="real" mn="1" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Length of the message allowed for the scheduled email and send now features" n="customMessageLength" scp="user_project" v="250" dt="integer" mn="1" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Show all graphs as Grid Graph" n="graphShowGridGraph" scp="user_project" v="0" dt="boolean" />
+  <pr des="Show object descriptions as tooltips in grid." n="showDescriptionAsTooltip" scp="user_project" v="0" dt="boolean" />
+  <pr des="Option for default width for row axis columns" n="defaultHeaderWidth" scp="user_project" v="100" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Option for default width for data columns" n="defaultGridWidth" scp="user_project" v="100" dt="integer" mn="1" mx="9999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Specifies whether a white space will be preserved when importing answers from a text file" n="promptsPreserveWhiteSpace" scp="user_project" v="0" dt="boolean" />
+  <pr des="Indicates whether or not to keep item in list of available answers when making a selection in cart style prompts" n="cartItemKeptInCartAvailable" scp="user_project" v="0" dt="boolean" />
+  <pr des="Specifies whether to trim leading and trailing white space for warehouse element data" n="trimWarehouseData" scp="user_project" v="0" dt="boolean" />
+  <pr des="Specifies the property for the component" n="boneProperty" scp="user_project" v=""/>
+  <pr des="Conversion factor between inches and pixels" n="dpiConversion" scp="user_project" v="96" dt="real" mn="1" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Alignment Grid Density" n="gridDensity" scp="user_project" v="1">
+    <allowableValues>
+      <allowableValue n="0" des="Low" des-id="mstrWeb.3056" v="0" />
+      <allowableValue n="1" des="Medium" des-id="mstrWeb.3057" v="1" />
+      <allowableValue n="2" des="High" des-id="mstrWeb.3058" v="2" />
+    </allowableValues>
+  </pr>
+  <pr des="Document default execution (view) mode" n="documentExecMode" scp="user_project" v="0">
+    <allowableValues>
+      <allowableValue n="0" des="Read from document" des-id="mstrWeb.4658" v="0" />
+      <allowableValue n="1" des="PDF" v="1" />
+    </allowableValues>
+  </pr>
+  <pr des="PDF As Print" n="pdfPrint" scp="user_project" v="1" dt="boolean" />
+  <pr des="Name of header file for pdf" n="PDFAdminHeaderFile" scp="user_project" v="_administrator_Header.htm"/>
+  <pr des="Name of footer file for pdf" n="PDFAdminFooterFile" scp="user_project" v="_administrator_Footer.htm"/>
+  <pr des="Default grid style ID" n="defGridStyleID" scp="user_project" v=""/>
+  <pr des="Allow execute of filter + template" n="executeFilterTemplate" scp="user_project" v="0" dt="boolean" />
+  <pr des="Enable Narrowcast Serrver functionality" n="enableNCS" scp="user_project" v="1" dt="boolean" />
+  <pr des="Marquee selection behavior" n="marqueeSelectionStyle" scp="user_project" v="0">
+    <allowableValues>
+      <allowableValue n="0" des="Partially Enclosed" des-id="mstrWeb.3594" v="0" />
+      <allowableValue n="1" des="Fully Enclosed" des-id="mstrWeb.3595" v="1" />
+    </allowableValues>
+  </pr>
+  <pr des="DHTML Wait Page Delay" n="dhtmlWaitPageDelay" scp="user_project" v="0" />
+  <pr des="DHTML Wait Page Opacity" n="dhtmlWaitPageOpacity" scp="user_project" v="90"/>
+  <pr des="Indicates if the report is to be saved a prompted or not prompted" n="saveAsAdvKeepPrompt1" scp="user_project" v="2" dt="integer" mn="1" mx="2" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Indicates if the prompt is to be kept on the filter, template or both" n="saveAsAdvFltTempPromptOptions1" scp="user_project" v="3" dt="integer" mn="1" mx="3" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Indicates if the manipulations on the filter are to be retained" n="saveAsKeepFilterManipulations" scp="user_project" v="0" dt="integer" mn="0" mx="1" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Indicates if the prompt answers are to be remebered" n="saveAsKeepPromptAnswers1" scp="user_project" v="1" dt="integer" mn="0" mx="1" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Indicates if the prompt answers are to be remebered" n="saveAsKeepTemplateShortcuts" scp="user_project" v="0" dt="integer" mn="0" mx="1" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Indicates if the prompt answers are to be remebered" n="saveAsKeepFilterShortcuts" scp="user_project" v="1" dt="integer" mn="0" mx="1" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="PDF Expand page by fields" n="PDFExpandPageByFields" scp="user_project" v="0" dt="boolean" />
+  <pr des="PDF Use BMP Graphs" n="PDFUseBMPGraphs" scp="user_project" v="0" dt="boolean" />
+  <pr des="PDF Embed Fonts" n="PDFEmbedFonts" scp="user_project" v="0" dt="boolean" />
+  <pr des="Show Low Importance Drill Paths in Context Menu" n="advancedDrillingContextMenuDisplay" scp="user_project" v="1">
+    <allowableValues>
+      <allowableValue n="0" des="Link to advanced drill editor" des-id="mstrWeb.3384" v="com.microstrategy.web.objects.EnumWebPreferences.ADVANCED_DRILLING_RMC_DISPLAY_DEFAULT" />
+      <allowableValue n="1" des="Sub menus on the context menu" des-id="mstrWeb.3385" v="com.microstrategy.web.objects.EnumWebPreferences.ADVANCED_DRILLING_RMC_DISPLAY_SUBMENU" />
+    </allowableValues>
+  </pr>
+  <pr des="Group Drill Paths in Context Menu by Drill Type" n="groupContextMenuDrillPathsByType" scp="user_project" v="0" dt="boolean" />
+  <pr des="Sort Set Names and Drill Paths Alphabetically" n="sortSetNamesAndDrillPaths" scp="user_project" v="0" dt="boolean" />
+  <pr des="PDF grid and graph on the same page" n="PDFGridGraphSamePage" scp="user_project" v="1" dt="boolean" />
+  <pr des="PDF use draft quality for graphs" n="PDFDraftQualityGraphs" scp="user_project" v="0" dt="boolean" />
+  <pr des="Enabled integration with MMT" n="enableMMT" scp="user_project" v="0" dt="boolean" />
+  <pr des="Indicates the MMT URL" n="MMTAddress" scp="user_project" v=""/>
+  <pr des="Allow MicroStrategy Office to refresh Documents after exporting to Excel" n="officeExportRefresh" scp="user_project" v="1" dt="boolean" />
+  <pr des="Use floating Apply button to make selector changes" n="floatingApplySelectorButton" scp="user_project" v="1" dt="boolean" />
+  <pr des="Re-use new window for each export, print, PDF action" n="exportReuseNewWindow" scp="user_project" v="0" dt="boolean" />
+  <pr des="Expand page by fields when exporting to Excel with formatting" n="exportExpandPageByFields" scp="user_project" v="0" dt="boolean" />
+  <pr des="Use separate pages when exporting to Excel with formatting" n="exportUseSeparateSheets" scp="user_project" v="0" dt="boolean" />
+  <pr des="Use live chart for graphs when exporting to Excel with formatting" n="exportUseLiveChartGraphs" scp="user_project" v="0" dt="boolean" />
+  <pr des="Overlap grid titles when exporting to Excel with formatting" n="exportOverlapGridTitles" scp="user_project" v="3"/>
+  <pr des="Allow MicroStrategy Office to refresh Reports after exporting to Excel" n="exportReportOfficeRefresh" scp="user_project" v="0" dt="boolean" />
+  <pr des="Excel Version" n="exportExcelVersion" scp="user_project" v="2" dt="boolean" />
+  <pr des="Specifies whether to keep the previous filter when drilling up to a parent dimension attribue within a hierarchy" n="promptsKeepFilterOnDrill" scp="user_project" v="0" dt="boolean" />
+  <pr des="Show Prompt Details on Report Page" n="showPromptDetails" scp="user_project" v="1" dt="boolean" />
+  <pr des="Allow renaming of the report/message from the prompt page" n="promptsRenameReport" scp="user_project" v="1" dt="boolean" />
+  <pr des="Scheduled Document Format" n="scheduledRWDFormat" scp="user_project" v="1">
+    <allowableValues>
+      <allowableValue n="0" des="HTML" des-id="mstrWeb.3957" v="com.microstrategy.web.objects.EnumWebPreferences.HTML" />
+      <allowableValue n="1" des="PDF" des-id="mstrWeb.1877" v="com.microstrategy.web.objects.EnumWebPreferences.PDF" />
+      <allowableValue n="2" des="EXCEL" des-id="mstrWeb.3958" v="com.microstrategy.web.objects.EnumWebPreferences.EXCEL" />
+    </allowableValues>
+  </pr>
+  <pr des="Keep Document Instance Available for schedules" n="scheduledRWDInstanceAvailable" scp="user_project" v="1" dt="boolean" />
+  <pr des="Preference to indicate if we need to use the cache flags for report execution in design mode" n="useCacheForReportDesignMode" scp="user_project" v="1" dt="boolean" />
+  <pr des="Configures which drop down option to use by default when applying preferences" n="defaultApplyOption" scp="user" v="1"/>
+  <pr des="Allow to use templates in report design mode" n="allowAddingOfTemplates" scp="user_project" v="1" dt="boolean" />
+  <pr des="View mode for configuration objects" n="confViewMode" scp="user_project" v="0"/>
+  <pr des="Multi-Layout tab strip position" n="multiLayoutTabStripPosition" scp="user_project" v="0">
+    <allowableValues>
+      <allowableValue n="0" des="Bottom" des-id="mstrWeb.2257" v="0" />
+      <allowableValue n="1" des="Top" des-id="mstrWeb.2256" v="1" />
+    </allowableValues>
+  </pr>
+  <pr des="Explorer Display List Mode" n="explorerViewMode" scp="user_project" v="FolderObjectExplorerTransformStyle"/>
+  <pr des="All Object Browser Display Mode" n="allObjectBrowserViewMode" scp="user_project" v="AllObjectBrowserListStyle"/>
+  <pr des="Filter Object Browser Display Mode" n="filterObjectBrowserViewMode" scp="user_project" v="FilterObjectBrowserListStyle"/>
+  <pr des="Metadata locale" n="localeMD" scp="user_project" v="-1" srcs="locale.md" class="com.microstrategy.web.preferences.PreferenceDefinitionLocale"/>
+  <pr des="User Manager display list mode type" n="userManagerViewModeType" scp="user" v="0" />
+  <pr des="Security Roles display list mode" n="securityRolesViewMode" scp="user" v="SecurityRoleFolderListStyle" />
+  <pr des="New history list messages upon reprompt" n="newHistoryListMessageUponReprompt" scp="user_project" v="0" dt="boolean" />
+  <pr des="Show empty grid axes in view mode" n="showEmptyGridAxesInViewMode" scp="user_project" v="1" dt="boolean" />
+  <pr des="Show graph drop zones in view mode" n="showGraphDropZonesInViewMode" scp="user_project" v="1" dt="boolean" />
+  <pr des="Warehouse data locale" n="localeWHD" scp="user_project" v="-1" srcs="locale.whd" class="com.microstrategy.web.preferences.PreferenceDefinitionLocale"/>
+  <pr des="Display incremental fetch using scroll bars" n="graphScroller" scp="user_project" v="1" dt="boolean" />
+  <pr des="I-Server messages locale" n="localeMsgs" scp="user_project" v="-1" srcs="locale.msgs" class="com.microstrategy.web.preferences.PreferenceDefinitionLocale"/>
+  <pr des="Show data labels on graph scroller" n="showGraphDataLabels" scp="user_project" v="0" dt="boolean" />
+  <pr des="Create data set caches on RW execution" n="createDSCachesOnRWExecution" scp="user_project" v="1" dt="boolean" />
+  <pr des="Show object description in prompt" n="showObjectDescription" scp="project" v="0">
+    <allowableValues>
+      <allowableValue n="0" des="Yes" des-id="mstrWeb.219" v="1" />
+      <allowableValue n="1" des="No" des-id="mstrWeb.218" v="0" />
+    </allowableValues>
+  </pr>
+  <pr des="Use Web Blocks Infrastructure to display Prompts" n="useWebBlocksForPromptDisplay" scp="project" v="0"/>
+  <pr des="Use floating images for Excel export" n="floatImages" scp="server" v="0" dt="boolean" />
+  <pr des="Document Width calculation" n="documentWidthMode" scp="user_project" v="0">
+    <allowableValues>
+      <allowableValue n="0" des="Automatic" des-id="mstrWeb.4531" v="0" />
+      <allowableValue n="1" des="Off" des-id="mstrWeb.2411" v="1" />
+    </allowableValues>
+  </pr>
+  <pr des="Document Section Height calculation" n="documentSectionHeightMode" scp="user_project" v="0">
+    <allowableValues>
+      <allowableValue n="0" des="Automatic" des-id="mstrWeb.4531" v="0" />
+      <allowableValue n="1" des="Off" des-id="mstrWeb.2411" v="1" />
+    </allowableValues>
+  </pr>
+  <pr des="Full screen mode behavior for documents" n="fullScreenModeDocuments" scp="user_project" v="2"/>
+  <pr des="Full screen mode behavior for reports" n="fullScreenModeReports" scp="user_project" v="2"/>
+  <pr des="Defines the access method to use to pass the report/document XML on the FlashVars for visualizations" n="visualizationsXMLAccessMethod" scp="server" v="2"/>
+  <pr des="Defines the color palette the user is working with" n="userPalette" scp="user_project" v=""/>
+  <pr des="Enable Flash View Mode" n="enableFlashViewMode" scp="user_project" v="1" dt="boolean" />
+  <pr des="Enable Custom Visualization Editor" n="enableVisEditor" scp="project" v="0" dt="boolean" />
+  <pr des="Triggered when a user logs in via Web - value is set to an appropriate version upon completion" n="runUponLogin" scp="user_project" v="0.0.0.0"/>
+  <pr des="Filter Visualizations pulldown with visualizations of the current view mode" n="filterVisPulldown" scp="project" v="1" dt="boolean" />
+  <pr des="Default operator used in Metric Qualification Prompt" n="MQDefaultOperator" scp="user_project" v="10,1"/><!-- greater equals -->
+  <pr des="Default operator used in Attribute Qualification and Hierarchy Prompt" n="AQHQDefaultOperator" scp="user_project" v="6,1"/><!-- equals -->
+  <pr des="Report header for Excel" n="excelReportHeader" scp="user_project" v=""/>
+  <pr des="Location of the report header for Excel" n="excelReportHeaderLocation" scp="user_project" v="0"/>
+  <pr des="Report footer for Excel" n="excelReportFooter" scp="user_project" v=""/>
+  <pr des="Report header for PDF" n="PDFReportHeader" scp="user_project" v=""/>
+  <pr des="Whether to embed the images in the excel file" n="excelEmbedImages" scp="user_project" v="1" dt="boolean" />
+  <pr des="The location of the cover page used when exporting a report for PDF" n="PDFCoverPageLocation" scp="user_project" v="0"/>
+  <pr des="The contents of the cover page used when exporting a report for PDF" n="PDFCoverPageDetailsContents" scp="user_project" v="0"/>
+  <pr des="Variable used to enable/disable expand attribute automatically when there is only one browsing option in hierarchy browsing. Usage: v=0 to disable, v=1 to enable." n="autoExpandAttributeInHierarchy" scp="user_project" v="1"/>
+  <pr des="Display advanced options" n="showAdvancedSaveOptions" scp="user_project" v="0" dt="boolean" />
+  <pr des="Selected ribbon on reports" n="reportSelectedRibbon" scp="user_project" v="0"/>
+  <pr des="Selected ribbon on rw" n="rwSelectedRibbon" scp="user_project" v="0"/>
+  <pr des="Project Header Text" n="projectHeader" scp="project" v=""/>
+  <pr des="Whether to include the report title in the exported results" n="exportReportTitle" scp="user_project" v="1" dt="boolean" />
+  <pr des="Whether to include the page-by information in the exported results" n="exportPageByInfo" scp="user_project" v="1" dt="boolean" />
+  <pr des="Indicates the time in minutes the web browser will ping the web server to keep a session alive during reposrt services document visualization and manupulation" n="keepAlive" scp="user_project" v="10" dt="integer" mn="1" mx="99999" class="com.microstrategy.web.app.preferences.PreferenceDefinitionMinMax"/>
+  <pr des="Display graph zones" n="showGraphZones" scp="user_project" v="0" dt="boolean" />
+  <pr des="Whether applying a Widget to a grid should add a compatible visualization" n="linkFromWidgetToVisualization" scp="user_project" v="1" dt="boolean" />
+  <pr des="Whether to encode the exporting CSV results as ISO8859_1 so they can be read using Excel" n="encodeCSVForExportingToExcel" scp="user" v="0" dt="boolean" />
+  <pr des="Whether to use Dashboard Data in Visualization" n="useBinaryDataInVF" scp="project" v="1" dt="boolean" />
+  <pr des="Determines the size of the Page History (used for Back and Forward buttons)" n="pageHistoryCapacity" scp="project" v="10"/>
+  <pr des="Determines whether we allow users to navigate till project root on Copy, Move and Create Shortcut dialogs." n="allowOMDLinksAncestorsBrowse" scp="project" v="0" dt="boolean"/>
+  <pr des="Hides the 'Metrics' column on the grid" n="hideMetricsColumnOnGrids" scp="server" v="3">
+    <allowableValues>
+      <allowableValue n="0" des="Yes" des-id="mstrWeb.219" v="1" />
+      <allowableValue n="1" des="No" des-id="mstrWeb.218" v="2" />
+      <allowableValue n="2" des="Use the settings stored in the report definition" des-id="mstrWeb.270" v="3" />
+    </allowableValues>
+  </pr>
+  <pr des="Show unused attributes in Page By panel" n="showUnusedAttributes" scp="user_project" v="0" dt="boolean" />
+  <pr des="Disable incremental fetch for recipient browsing" n="disableIncrementalFetchForRecipientBrowsing" scp="project" v="0" dt="boolean" />
+  <pr des="An optional alias for the project name" n="projectAlias" scp="project" v="" srcs="projectAliases" class="com.microstrategy.web.app.preferences.PreferenceValidationForStrings"/>
+</prs>

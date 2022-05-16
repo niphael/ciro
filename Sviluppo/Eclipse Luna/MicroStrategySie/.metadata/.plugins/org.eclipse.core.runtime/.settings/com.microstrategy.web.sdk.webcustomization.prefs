@@ -1,0 +1,9 @@
+antLocation=C\:\\Apache\\Apache Ant\\apache-ant-1.9.11
+axis2Location=C\:\\Apache\\Apache Axis2\\axis2-1.7.8
+browserURL=http\://localhost\:8080/MicroStrategySie/servlet/mstrWeb
+containerType=axis
+customFolderPreference=DefaultPlugIn
+eclipse.preferences.version=1
+kernelJar=C\:\\Apache\\Apache Axis2\\axis2-1.7.8\\lib\\axis2-kernel-1.7.8.jar
+msdzLocation=MSDZ_ONLINE
+pathPreference=C\:\\Sviluppo\\Eclipse Luna\\MicroStrategySie\\MicroStrategySie

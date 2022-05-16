@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml
+END
+customMdEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/customMdEvents.xml
+END
+aggregatingTaskFactoryConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/aggregatingTaskFactoryConfig.xml
+END
+locales.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/locales.xml
+END
+GraphFormatInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/GraphFormatInfo.xml
+END
+formattingProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/formattingProperties.xml
+END
+jsBundles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/jsBundles.xml
+END
+SortErrors.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/SortErrors.xsl
+END
+styleCatalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/styleCatalog.xml
+END
+taskProcessorControllerConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/taskProcessorControllerConfig.xml
+END
+customAppEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/customAppEvents.xml
+END
+preferencesGroups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/preferencesGroups.xml
+END
+jsBundleInfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/jsBundleInfo.txt
+END
+DBProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/DBProperties.xml
+END
+pageConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/pageConfig.xml
+END
+sys_defaults.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/sys_defaults.xml
+END
+serverAdminConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/serverAdminConfig.xml
+END
+architectAggregatingTaskFactoryConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/architectAggregatingTaskFactoryConfig.xml
+END
+DisplayErrors.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/DisplayErrors.xsl
+END
+mobileAggregatingTaskFactoryConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/mobileAggregatingTaskFactoryConfig.xml
+END
+pageConfigValidator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/pageConfigValidator.xml
+END
+sys_definitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/sys_definitions.xml
+END
+ipaAggregatingTaskFactoryConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/ipaAggregatingTaskFactoryConfig.xml
+END
+Admin_pageConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/Admin_pageConfig.xml
+END
+logger.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/logger.properties
+END
+FillCombo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/FillCombo.xsl
+END
+queryBuilderAggregatingTaskFactoryConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/queryBuilderAggregatingTaskFactoryConfig.xml
+END
+format_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/format_config.xml
+END

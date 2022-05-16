@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Entrate/!svn/ver/3908/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller
+END
+ConfermaModificaProfiloStampeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/ConfermaModificaProfiloStampeController.java
+END
+SchedulazioneInvioReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/Entrate/!svn/ver/3908/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/SchedulazioneInvioReportController.java
+END
+InitLog4j.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/Entrate/!svn/ver/3303/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/InitLog4j.java
+END
+SchedulazioneReportMstrController.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/3172/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/SchedulazioneReportMstrController.java
+END
+RedirectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Entrate/!svn/ver/3171/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/RedirectController.java
+END
+GestioneStampePersonaliController.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/3906/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/GestioneStampePersonaliController.java
+END
+GestListaProfiloStampeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2422/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/GestListaProfiloStampeController.java
+END
+AggiungiStampeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2398/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/AggiungiStampeController.java
+END
+GestProfiloStampeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2398/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/GestProfiloStampeController.java
+END
+ConfermaAttivazStampeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/ConfermaAttivazStampeController.java
+END
+AttivazioneStampeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/AttivazioneStampeController.java
+END
+MyAbstractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/3171/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/MyAbstractController.java
+END
+LogoutController.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/Entrate/!svn/ver/2721/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/LogoutController.java
+END
+GestioneReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/2627/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/GestioneReportController.java
+END
+ModificaProfiloStampaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/ModificaProfiloStampaController.java
+END
+InsDestinatariReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/3907/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/InsDestinatariReportController.java
+END
+AllineamentoStampeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/Entrate/!svn/ver/2530/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/AllineamentoStampeController.java
+END
+RicercaStampeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2422/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/RicercaStampeController.java
+END
+RicercaPerCodiceDescrizioneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Entrate/!svn/ver/2422/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/RicercaPerCodiceDescrizioneController.java
+END
+RicercaStampeDaAggiungereController.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/RicercaStampeDaAggiungereController.java
+END
+GestioneStampeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Entrate/!svn/ver/3321/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/GestioneStampeController.java
+END
+RicercaStampeDaAttivareController.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/RicercaStampeDaAttivareController.java
+END
+StampeTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/StampeTO.java
+END
+RicercaTitoliReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/Entrate/!svn/ver/2422/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/RicercaTitoliReportController.java
+END
+SalvaDestinatariReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/Entrate/!svn/ver/2422/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/web/controller/SalvaDestinatariReportController.java
+END

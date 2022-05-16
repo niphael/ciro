@@ -1,0 +1,1 @@
+function toggleDependentInputsStatus(inputId,dependentInputsIds){var input=document.getElementById(inputId),checked=input.checked,isArr=dependentInputsIds.constructor===Array;ids=isArr?dependentInputsIds:[dependentInputsIds];for(var id in ids){ac=document.getElementById(ids[id]);ac.disabled=!checked;}}

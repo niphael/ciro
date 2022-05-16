@@ -1,0 +1,1318 @@
+
+/* Xtab hover hiliting */
+
+.hl:hover {
+    background-image: url(images/xtabcell-hover.gif) !important;
+    background-repeat: repeat-x !important;
+    background-position: left bottom !important;
+    background-color: #E0E9F7 !important;
+    border-color: #E0E9F7 !important;
+}
+
+.mstrmojo-Xtab .xtab-tr,
+.mstrmojo-Xtab .xtab-bl {
+	overflow:hidden;
+}
+
+/* Transaction */
+
+.mstrmojo-EditButton {
+	position:absolute;
+	top:-16px;
+	left:0px;
+	width: 16px;
+	height: 16px;
+	background-image: url(images/expand.png);
+	z-index: 1;
+}
+
+.mstrmojo-EditButton.close {
+	background-image: url(images/collapse.png);
+}
+
+.mstrmojo-OIVMDICPopup {
+	position:absolute;
+	z-index: 100;
+	overflow: visible;
+	background-color: #E6E6E6;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-left: 1px solid #d3d3d3;
+	border-top: 1px solid #d3d3d3;
+	border-right: 1px solid #ADAAAD;
+	border-bottom: 1px solid #ADAAAD;
+}
+
+.mstrmojo-OIVMDICPopup .boxtip {
+	top: 61px;
+	height:15px;
+	width:27px;
+	background-image: url(images/bottomTip.png); 
+	background-repeat: no-repeat;
+}
+.mstrmojo-OIVMDICPopup .boxtip.up {
+    background-image: url(images/topTip.png);
+    top: -15px; 
+}
+
+.mstrmojo-OIVMDICPopup .mstrmojo-TimePicker {
+	padding-top: 1px;
+}
+
+.mstrmojo-Button.stepper {
+	height: 8px !important;
+	width: 15px !important;
+	border: 1px solid #949494; 
+	background-color: #f1f1f1;
+	background-position:center 2px;
+}
+
+.mstrmojo-Button.stepper:hover {
+	border: 1px solid #3c7fb1; 
+	background-color: #b0dbf7; 
+}
+
+.mstrmojo-Button.stepper.down {
+	background-image: url(images/arrow_blk_down_5x7.gif);
+	background-repeat: no-repeat;
+}
+
+.mstrmojo-Button.stepper.up {
+	background-image: url(images/arrow_blk_up_5x7.gif);
+	background-repeat: no-repeat;
+}
+
+.mstrmojo-Clock-time {
+	width: 157px;
+	height: 157px;
+	background-image: url(images/clockbg.png);
+	background-repeat: no-repeat;
+	background-position: center center; 
+	background-color: #E7E7E7;
+}
+
+.mstrmojo-OIVMDICPopup > DIV {
+	padding-left: 1px;
+	padding-top: 1px;
+	position: absolute;
+}
+
+.mstrmojo-OIVMDICPopup .toolbar {
+	right:0px;
+	z-index:2;
+}
+
+.mstrmojo-OIVMDICPopup.inline {
+	padding: 0px;
+}
+
+.mstrmojo-OIVMDICPopup.inline .toolbar,
+.mstrmojo-OIVMDICPopup.inline .boxtip,
+.mstrmojo-OIVMDICPopup.below .boxtip {
+	display: none;
+}
+
+.mstrmojo-OIVMDICPopup.above {
+	padding: 6px 6px 11px 6px;
+}
+
+.mstrmojo-OIVMDICPopup .tbApply .mstrmojo-Button-text {
+    background-position: -33px 0;
+}
+
+.mstrmojo-OIVMDICPopup .tbApply.greyed .mstrmojo-Button-text {
+    background-position: left 0;
+}
+
+.mstrmojo-OIVMDICPopup .tbCancel .mstrmojo-Button-text {
+    background-position: right 0;
+}
+
+.mstrmojo-OIVMDICPopup .mstrmojo-oivmSprite .mstrmojo-Button-text {
+    background-image: url(images/apply_cancel.png);
+    background-repeat: no-repeat;		
+}
+
+.mstrmojo-OIVMDICPopup .mstrmojo-ToolBar {
+	padding-right: 6px;
+}
+
+.mstrmojo-OIVMDICPopup .mstrmojo-Button {
+	width: 27px;
+	height: 26px;	
+}
+
+.mstrmojo-OIVMDICPopup .mstrmojo-VBox {
+	padding-top:6px; 
+}
+
+
+.dataInputControl TEXTAREA,
+.dataInputControl INPUT {
+	background-color: #FFFFCC;
+	border-color: #B5B8C8;
+}
+
+.dataInputControl .mstrmojo-SearchableDropDownList INPUT {
+	background-color: #FFFFFF;
+}
+
+/*SwitchBox*/
+.mstrmojo-SwitchBox {
+	height: 27px; 
+	width: 94px; 
+	position: relative; 
+	overflow: hidden;
+	background-image: url(images/iphone_switch_container_off.png);
+}
+
+.mstrmojo-SwitchBox img {
+	display: block;
+	height: 27px; 
+	width: 188px;
+	position: absolute; 
+	background-image: url(images/iphone_switch.png);
+}
+
+/*ListDIC*/
+
+.mstrmojo-ListDIC .mstrmojo-Pulldown-Popup {
+	max-height: 400px;
+	overflow: auto;
+}
+
+.mstrmojo-ListDIC .mstrmojo-SearchableDropDownList,
+.mstrmojo-ListDIC .mstrmojo-SearchableDropDownList input {
+	padding: 0px;
+	margin: 0px;
+	font-size: inherit;
+}
+
+.mstrmojo-ListDIC .mstrmojo-SearchableDropDownList input {
+	width: 100%;
+}
+
+/** STEPPERDIC **/
+.mstrmojo-StepperDIC {
+    user-select: none;    
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    margin: auto;
+    width: 124px;
+}
+
+.mstrmojo-StepperDIC .mstrmojo-StepperDIC-Operator {
+    width:30px;
+    height: 18px;
+    text-align:center;
+    border: solid 1px;
+    font: normal 12pt Arial;
+    color: black;
+}
+
+.mstrmojo-StepperDIC .mstrmojo-DataInputControl {
+	text-align:center;
+	width:60px;
+	height: 16px;
+	color: inherit;
+	border: solid 1px black;
+}
+
+/*Slider*/
+.mstrmojo-PopupSlider {
+	text-align: inherit;
+	margin-top: 6px;
+	height: 0;
+	outline: none !important;
+}
+
+.mstrmojo-PopupSlider .mstrmojo-Slider {
+	margin-top: 0px;
+}
+
+.mstrmojo-PopupSlider .valueText {
+	white-space:nowrap;
+	overflow:visible;
+	width:30px;
+	text-align:left;
+	font-weight:bold;
+	padding-left:4px;
+}
+
+.mstrmojo-PopupSlider .minText {
+	padding-right:6px;
+	padding-top:1px;
+	text-align:right;
+}
+
+.mstrmojo-PopupSlider .maxText {
+	padding-left:3px;
+	text-align:left;
+	padding-top:1px;
+}
+
+.mstrmojo-PopupSlider .sliderPart {
+	margin: 5px 10px 3px;
+	white-space: nowrap;
+}
+
+.mstrmojo-SliderGroup {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	text-align:	inherit;
+}
+
+.mstrmojo-SliderGroup .mstrmojo-Slider {
+	position: relative;
+	margin-top: 3px;
+}
+
+.mstrmojo-SliderGroup .valuePart {
+	position: absolute;
+	width: 40%;
+	left: 0px;
+	overflow: hidden;
+}
+
+.mstrmojo-SliderGroup .sliderPart {
+	position: absolute;
+	left: 0px;
+}
+
+.mstrmojo-SliderGroup .valueLabel,
+.mstrmojo-SliderGroup .minText,
+.mstrmojo-SliderGroup .maxText {
+	display: none;
+}
+
+.mstrmojo-SliderGroup .valueText {
+	font-size:inherit;
+	text-align:inherit;
+	margin-right: 1px;
+}
+
+.mstrmojo-SliderGroup .mstrmojo-Slider {
+	width:auto;
+	height:auto;
+	text-align:left;
+}
+
+.mstrmojo-PopupSlider .mstrmojo-Slider.sc-h .t2,
+.mstrmojo-SliderGroup .mstrmojo-Slider.sc-h .t2 {
+	top: -5px;
+}
+
+
+.mstrmojo-SliderGroup .sc1 .sd .t2,
+.mstrmojo-PopupSlider .sc1 .sd .t2 {
+      background: transparent url(images/slider_dot.png) 0 0 no-repeat;
+      cursor: pointer;
+      position: absolute;
+}
+
+.mstrmojo-Slider.unset .sd .t2 {
+      background: transparent url(images/outofrange.png) 0 0 no-repeat;
+      cursor: pointer;
+      position: absolute;
+}
+
+.mstrmojo-SliderGroup .sc-h.sc1 .sd .t2,
+.mstrmojo-PopupSlider .sc-h.sc1 .sd .t2{
+      height: 15px;
+      width: 15px;
+}
+
+/* Elastic Textarea */
+
+.mstrmojo-ElasticTextArea {
+    border: 1px solid #999999;
+    border-radius: 3px 3px 3px 3px;
+    padding: 2px 5px 2px 2px;
+	-moz-border-radius: 5px;    
+    -moz-box-shadow: 5px 5px 5px #999999;
+	-webkit-box-shadow: 5px 5px 5px #999999;
+	box-shadow: 5px 5px 5px #999999;
+	background: #999; /* for non-css3 browsers */
+	xbackground: #E6E6E6;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cccccc', endColorstr='#909090', GradientType=1); /* for IE */
+	background: -webkit-gradient(linear, left top, right top, from(#ccc), to(#909090)); /* for webkit browsers */
+	background: -moz-linear-gradient(left,  #ccc,  #909090); /* for firefox 3.6+ */ 
+    position: absolute;    
+    left: 0;
+    top: 0;
+}
+
+.mstrmojo-ElasticTextArea TEXTAREA {
+	background: #FFFFCC;
+}
+    
+.mstrmojo-ElasticTextAreaContent {position: relative;}
+.mstrmojo-ElasticTextArea .eta-bar {
+    height: 1em;
+    line-height: 1.1em;
+    width: 100%;    
+    font-family: Arial;
+    font-size: inherit;
+    padding-top: 1px;
+    xtext-shadow: #FFFFFF 1px 0px;
+    text-align: center;
+}
+
+.mstrmojo-ElasticTextArea .eta-tip {
+    background: url("images/tri-red.png") no-repeat scroll 0 0 transparent;
+    position: absolute;
+    height: 15px;
+    bottom: -10px;
+    width: 15px;
+}
+
+.mstrmojo-ElasticTextArea .eta-text {
+    border: 1px solid #ccc;
+    overflow: hidden;   
+    font-family: Tahoma,Arial,Verdana;
+    font-size: inherit;
+    padding: 0;
+    margin: 0;
+    resize: none;
+}
+
+.mstrmojo-ElasticTextAreaButton {
+    background: url("images/Blue.png") no-repeat scroll 0 0 transparent;    
+    cursor: pointer;
+    height: 16px;
+    width: 17px;
+}
+.mstrmojo-DropDownButton-iconNode.mstrmojo-ElasticTextAreaButton-iconNode {
+	background: none;
+}
+
+.mstrmojo-ElasticTextAreaButton.filled.editing,
+.mstrmojo-ElasticTextAreaButton.editing {
+    background: url("images/Blue_edit.png") no-repeat scroll 0 0 transparent;    
+}
+
+.mstrmojo-ElasticTextAreaButton.filled {
+    background: url("images/Blue_edit_txt.png") no-repeat scroll 0 0 transparent;    
+}
+
+.mstrmojo-ElasticTextAreaButton:hover {
+    background: url("images/Blue_edit.png") no-repeat scroll 0 0 transparent;    
+}
+
+/*TQMS 568971: in IE7, the red line is not shown when validation fails*/
+.mstrmojo-TextFieldDIC {
+    line-height: 1;
+}
+.mstrmojo-MarkRowDIC {
+    background: url(images/editor-button.png) no-repeat 0 -281px; 
+    padding-left: 20px; 
+    height: 18px;
+    line-height: 14px;
+    margin: 3px;
+    cursor: default;
+}
+.mstrmojo-MarkRowDIC.checked {
+    background-position: 0 -299px;
+}
+.mstrmojo-MarkRowDIC.grayed {
+    background-position: 0 -182px;
+}
+
+.dataInputControl .mstrmojo-DateTextBox-input {
+    height: 100%;
+    min-height: 18px;
+}
+.mstrmojo-Xtab td.required,
+.mstrmojo-DocTextfield.required {
+    outline: 1px solid #F00;
+    border: 1px solid #F00;
+}
+
+input.highlighted{
+    border: 1px solid yellow;
+}
+
+.mstrmojo-TableLayoutList table {
+    table-layout: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.mstrmojo-TableLayoutList .dicContainer {
+	height: 100%;
+}
+
+.mstrmojo-TableLayoutList.radio td {
+    width: 85px;
+    height:25px;
+}
+
+.mstrmojo-TableLayoutList.scale td {
+    width: 20px;
+    height: 20px;
+}
+
+.mstrmojo-TableLayoutList.rate td {
+    width: 21px;
+    height: 21px;
+}
+
+.mstrmojo-TableLayoutList.rate .left_text,
+.mstrmojo-TableLayoutList.rate .right_text,
+.mstrmojo-TableLayoutList.radio .left_text,
+.mstrmojo-TableLayoutList.radio .right_text,
+.mstrmojo-TableLayoutList.check .left_text,
+.mstrmojo-TableLayoutList.check .right_text {
+    display: none;
+}
+
+.mstrmojo-TableLayoutList .item_title  {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	padding: 2px 5px;
+	text-align: center;
+}
+
+.mstrmojo-TableLayoutList .item_wrapper {
+	cursor: pointer;
+}
+
+.mstrmojo-TableLayoutList.radio .item {
+    margin-top: 4px;
+    padding-left: 20px;
+    line-height: 14px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.mstrmojo-TableLayoutList.scale .item_wrapper .item,
+.mstrmojo-TableLayoutList.radio .item {
+    background: url(images/editor-button.png) no-repeat 0 -251px;
+    margin: 0px 15px;
+}
+
+.mstrmojo-TableLayoutList.rate.default .item_wrapper .item{
+    background: url(images/rating.png) no-repeat -21px 0;
+}
+
+.mstrmojo-TableLayoutList.rate.default .item_wrapper.less_equal .item{
+    background: url(images/rating.png) no-repeat 0 0;
+}
+
+.mstrmojo-TableLayoutList.rate.stars_dots .item_wrapper .item{
+    background: url(images/rating.png) no-repeat -21px -21px;
+}
+
+.mstrmojo-TableLayoutList.rate.stars_dots .item_wrapper.less_equal .item{
+    background: url(images/rating.png) no-repeat 0 -21px;
+}
+
+.mstrmojo-TableLayoutList.scale .item_wrapper .item{
+    height: 15px;
+    width: 15px;
+    margin: auto;
+}
+
+.mstrmojo-TableLayoutList.rate .item_wrapper .item{
+    height: 19px;
+    width: 19px;
+    margin: auto;
+}
+
+.mstrmojo-TableLayoutList.check .item_wrapper .item {
+	background: none;
+	padding: 0;
+}
+
+.mstrmojo-TableLayoutList.check .item {
+	background: url(images/editor-button.png) no-repeat 0 -281px;
+}
+
+.mstrmojo-TableLayoutList.scale .item_wrapper.selected .item,
+.mstrmojo-TableLayoutList.radio .item_wrapper.selected .item,
+.mstrmojo-TableLayoutList.radio .item.selected {
+    background-position: 0 -265px;
+}
+
+.mstrmojo-TableLayoutList.check .item.selected {
+    background-position: 0 -299px;
+}
+
+.mstrmojo-TableLayoutList.scale .left_text,
+.mstrmojo-TableLayoutList.scale .right_text {
+	padding: 0px 10px;
+    width: 45px;
+    height: 14px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.mstrmojo-TableLayoutList.scale .item_wrapper .item,
+.mstrmojo-TableLayoutList.rate .item_wrapper .item {
+	font-size: 0
+}
+
+.mstrmojo-RankDIC {
+    border: 1px solid #aaa;
+    background: #aaa;
+    user-select: none;    
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+
+.mstrmojo-RankOption {
+    cursor: move;
+    margin: 3px 2px;
+    text-align: center;
+    position: relative;
+    clear: both;
+}
+
+.mstrmojo-RankOption div {
+	display: inline-block;
+}
+
+.mstrmojo-RankOption .index {
+    cursor: pointer;
+    width: 20px;
+    float: left;
+    background: #EEE;
+    text-align: center;
+    user-select: auto;    
+    -moz-user-select: auto;
+    -webkit-user-select: auto;
+}
+.mstrmojo-RankOption .moveup,
+.mstrmojo-RankOption .movedown {
+    cursor: pointer;
+    float: right;
+    width: 20px;
+    margin-left: 2px;
+    text-align: center;
+}
+
+.mstrmojo-RankOption .moveup {
+	background: #EEE url(images/arrow_white_sprite.gif) no-repeat 5px 2px;
+}
+
+.mstrmojo-RankOption .movedown {
+	background: #EEE url(images/arrow_white_sprite.gif) no-repeat 5px -12px;
+}
+
+.mstrmojo-RankOption .disabled {
+	background-color: #FFF;
+}
+
+/* Transaction end */
+
+/** Survey Visualization **/
+.mstrmojo-SurveyVis {
+	position: absolute;
+	background-color: white;
+	z-index: 12;
+	left: 0;
+	top: 0;
+	padding: 0px 5px;
+	font-size: 10pt;
+	font-family: Arial,Tahoma,Verdana;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel {
+	position: relative;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.black {
+	color: #fff;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .header {
+	-moz-border-radius-bottomleft: 6px;
+	-moz-border-radius-bottomright: 6px;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	height: 80px;
+	background: #999;
+	background: -moz-linear-gradient(top, #8A8A8A, #373737);
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#8A8A8A), to(#373737));
+	box-shadow: 2px 4px 6px 1px #CCC;
+	position: relative;
+	z-index: 2;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .header {
+	-moz-border-radius-bottomleft: 0;
+	-moz-border-radius-bottomright: 0;
+	-moz-border-radius-topleft: 4px;
+	-moz-border-radius-topright: 4px;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	height: 28px;
+	line-height: 28px;
+	background: #CCCCCC;
+	box-shadow: none;
+	clear: both;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .header,
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .footer {
+	background: #1A1A1A;
+	color: #fff;
+	z-index: 2;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .title,
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .subtitle {
+	padding: 10px 10px 0px 20px;
+	color: white;
+	font-weight: bold;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .title {
+	font-size: 16pt;
+} 
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .subtitle {
+	font-size: 11pt;
+} 
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .titles {
+	max-width: 50%;
+	float: left;
+	display: inline;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .title {
+	padding: 0px 10px;
+	font-size: 11pt;
+	color: #333;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .title {
+	color: #fff;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .subtitle {
+	display: none;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .progress {
+	display: none;
+}
+
+.mstrmojo-SurveyVis-Section {
+	padding-bottom: 10px;
+	font-size: 9pt;
+}
+
+.mstrmojo-SurveyVis .content {
+	overflow: auto;
+	z-index: 1;
+	position: relative;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList {
+	background-color: transparent;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .footer {
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	height: 50px;
+	background: #999;
+	background: -moz-linear-gradient(bottom, #8A8A8A, #373737);
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#8A8A8A), to(#373737));
+	box-shadow: 2px -2px 8px 1px #CCC;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .content {
+	border-left: solid 1px #CDCDCD;
+	border-right: solid 1px #CDCDCD;
+	border-top: solid 1px #CDCDCD;
+	clear: both;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .content {
+	border-bottom: solid 1px #CDCDCD;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .content {
+	background: #333;
+	border: none;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .footer {
+	-moz-border-radius-topleft: 0;
+	-moz-border-radius-topright: 0;
+	-moz-border-radius-bottomleft: 4px;
+	-moz-border-radius-bottomright: 4px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	height: 28px;
+	background: #CCCCCC;
+	box-shadow: none;
+	font-size: 9pt;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .footer div {
+	display: inline-block;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .footer .prev,
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .footer .next {
+	width: 50%;
+	height: 100%;
+	display: inline-block;
+	*display: inline;
+	zoom: 1;
+	position: relative;	
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .footer .prev.disabled .btn,
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .footer .next.disabled .btn {
+	color: #AAA;
+	cursor: auto;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .footer .btn {
+	background: #EEE;
+	background: -moz-linear-gradient(top, #F5F5F5, #BCBCBC);
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#F5F5F5), to(#BCBCBC));
+	width: 100px;
+	height: 30px;
+	margin-top: 8px;
+	position: absolute;
+	border: solid 1px #AAA;
+	text-align: center;
+	line-height: 30px;
+	font-weight: bold;
+	cursor: pointer;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;	
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .footer .prev .btn {
+	right: 0px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .footer .next .btn {
+	-moz-border-radius-topright: 6px;
+	-moz-border-radius-bottomright: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	left: 0px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .footer .btn {
+	border: none;
+	background-color: transparent;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .footer .prev .btn {
+	background: transparent url(images/survey_buttons.png) no-repeat right -132px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .footer .prev.disabled .btn,
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .footer .prev.disabled .btn {
+	background: transparent url(images/survey_buttons.png) no-repeat right -149px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .footer .prev .btn {
+	background: transparent url(images/survey_buttons.png) no-repeat right -216px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .footer .next .btn {
+	background: transparent url(images/survey_buttons.png) no-repeat left -99px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .footer .next.disabled .btn,
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .footer .next.disabled .btn {
+	background: transparent url(images/survey_buttons.png) no-repeat left -116px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .footer .next .btn {
+	background: transparent url(images/survey_buttons.png) no-repeat left -195px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .progress {
+	position: absolute;
+	right: 60px;
+	top: 20px;
+	width: 240px;
+	height: 25px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .progress div {
+	height: 100%;
+	top: 0;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-ProgressBar .bar {
+	background: #777;
+	background: -moz-linear-gradient(top, #4A4A4A, #7E7E7E);
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#4A4A4A), to(#7E7E7E));
+}
+
+.mstrmojo-SurveyVis .mstrmojo-ProgressBar .bar,
+.mstrmojo-SurveyVis .mstrmojo-ProgressBar .indicator {
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-ProgressBar .indicator {
+	background: #999;
+	background: -moz-linear-gradient(bottom, #1e5799, #a5c9e5 );
+	background-image: -webkit-gradient(linear, 0% 100%, 0% 0%, from(#1e5799), to(#a5c9e5 ));
+	transition: width 0.5s ease-out;
+	-webkit-transition: width 0.5s ease-out;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-ProgressBar .text {
+	position: absolute;
+	text-align: center;
+	color: white;
+	font-size: 9pt;
+	line-height: 25px;
+	width: 100%;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .navigation {
+	position: absolute;
+	top: 45px;
+	left: 15px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .navigation {
+	top: 3px;
+	left: auto;
+	display: inline-block;
+	*display: inline; /*IE inline trick*/
+	zoom: 1;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel .pges {
+	display: none;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .footer .btn {
+	margin-top: 6px;
+	height: 15px;
+	line-height: 15px;
+	width: 100%;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .footer .prev,
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .footer .next {
+	width: 42%;	
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .pges {
+	line-height: 28px;
+	vertical-align: top;
+	width: 16%;
+	text-align: center;
+	display: inline-block;
+	*display: inline;
+	zoom: 1;
+}
+
+.mstrmojo-SurveyVis .navigation .mstrmojo-Pulldown {
+	display: inline-block;
+	background: #4E4E4E;
+	font-size: 11pt;
+	color: #fff;
+	border: none;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact .navigation .mstrmojo-Pulldown {
+	display: inline-block;
+	background-color: transparent;
+	font-size: 9pt;
+	border: none;
+	color: #333;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .navigation .mstrmojo-Pulldown {
+	color: #fff;
+}
+
+.mstrmojo-SurveyVis .navigation .mstrmojo-Pulldown .mstrmojo-Pulldown-listItem {
+	padding: 3px 12px 3px 14px;
+	margin-left: 4px;
+}
+
+.mstrmojo-SurveyVis .navigation .mstrmojo-Pulldown .mstrmojo-Pulldown-listItem.selected {
+	background: transparent url('images/survey_buttons.png') no-repeat left -79px;
+	color: #000;
+}
+
+.mstrmojo-SurveyVis .navigation .mstrmojo-Pulldown .mstrmojo-text.disabled {
+	color: #AAA;	
+}
+
+.mstrmojo-SurveyVis .navigation .mstrmojo-Pulldown-Popup {
+	color: #000;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.scale .left_text,
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.scale .right_text {
+	display: none;
+}
+
+.mstrmojo-SurveyVis-Group, 
+.mstrmojo-SurveyVis-Question {
+	padding: 20px 20px 10px 20px;
+	position: relative;
+}
+
+.mstrmojo-SurveyVis-Group .mstrmojo-SurveyVis-Question {
+	float: left;
+	padding: 2px 10px 6px 18px;
+}
+
+.mstrmojo-SurveyVis-QuestionTitle .mstrmojo-SurveyVis-QuestionTitleText {
+	font-weight: bold;
+}
+
+.mstrmojo-SurveyVis-Group.Table {
+	padding-top: 10px;
+}
+
+.mstrmojo-SurveyVis-Group.Table .mstrmojo-SurveyVis-QuestionTitleText,
+.mstrmojo-SurveyVis-Group .mstrmojo-SurveyVis-Question .mstrmojo-SurveyVis-QuestionTitleText {
+	font-weight: normal;
+}
+
+.mstrmojo-SurveyVis-Group.Table .colHeader {
+	text-align: center;
+	font-size: 9pt; 
+}
+
+.mstrmojo-SurveyVis-Group.Table .colLabel {
+	width: 100%;
+}
+
+.mstrmojo-SurveyVis-Group.Table .colLabel .colHeader{
+	text-align: left;
+}
+
+.mstrmojo-SurveyVis-Group.Table .mstrmojo-SurveyVis-Answers {
+	display: inline-block;
+	margin: 0px 5px 0px 2px;
+}
+
+.mstrmojo-SurveyVis-Group.Table .mstrmojo-TableLayoutList.scale .tableLayoutList tbody TR:first-child {
+	line-height: 0px;
+	visibility: hidden;
+}
+
+.mstrmojo-SurveyVis-Group.Table .topRow .mstrmojo-TableLayoutList.scale .tableLayoutList tbody TR:first-child {
+	line-height: normal;
+	visibility: visible;
+}
+
+.mstrmojo-SurveyVis-Group.Table .topRow .mstrmojo-TableLayoutList.scale {
+	overflow: visible;
+}
+
+.mstrmojo-SurveyVis-Group.Table .topRow .mstrmojo-TableLayoutList.scale .item_wrapper .item {
+	position: relative;
+}
+
+.mstrmojo-SurveyVis-Group.Table .mstrmojo-TableLayoutList.scale.scale .item_wrapper .item {
+	visibility: hidden;
+}
+
+.mstrmojo-SurveyVis-Group.Table .topRow .mstrmojo-TableLayoutList.scale .item_wrapper .item {
+	visibility: visible;
+	top: -26px;
+	left: -48px;
+}
+
+.mstrmojo-SurveyVis-Group.Table .mstrmojo-TableLayoutList.scale .item_title {
+    width: 70px;
+}
+
+.mstrmojo-SurveyVis-Group.Table td {
+	vertical-align: bottom;
+}
+
+.mstrmojo-SurveyVis-Group .groupBreak {
+	clear: both;
+	float: none;
+	height: 1px;
+	font-size: 1px;
+	overflow: hidden;
+}
+
+.mstrmojo-SurveyVis-QuestionTitle {
+	padding: 2px 10px 6px 2px;
+}
+
+.mstrmojo-SurveyVis-QuestionTitleText {
+	font-size: 9pt;
+	color: #333;
+}
+
+.mstrmojo-SurveyVis-QuestionTitle .required {
+	color: red;
+	padding-left: 5px;
+}
+
+.mstrmojo-SurveyVis-Description {
+	font-size: 10pt;
+	padding-left: 15px;
+}
+
+.mstrmojo-SurveyVis-Answers {
+	padding-left: 2px;
+	color: #333;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .mstrmojo-SurveyVis-QuestionTitleText,
+.mstrmojo-SurveyVis .mstrmojo-PageNavPanel.compact.black .mstrmojo-SurveyVis-Answers {
+	color: #fff;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-ListDIC .mstrmojo-TableLayoutList .dicContainer,
+.mstrmojo-SurveyVis-Answers .mstrmojo-ListDIC .mstrmojo-TableLayoutList table,
+.mstrmojo-SurveyVis-Answers .mstrmojo-ListDIC .mstrmojo-TableLayoutList td {
+	width: auto;
+	height: auto;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextArea,
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextFieldDIC {
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #aaa;
+	font-size: 9pt;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextArea::-webkit-input-placeholder,
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextFieldDIC::-webkit-input-placeholder {
+	padding-top: 1px;
+	color: #a9a9a9;	
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextArea:-moz-placeholder,
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextFieldDIC:-moz-placeholder {
+	color: #a9a9a9;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextArea::-moz-placeholder,
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextFieldDIC::-moz-placeholder {
+	color: #a9a9a9;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextArea:-ms-input-placeholder,
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextFieldDIC:-ms-input-placeholder {
+	color: #a9a9a9;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextFieldDIC,
+.mstrmojo-SurveyVis-Answers .mstrmojo-DropDownList-select {
+	height: 25px;
+	line-height: 25px;
+	min-width: 180px;
+	padding-left: 4px;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextArea {
+	max-height: 72px;
+	max-width: 360px;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-ListDIC {
+	outline: none;
+	position: relative;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-Pulldown {
+	min-width: 40px;
+	max-width: 186px;
+	height: 28px !important;
+	margin: 2px 2px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #aaa;
+	color: #000;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-Pulldown .mstrmojo-DropDownButton-boxNode {
+	height: 100%;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-Pulldown .mstrmojo-DropDownButton-iconNode {
+	margin-top: 6px;
+	margin-right: 2px;
+	padding-left: 4px;
+	height: 21px;
+	outline: none;
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-TableLayoutList .item {
+	cursor: pointer;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.scale .item_wrapper {
+	background: url(images/survey_buttons.png) no-repeat center -2px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.radio .item,
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.radio .item_wrapper {
+    background: url(images/survey_buttons.png) no-repeat 0 -2px;
+    line-height: 21px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.radio .item,
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.scale .item_wrapper {
+    padding-left: 25px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.scale .item_wrapper {
+	height: 20px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.check .item {
+    background: url(images/survey_buttons.png) no-repeat 0 -41px;
+    margin: 0px 15px;
+    padding-left: 25px;
+    line-height: 21px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.radio .item_wrapper.selected,
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.radio .item.selected {
+	background: url(images/survey_buttons.png) no-repeat 0 -20px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.check .item.selected {
+	background: url(images/survey_buttons.png) no-repeat 0 -60px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.scale .item_wrapper.selected {
+	background: url(images/survey_buttons.png) no-repeat center -20px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.rate {
+	max-width: 120px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-RankDIC {
+	min-width: 220px;
+	border: none;
+	background: none;
+	padding: 6px 0px 2px 16px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-ListBase2.mstrmojo-RankDIC {
+	display: inline-block !important;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-RankDIC .mstrmojo-RankOption {
+	border: 1px solid #999;
+	margin: 0;
+	border-bottom: none;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-RankDIC .mstrmojo-RankOption.first {
+	-moz-border-radius-topright: 8px;
+    -webkit-border-top-right-radius: 8px;  
+    -moz-border-radius-topleft: 8px;
+    -webkit-border-top-left-radius: 8px;       
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-RankDIC .mstrmojo-RankOption.last {
+	-moz-border-radius-bottomright: 8px;
+    -webkit-border-bottom-right-radius: 8px;  
+    -moz-border-radius-bottomleft: 8px;
+    -webkit-border-bottom-left-radius: 8px;       
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom: 1px solid #999;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-RankDIC .mstrmojo-RankOption {
+	cursor: move;
+	text-align: left;
+	color: #333;
+	padding: 5px 13px;
+	margin-right: 3px;
+	margin-left: 2px;
+	background: #fff url(images/survey_buttons.png) no-repeat 95% -164px;
+	height: 19px;	
+	line-height: 19px;
+}
+
+.mstrmojo-SurveyVis .black .mstrmojo-RankDIC .mstrmojo-RankOption {
+	color: #444;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-RankDIC .mstrmojo-RankOption.selected {
+	background-color: #EEE;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-RankDIC .mstrmojo-RankOption .index,
+.mstrmojo-SurveyVis .mstrmojo-RankDIC .mstrmojo-RankOption .moveup,
+.mstrmojo-SurveyVis .mstrmojo-RankDIC .mstrmojo-RankOption .movedown {
+	display: none;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-ListBase2-dropCue {
+	border: 2px solid #166AB1;
+	height: 0px;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.check .item_wrapper .item,
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.radio .item_wrapper .item,
+.mstrmojo-SurveyVis .mstrmojo-TableLayoutList.scale .item_wrapper .item {
+	background: none;
+	padding: 0;
+}
+
+.mstrmojo-SurveyVis .mstrmojo-TextArea {
+	min-width: 300px;
+	min-height: 60px;	
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-ListDIC .mstrmojo-TableLayoutList.radio .tableLayoutList,
+.mstrmojo-SurveyVis-Answers .mstrmojo-ListDIC .mstrmojo-TableLayoutList.check .tableLayoutList,
+.mstrmojo-SurveyVis-Answers .mstrmojo-RankDIC .mstrmojo-ListBase2-itemsContainer,
+.mstrmojo-SurveyVis-Answers .mstrmojo-TableLayoutList.scale .tableLayoutList,
+.mstrmojo-SurveyVis-Answers .mstrmojo-TableLayoutList.rate {
+    border: 1px solid transparent;	
+}
+
+.mstrmojo-SurveyVis-Answers .mstrmojo-TextFieldDIC.required,
+.mstrmojo-SurveyVis-Answers .required .mstrmojo-TextArea,
+.mstrmojo-SurveyVis-Answers .mstrmojo-ListDIC.required .mstrmojo-Pulldown-boxNode,
+.mstrmojo-SurveyVis-Answers .mstrmojo-ListDIC.required .mstrmojo-TableLayoutList.radio .tableLayoutList,
+.mstrmojo-SurveyVis-Answers .mstrmojo-ListDIC.required .mstrmojo-TableLayoutList.check .tableLayoutList,
+.mstrmojo-SurveyVis-Answers .mstrmojo-RankDIC.required .mstrmojo-ListBase2-itemsContainer,
+.mstrmojo-SurveyVis-Answers .mstrmojo-TableLayoutList.scale.required .tableLayoutList,
+.mstrmojo-SurveyVis-Answers .mstrmojo-TableLayoutList.rate.required {
+    border: 1px solid #F00;	
+}
+/** End of Survey Visualization **/

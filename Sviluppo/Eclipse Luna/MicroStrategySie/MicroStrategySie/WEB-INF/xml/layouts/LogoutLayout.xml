@@ -1,0 +1,28 @@
+<!DOCTYPE mstrlayout:layout SYSTEM "mstrlayout.dtd">
+<mstrlayout:layout>
+<div class="mstrPanelPortrait" id="divLoggedOutConfirm">
+	<div class="mstrPanelTitleBar">
+		<mstrlayout:render name="logoutTitle"/>
+	</div>
+	<div class="mstrPanelBody">
+		<div>
+            <div>
+            	<mstrlayout:render name="descriptor">
+                    <mstrlayout:argument type="string" value="mstrWeb.413"/>
+                </mstrlayout:render>&nbsp;
+            	<mstrlayout:render name="descriptor">
+                    <mstrlayout:argument type="string" value="mstrWeb.414"/>
+                </mstrlayout:render>
+            </div>
+            <div>
+            	<mstrlayout:render name="descriptor">
+                    <mstrlayout:argument type="string" value="mstrWeb.415"/>
+                </mstrlayout:render>
+            </div>
+		</div>
+	</div>
+	<div class="mstrPanelButtonBar">
+		<mstrlayout:render name="exitLogoutPage"/>
+	</div>
+</div>
+</mstrlayout:layout>

@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<framework>
+  <pages>
+    <page name="-1">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Error.jsp" name="error"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2" bean-class="com.giano.transforms.HeaderBean">
+          <request-properties>
+            <property name="errorMessageCode" source="request" value="errMsg"></property>
+	    <property name="param1" source="request" value="param1"/>
+	    <property name="param2" source="request" value="param2"/>
+	    <property name="documentID" source="request" value="documentID"/>
+	    <property name="reportID" source="request" value="reportID"/>
+	    <property name="server" source="request" value="server"/>
+	    <property name="ServerNameG" source="request" value="ServerNameG"/>
+          </request-properties>
+          <styles>
+            <style name="SieEmptyStyle"></style>
+          </styles>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="empty">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="rwd">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="Empty.jsp" name="dockLeft"></page-section>
+            <page-section file-name="Empty.jsp" name="error"></page-section>
+            <page-section file-name="@_Interface:/jsp/RWSie_links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="Empty.jsp" name="dockLeft"></page-section>
+            <page-section file-name="Empty.jsp" name="error"></page-section>
+            <page-section file-name="@_Interface:/jsp/RWSie_links.jsp" name="links"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="rwframe">
+          <web-beans>
+            <web-bean name="rwb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="rwdHTMLExport">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections use-default="false">
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="Empty.jsp" name="dockTop"></page-section>
+            <page-section file-name="Empty.jsp" name="dockLeft"></page-section>
+            <page-section file-name="RW_Error.jsp" name="error"></page-section>
+            <page-section file-name="RWHTMLExport_Content.jsp" name="content"></page-section>
+            <page-section file-name="RWHTMLExport_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections use-default="false">
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="Empty.jsp" name="dockLeft"></page-section>
+            <page-section file-name="Empty.jsp" name="dockTop"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections use-default="false">
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="Empty.jsp" name="dockTop"></page-section>
+            <page-section file-name="Empty.jsp" name="dockLeft"></page-section>
+            <page-section file-name="RW_Error.jsp" name="error"></page-section>
+            <page-section file-name="RWHTMLExport_Content.jsp" name="content"></page-section>
+            <page-section file-name="RWHTMLExport_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="rsfb">
+          <web-beans>
+        	<web-bean name="rwb">
+          	<init-properties>
+            		<property name="maxWait" source="const" value="-1"></property>
+          	</init-properties>
+        	</web-bean>
+ 	</web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="rwFastExport">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Export_Saving_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing" file-name="@_Interface:/jsp/sieWait.jsp">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+			<page-section file-name="Empty.jsp" name="path"></page-section>
+			<page-section file-name="Empty.jsp" name="content"></page-section>
+			 <page-section file-name="@_Interface:/jsp/Sie_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="content"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestEndsInError">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+		<web-bean name="rwframe">
+			<web-bean name="rwb">
+				<init-properties>
+					<property name="maxWait" source="const" value="-1"></property>
+				</init-properties>
+			</web-bean>
+		</web-bean>
+      </web-beans>
+    </page>
+    <page name="rwExport">
+      <templates>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="error"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="welcome">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Projects_Content.jsp" name="content"></page-section>
+            <page-section file-name="Empty.jsp" name="footer"></page-section>
+            <page-section file-name="Global_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="desktop">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Desktop_Content.jsp" name="content"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="shared">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="Empty.jsp" name="dockTop"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="my">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="report">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="Empty.jsp" name="dockLeft"></page-section>
+            <page-section file-name="Empty.jsp" name="error"></page-section>
+            <page-section file-name="Report_links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="error"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_links.jsp" name="links"></page-section>
+            <page-section file-name="Empty.jsp" name="dockLeft"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="Empty.jsp" name="dockLeft"></page-section>
+            <page-section file-name="Empty.jsp" name="error"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="frame">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="graph">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="document">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="frame">
+          <web-beans>
+            <web-bean name="db">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="search">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="sb">
+          <init-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </init-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="historyList">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="subs">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="objectSubs">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="editSubs">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncEditSubs">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncEditFileSubs">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncEditPrintSubs">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncSendNow">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncSubsConfirm">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncSendNowConfirm">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncAddresses">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncFileAddresses">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncPrintAddresses">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ncDeleteAddress">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="login">
+      <javascripts>
+        <javascript javascript-code="" name="onLoad1"></javascript>
+      </javascripts>
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="footer"></page-section>
+            <page-section file-name="Global_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+    </page>
+    <page name="loginWarning">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Error.jsp" name="error"></page-section>
+            <page-section file-name="Generic_Content.jsp" name="content"></page-section>
+            <page-section file-name="Global_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean">
+          <styles>
+            <style deleted="1" name="LoginContinueStyle"></style>
+          </styles>
+        </web-bean>
+        <web-bean bean-type="app" name="login" persist-mode="2" sys-bean="LoginBean">
+          <request-properties>
+            <property name="errorMessageCode" source="request" value="errMsg"></property>
+          </request-properties>
+          <styles>
+            <style name="LoginContinueStyle"></style>
+          </styles>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="logoutpage">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="about">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="createDocument">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="create">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="chPwd">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="saveAsReport">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="saveAsRW">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="export">
+      <templates>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="content"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestEndsInError">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="eb">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="exportBinary">
+      <templates>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="content"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestEndsInError">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="eb">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="ExportSaveReportProperties">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestEndsInError">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="content"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="rb">
+          <init-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </init-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="fastDocumentExport">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="Generic_ShortcutsBar.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestEndsInError">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="db">
+          <init-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </init-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="exportDocument">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="db">
+          <init-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </init-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="exportOptionsFromReport">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="options">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="printOptionsFromReport">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="PDFOptionsFromReport">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="options">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="printOptions">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="PDFOptions">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="exportOptions">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="print">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="pb">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="printSaveReportProperties">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestEndsInError"></template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="pdfDisplay">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="pdf">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="PDFSaveReportProperties">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestEndsInError">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="rb">
+          <init-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </init-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="fastPDFExport">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestEndsInError"></template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+		<web-bean name="rsfb">
+          <web-beans>
+            <web-bean name="rb">
+          <init-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="fastExport">
+      <templates>
+        <template status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing" file-name="@_Interface:/jsp/sieWait.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="error"></page-section>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+             <page-section file-name="@_Interface:/jsp/Sie_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+            <page-section file-name="Empty.jsp" name="error"></page-section>
+            <page-section file-name="Fast_Export_Links.jsp" name="links"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestEndsInError">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+          </page-sections>
+        </template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestCanceled">
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/Sie_Header.jsp" name="header"></page-section>
+            <page-section file-name="Empty.jsp" name="content"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+		 <web-bean name="rsfb">
+          <web-beans>
+            <web-bean name="rb">
+          <init-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="printDocument">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="db">
+          <init-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </init-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="prefs">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="error">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="prefChPwd">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="noAccess">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="delete">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="reportdetails">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="rb">
+          <request-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="documentdetails">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="db">
+          <init-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </init-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="rwDetails">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestProcessing"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="rwb">
+          <request-properties>
+            <property name="maxWait" source="const" value="-1"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="deleteHistoryList">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="summary">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="help">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp">
+          <page-sections>
+            <page-section file-name="Empty.jsp" name="path"></page-section>
+          </page-sections>
+        </template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="helpIndex">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="faqs">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="adminHelp">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="adminHelpIndex">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="adminFaqs">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="openURL">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="reportSimple">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="rwSimple">
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="reportPromptForVisEditorPlugin">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="frame">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="rwdPromptForVisEditorPlugin">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="rwframe">
+          <web-beans>
+            <web-bean name="rwb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="reportNoHeader">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="frame">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="reportNoHeaderNoFooter">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="frame">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+    <page name="reportNoHeaderNoFooterNoPath">
+      <templates>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp"></template>
+        <template file-name="@_Interface:/jsp/sieWeb.jsp" status="com.microstrategy.web.beans.EnumRequestStatus.WebBeanRequestWaitingForUserInput"></template>
+      </templates>
+      <web-beans>
+        <web-bean name="headerbean" persist-mode="2">
+          <request-properties>
+            <property name="errorMessageCode" source="request"></property>
+          </request-properties>
+        </web-bean>
+        <web-bean name="frame">
+          <web-beans>
+            <web-bean name="rb">
+              <init-properties>
+                <property name="maxWait" source="const" value="-1"></property>
+              </init-properties>
+            </web-bean>
+          </web-beans>
+        </web-bean>
+      </web-beans>
+    </page>
+  </pages>
+</framework>

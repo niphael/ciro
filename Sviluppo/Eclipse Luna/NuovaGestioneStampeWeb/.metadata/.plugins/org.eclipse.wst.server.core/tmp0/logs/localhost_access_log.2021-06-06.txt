@@ -1,0 +1,13 @@
+127.0.0.1 - - [06/Jun/2021:10:48:18 +0200] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [06/Jun/2021:10:49:01 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:49 +0200] "GET /nuovaGestioneStampeWeb HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:49 +0200] "GET /nuovaGestioneStampeWeb/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:49 +0200] "GET /nuovaGestioneStampeWeb/scambioPagina.html;jsessionid=FF400967E3164CD3C8BA880AA2449FDE HTTP/1.1" 200 1087
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:49 +0200] "GET /nuovaGestioneStampeWeb/css/style.css HTTP/1.1" 200 23072
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:50 +0200] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:52 +0200] "GET /nuovaGestioneStampeWeb/simulaLogin.html?utente=ASSISTENZA.ENTRATE HTTP/1.1" 200 4338
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:52 +0200] "GET /nuovaGestioneStampeWeb/img/logo_sie.jpg HTTP/1.1" 200 19710
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:52 +0200] "GET /nuovaGestioneStampeWeb/img/logo_rep.gif HTTP/1.1" 200 1109
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:52 +0200] "GET /nuovaGestioneStampeWeb/css/displaytag-table.css HTTP/1.1" 200 4183
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:56 +0200] "GET /nuovaGestioneStampeWeb/viewStampe.html?utente=ASSISTENZA.ENTRATE&funzione=GEST_STAMPE&descFunzione=Visualizza HTTP/1.1" 200 3362
+0:0:0:0:0:0:0:1 - - [06/Jun/2021:10:49:56 +0200] "GET /images/sie/spazio.gif HTTP/1.1" 404 993

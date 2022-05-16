@@ -1,0 +1,20 @@
+<!DOCTYPE beanTask SYSTEM "../dtds/beanTask.dtd">
+<beanTask class="com.microstrategy.web.app.tasks.SetDocumentZoomTask">
+	<!-- 
+		This Task is used to set the Zoom properties of a Report Writer Document.
+	-->
+	<basicInfo desc="This Task sets the Zoom properties (ZoomType, ZoomFactor) of a Report Writer Document.">
+		<parameter name="zoomType" desc="Specifies the type of zoom to apply (0 == Static, 1 == FitWidth, 2 == FitPage)." required="false" defvalue="0"/>
+		<parameter name="zoomFactor" desc="Specifies the zoom (multiplication) factor (0.75 == 75%, 1 == 100%, 4 == 400%, etc)." required="true"/>
+		<parameter name="rwb" desc="The state of the Report Writer Bean." required="true"/>
+	</basicInfo>
+
+	<!--
+		This information describes how the task is defined in terms of an existing Bean.
+	-->
+	<beanInfo name="rwb" bean-type="RWBean">
+		<style name="RWDocumentMojoStyle">
+			<actualParameter name="treesToRender" source="const" value="3" />
+		</style>
+	</beanInfo>
+</beanTask>

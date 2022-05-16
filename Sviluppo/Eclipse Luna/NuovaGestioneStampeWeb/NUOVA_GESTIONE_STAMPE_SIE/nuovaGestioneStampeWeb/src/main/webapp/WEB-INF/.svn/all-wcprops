@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/3303/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/webapp/WEB-INF
+END
+display-tag.tld
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/webapp/WEB-INF/display-tag.tld
+END
+spring-mvc-servlet-ese.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Entrate/!svn/ver/2497/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/webapp/WEB-INF/spring-mvc-servlet-ese.xml
+END
+spring-mvc-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Entrate/!svn/ver/2501/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/webapp/WEB-INF/spring-mvc-servlet.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/3303/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/webapp/WEB-INF/web.xml
+END
+spring-mvc-servlet-coll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/Entrate/!svn/ver/2497/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/webapp/WEB-INF/spring-mvc-servlet-coll.xml
+END

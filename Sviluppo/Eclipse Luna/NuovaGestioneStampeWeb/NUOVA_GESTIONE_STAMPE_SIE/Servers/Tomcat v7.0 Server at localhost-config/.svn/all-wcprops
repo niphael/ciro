@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/context.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/server.xml
+END
+tomcat-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/tomcat-users.xml
+END
+catalina.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/catalina.properties
+END
+catalina.policy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/catalina.policy
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/Servers/Tomcat%20v7.0%20Server%20at%20localhost-config/web.xml
+END

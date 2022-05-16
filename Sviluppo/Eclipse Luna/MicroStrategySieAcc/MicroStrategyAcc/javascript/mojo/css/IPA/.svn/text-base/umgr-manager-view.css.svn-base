@@ -1,0 +1,265 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: umgr-manager-view.css for umgr manager view
+*/
+
+.umgr-section-style{
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	border: solid 1px #AAA;	
+	overflow: visible; 
+	border-radius: 5px;
+}
+
+.umgr-section-title {
+	color:#e6e6e6;
+	background:#494949;
+	margin: 0px 0px 0px 0px;
+	font-weight: bold; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-size: 11pt; 
+	line-height: normal; 
+	font-family: Tahoma, Arial, Verdana;
+	border: solid 1px #AAA;
+	overflow: visible;
+	border-radius: 5px;
+	padding-left:5px;
+	padding-top:3px;
+	padding-bottom:5px;
+}
+.umgr-add-button {
+	width:98%;
+}
+
+.umgr-general-table {
+	width: 100%;
+	padding-bottom: 10px;
+	margin-left:10px;
+}
+
+.umgr-general-label {
+	font-weight: bold; 
+	padding-bottom: 10px;	
+}
+
+.umgr-general-padding-bottom-10 {	
+	padding-bottom: 10px;	
+}
+
+.umgr-general-textarea {
+	resize: none; 
+	width: 163px; 
+	height:40px; 
+	border: 2px 
+	inset #D4D0C8;
+	margin-left:7px;	
+}
+
+.umgr-general-pulldown {
+	margin-left:6px;
+	width: 150px	
+}
+
+.umgr-general-textbox {
+	font : 8pt Tahoma, Arial, Verdana;
+	margin-left:7px;
+}
+
+.umgr-general-textbox-2 {
+	font : 8pt Tahoma, Arial, Verdana;
+	resize: none; 
+	width: 206px; 
+	height:40px; 
+	margin-left:2px;
+}
+
+.umgr-general-user-group-fieldset {
+	margin: 6px 5px 3px 5px;
+}
+
+.umgr-general-user-group-editor {
+	margin: 5px 5px 5px 5px; 
+	border: solid 0px #AAA;
+	overflow: visible;
+	border-radius: 5px;
+}
+
+.umgr-open-btn {
+    background: url(../images/IPA/openscript.gif) no-repeat center;
+    height: 23px;
+    width: 23px;
+}
+
+.umgr-toolbar-btns {
+    margin: 3px 15px 3px 15px;
+}
+
+.umgr-import-margin-left-10 {
+    margin-left:10px;
+}
+
+.umgr-import-margin-left-700 {
+    margin-left:700px;
+}
+
+.umgr-import-label {
+    margin: 3px 15px 3px 15px;
+}
+
+.umgr-import-datagrid {
+    width: 98%;
+	margin:10px;
+	margin-bottom:10px;
+	max-height:260px; 
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+
+.umgr-import-label-margin-left-5 {
+    margin-left:5px;
+	text-align:left;
+}
+
+.umgr-import-label-margin-left-5-margin-left-auto {
+    margin-left:5px;
+	margin-right:auto;
+	width:7em;
+	text-align:left;
+}
+
+.umgr-import-label-font-size-11 {
+	font-size: 11pt; 
+	font-weight: bold; 
+	font-style: normal;
+	margin-left:10px
+}
+
+.umgr-import-editor {
+    width: 945px;
+	height:95%
+}
+
+.umgr-section-errorbox{
+	color:red;
+	margin: 0px 0px 0px 20px;
+	font-style: normal;
+	font-variant: normal; 
+	font-size: 11pt; 
+	line-height: normal; 
+	font-family: Tahoma, Arial, Verdana;
+	padding-left:5px;
+	padding-top:3px;
+	padding-bottom:5px;
+}
+
+
+
+.umgr-authentication-tabel {
+    width: 100%;
+	padding-bottom: 10px;
+}
+
+.umgr-group-fieldset {
+    margin: 6px 5px 3px 5px;
+}
+
+.umgr-delivery-button {
+    text-decoration:underline;
+	color:blue;
+	font-size:10pt;
+	margin-left:5px;
+	text-align:left;
+}
+
+.umgr-delivery-datagrid {
+    width: 750px;
+	margin:10px;
+	margin-bottom:10px;
+	max-height:260px;
+}
+
+.umgr-contact-table {
+	width: 100%;
+	padding-bottom: 10px;
+}
+
+.umgr-contact-member-listbox {
+	max-height:150px;
+	overflow-y:visible;
+	border: inset 1px;
+	width:200px;
+	height: 100px
+}
+
+.umgr-contact-member-listbox-with-220 {
+	max-height:150px;
+	overflow-y:visible;
+	border: inset 1px;
+	width:220px;
+	height: 100px
+}
+
+
+.umgr-contact-member-listbox-with-205 {
+	max-height:150px;
+	overflow-y:visible;
+	border: inset 1px;
+	width:205px;
+	height: 100px
+}
+
+.umgr-right-arrow{
+	background: url(../images/IPA/bubble_right_onblue.gif) no-repeat center bottom scroll transparent;height:20px;margin-top:0px;
+}
+
+.umgr-left-arrow{  
+    background: url(../images/IPA/bubble_left_onblue.gif) no-repeat center bottom scroll transparent;height:20px;margin-top:30px;
+}
+
+.umgr-group-icon{
+	background: url(../images/IPA/group.gif) no-repeat left scroll transparent;background-position: 0% 0%;	
+}
+
+.umgr-user-icon{  
+    background: url(../images/IPA/user.gif) no-repeat left scroll transparent;background-position: 0% 0%;
+}
+
+.mstrmojo-manager-um-prev-page{
+	background: url(../images/IPA/arrow_left_inc_fetch.gif) no-repeat center bottom scroll transparent;margin-top:0px;
+}
+
+.mstrmojo-manager-um-next-page{  
+    background: url(../images/IPA/arrow_right_inc_fetch.gif) no-repeat center bottom scroll transparent;margin-top:0px;
+}
+
+.mstrmojo-manager-um-first-page{
+	background: url(../images/IPA/arrow_first_inc_fetch.gif) no-repeat center bottom scroll transparent;margin-top:0px;
+}
+
+.mstrmojo-manager-um-final-page{  
+    background: url(../images/IPA/arrow_end_inc_fetch.gif) no-repeat center bottom scroll transparent;margin-top:0px;
+}
+
+.mstrmojo-manager-um-prev-page-disable{
+	background: url(../images/IPA/arrow_left_inc_fetch_disabled.gif) no-repeat center bottom scroll transparent;margin-top:0px;
+}
+
+.mstrmojo-manager-um-next-page-disable{  
+    background: url(../images/IPA/arrow_right_inc_fetch_disabled.gif) no-repeat center bottom scroll transparent;margin-top:0px;
+}
+
+.mstrmojo-manager-um-first-page-disable{
+	background: url(../images/IPA/arrow_first_inc_fetch_disabled.gif) no-repeat center bottom scroll transparent;margin-top:0px;
+}
+
+.mstrmojo-manager-um-final-page-disable{  
+    background: url(../images/IPA/arrow_end_inc_fetch_disabled.gif) no-repeat center bottom scroll transparent;margin-top:0px;
+}
+
+.umgr-datagrid-dialog {
+	position:absolute;left:80px;top:40px;
+}

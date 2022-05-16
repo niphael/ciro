@@ -1,0 +1,129 @@
+<ec>
+  <!-- The following nodes are used for on-premises map integration -->
+  <bms>
+
+    <bm key="default">http://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer</bm>
+  </bms>
+  <pjs>
+    <pj id="B19DEDCC11D4E0EFC000EB9495D0F44F">
+      <at id="54BABC8311D59D57C000B28A4CC5F24F">
+        <ml>http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_States_Generalized/FeatureServer/0</ml>
+        <qf>['STATE_NAME']</qf>
+        <ea>state_name</ea>
+      </at>      
+    </pj>
+  </pjs>
+  <!-- End of nodes used for on-premises map integration -->
+  
+  
+  <!-- The following nodes are used for cloud-based map integration -->
+  
+  <!-- Please insert keys obtained from MicroStrategy Map key from Technical Support in apps node -->
+  <apps></apps>
+  <layers>
+      <layer id="1" 
+             title="US-States" 
+             ml="http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_States_Generalized/FeatureServer/0"/>
+      <layer id="2"
+             title="US-ZipCodes"
+             ml="http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_ZIP_Codes/FeatureServer/0"/>
+      <layer id="3"
+             title="US-Counties"
+             ml="http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Counties_Generalized/FeatureServer/0"/>
+      <layer id="4" 
+             title="World-Countries Detailed" 
+             ml="http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/World_Countries/FeatureServer/0" />
+      <layer id="5" 
+	     title="World-Countries Generalized" 
+             ml="http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/World_Countries_(Generalized)/FeatureServer/0" />
+      <layer id="6"
+	     title="World-Admin-Divisions"
+             ml="http://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/World_Administrative_Divisions/FeatureServer/0"/>
+     
+  </layers>
+  <shapes>  
+      <shape id="100" 
+             default="true" 
+             desc="US States Names" 
+             roleId="2" 
+             type="Polygon" 
+             descWeb="mstrweb.9229" 
+             descFlash="mstr.1622" 
+             descDesktop="26973"
+             qf="['STATE_NAME']"
+             ea="state_name"
+             layerId="1" />
+      <shape id="200" 
+             desc="US States Abbreviation" 
+             roleId="2" 
+             type="Polygon" 
+             descWeb="mstrweb.9229" 
+             descFlash="mstr.1622" 
+             descDesktop="26973"
+             qf="['state_abbr']"
+             ea="state_abbr"
+             layerId="1" />
+      <shape id="300" 
+             desc="US Zip Codes" 
+             roleId="8" 
+             type="Polygon" 
+             descWeb="mstrweb.9229" 
+             descFlash="mstr.1622" 
+             descDesktop="26973"
+             qf="['ZIP']"
+             ea="ZIP"
+             layerId="2"/>
+      <shape id="4" 
+             desc="Countries of World" 
+             roleId="3" 
+             type="Polygon" 
+             descWeb="mstrweb.9229" 
+             descFlash="mstr.1622" 
+             descDesktop="26973"
+             qf="['ISO','Country']"
+             ea="Country"
+             layerId="5" />
+      <shape id="5" 
+             desc="World Admin Divisions" 
+             roleId="2" 
+             type="Polygon" 
+             descWeb="mstrweb.9229" 
+             descFlash="mstr.1622" 
+             descDesktop="26973"
+             qf="['NAME']"
+             ea="NAME"
+             layerId="6" />
+      <shape id="6"
+             desc="US Counties"
+             roleId="9"
+             type="Polygon" 
+	     descWeb="mstrweb.9229" 
+	     descFlash="mstr.1622" 
+	     descDesktop="26973"
+	     qf="['NAME']"
+	     sf="STATE_NAME"
+	     sfr="2"
+	     pk="FID"
+	     ea="NAME"
+             layerId="3" />       
+  </shapes>
+  
+  <roles>
+      <role id="1" name="City" />
+      <role id="2" name="State" />
+      <role id="3" name="Country" />
+      <role id="4" name="Location" />
+      <role id="5" name="Latitiude" />
+      <role id="6" name="Longitude" />
+      <role id="7" name="Other" />
+      <role id="8" name="ZipCode" />
+      <role id="9" name="County" />
+  </roles>
+
+ 
+  
+  <webmaps>    
+    <webmap id="5fac74d8e7924e169afdc01105235324" default="true" />    
+  </webmaps>  
+  <!-- End of Nodes used for cloud-based map integration -->
+</ec>

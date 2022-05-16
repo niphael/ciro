@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/</rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>false</reloadable>
+    <redirectLogger>true</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation></warLocation>
+    <extraInfo></extraInfo>
+    <webPath>/MicroStrategyAcc</webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/MicroStrategyAcc/plugins/_Interface/WEB-INF/classes</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>

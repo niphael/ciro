@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler
+END
+EventSourceTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/EventSourceTransportHandler.html
+END
+AbstractTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/AbstractTransportHandler.html
+END
+HtmlFileTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/HtmlFileTransportHandler.html
+END
+DefaultSockJsService.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/DefaultSockJsService.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/package-summary.html
+END
+XhrStreamingTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/XhrStreamingTransportHandler.html
+END
+AbstractHttpSendingTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/AbstractHttpSendingTransportHandler.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/package-tree.html
+END
+JsonpPollingTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/JsonpPollingTransportHandler.html
+END
+JsonpReceivingTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/JsonpReceivingTransportHandler.html
+END
+XhrPollingTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/XhrPollingTransportHandler.html
+END
+WebSocketTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/WebSocketTransportHandler.html
+END
+SockJsWebSocketHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/SockJsWebSocketHandler.html
+END
+XhrReceivingTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/XhrReceivingTransportHandler.html
+END
+AbstractHttpReceivingTransportHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/web/socket/sockjs/transport/handler/AbstractHttpReceivingTransportHandler.html
+END

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="WEB-INF/lib/CertificateServer.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/CertificateServerTomcatProvider.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/JavaWebAPI.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mainstj.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/opentoken-adapter-2.5.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/opentoken-agent-2.5.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/RegistryBridge.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebApp.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebAppAddons.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebAppAdmin.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebAppBeans.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebAppDocs.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebAppGui.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebAppIPAClient.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebAppServant.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebAppTaglibs.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebAppTransforms.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebBeans.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebBlocks.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebObjects.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebPlatform.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebTags.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebTasks.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebTransform.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebUtils.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WEB-INF/lib/WebXMLUtils.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/microOriginale9.4/MicroStrategySie/WEB-INF/lib/WebAppDocs.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="plugins/_Interface/Config"/>
+	<classpathentry kind="lib" path="plugins/_Interface/WEB-INF/lib/FileCachePurger.jar"/>
+	<classpathentry kind="lib" path="plugins/_Interface/WEB-INF/lib/sie2utils.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/DevLoader.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-6.0.43/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Apache/Apache Tomcat/apache-tomcat-7.0.88/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/servlet-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jasper.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jsp-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
+	<classpathentry kind="src" output="work" path="work"/>
+	<classpathentry kind="output" path="plugins/DefaultPlugIn/WEB-INF/classes/"/>
+</classpath>

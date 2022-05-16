@@ -1,0 +1,44 @@
+<!DOCTYPE block SYSTEM "../dtds/blockLibrary.dtd">
+<block inherits="Tab" name="PropertiesTabImage">
+  <assignments>
+    <property name="title">{desc:mstrWeb.434|Properties} - {desc:mstrWeb.3698|Image}</property>
+    <property name="modelPath">parent/model/items/2</property>
+    <property name="width">530px</property>
+    <property name="height">100%</property>
+    <property name="visible">false</property>
+    <property name="helpTopic">Properties_dialog_Image.htm</property>
+    <property name="children">
+      <list>
+        <block listElementKey="K1064" name="FieldSet">
+          <property name="legend">{desc:mstrWeb.3698|Image}</property>
+          <property name="modelPath">parent/model</property>
+          <property name="children">
+            <list>
+              <block listElementKey="K1065" name="HTextBox">
+                <property name="caption">{desc:mstrWeb.3689|Source:}</property>
+                <property name="valueField">Source</property>
+                <property name="modelPath">parent/model</property>
+                <property name="totalSize">47</property>
+                <property name="validator">
+                  <block name="FieldValidator">
+                    <property name="required">true</property>
+                    <property name="regEx">\S+</property>
+                    <property name="errMessage">{desc:mstrWeb.3878|Please enter a non-empty string in the following field:}</property>
+                  </block>
+                </property>
+              </block>
+              <block listElementKey="K1066" name="ImagePreview">
+                <property name="valueField" type="String">Source</property>
+                <property name="modelPath">parent/model</property>
+                <property name="visibleField">parent/parent/visible</property>
+              </block>
+            </list>
+          </property>
+        </block>
+      </list>
+    </property>
+  </assignments>
+</block>
+<!--
+		PropertiesTabImage is the "Properties - Image" tab of the properties editor.
+	-->

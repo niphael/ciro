@@ -1,0 +1,61 @@
+<framework>
+  <pages>
+    <page desc="" desc-id="" feature-id="" name="-1">
+      <templates>
+        <template>
+          <page-sections>
+            <page-section file-name="@_Interface:/jsp/ServerAdminPathOptions.jsp" name="path_options"/>
+          </page-sections>
+        </template>
+      </templates>
+    </page>
+    <page name="welcome">
+      <templates>
+        <template>
+          <page-sections>
+            <page-section file-name="/jsp/Empty.jsp" name="header"/>
+            <page-section file-name="@_Interface:/jsp/ServerAdminWelcomePathOptions.jsp" name="path_options"/>
+          </page-sections>
+        </template>
+      </templates>
+    </page>
+    <page name="about">
+      <templates>
+        <template>
+          <page-sections>
+            <page-section file-name="/jsp/Empty.jsp" name="header"/>
+          </page-sections>
+        </template>
+      </templates>
+    </page>
+    <page name="login">
+      <templates>
+        <template>
+          <page-sections>
+            <page-section file-name="/jsp/Empty.jsp" name="header"/>
+            <page-section file-name="@_Interface:/jsp/ServerAdminWelcomePathOptions.jsp" name="path_options"/>
+          </page-sections>
+        </template>
+      </templates>
+    </page>
+    <page name="logout">
+      <templates>
+        <template>
+          <page-sections>
+            <page-section file-name="/jsp/Empty.jsp" name="header"/>
+            <page-section file-name="@_Interface:/jsp/ServerAdminWelcomePathOptions.jsp" name="path_options"/>
+          </page-sections>
+        </template>
+      </templates>
+    </page>
+    <page name="loginWarning">
+          <templates>
+            <template>
+              <page-sections>
+                <page-section file-name="/jsp/Empty.jsp" name="header"/>
+              </page-sections>
+            </template>
+          </templates>
+    </page>
+  </pages>
+</framework>

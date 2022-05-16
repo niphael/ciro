@@ -1,0 +1,3 @@
+  <browser-settings version="1.0">
+    <browser-setting desc="Show Report Details by Default" name="reportDetails" value="0"/>
+  </browser-settings>

@@ -1,0 +1,791 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config
+END
+reportFullscreenToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportFullscreenToolbar.xml
+END
+rwEditControls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwEditControls.xml
+END
+rwIFrameUpdateFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwIFrameUpdateFilter.xml
+END
+graphFractionPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/graphFractionPicker.xml
+END
+quickThresholdPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/quickThresholdPicker.xml
+END
+searchToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/searchToolbar.xml
+END
+rwStandardToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwStandardToolbar.xml
+END
+paperTypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/paperTypes.xml
+END
+inboxContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/inboxContextMenus.xml
+END
+rwGraphToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwGraphToolbar.xml
+END
+advFontColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/advFontColorPicker.xml
+END
+folderToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/folderToolbar.xml
+END
+fontColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/fontColorPicker.xml
+END
+fractionPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/fractionPicker.xml
+END
+colorPickerShortcutList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/colorPickerShortcutList.xml
+END
+browserSettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/browserSettings.xml
+END
+rwObjBrowserContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwObjBrowserContextMenus.xml
+END
+widgets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/widgets.xml
+END
+dataExplorerContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/dataExplorerContextMenus.xml
+END
+detailsToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/detailsToolbar.xml
+END
+datePicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/datePicker.xml
+END
+searchObjectTypesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/searchObjectTypesPicker.xml
+END
+derivedElmtGroupPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/derivedElmtGroupPicker.xml
+END
+rwGridViewModeControls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwGridViewModeControls.xml
+END
+rwToolbarsMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwToolbarsMenu.xml
+END
+reportMajorGraphPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportMajorGraphPicker.xml
+END
+reportEdit1Controls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportEdit1Controls.xml
+END
+gaugeStylesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/gaugeStylesPicker.xml
+END
+rwZoomControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwZoomControl.xml
+END
+sysFolderBlackList.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/sysFolderBlackList.xml
+END
+templateFilterToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/templateFilterToolbar.xml
+END
+ToolbarBlockMappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/ToolbarBlockMappings.xml
+END
+advancedThresholdEditorToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/advancedThresholdEditorToolbar.xml
+END
+exportFormats.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/exportFormats.xml
+END
+reportGraphToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportGraphToolbar.xml
+END
+fillColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/fillColorPicker.xml
+END
+rwAddToPanelMenuSet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwAddToPanelMenuSet.xml
+END
+objectBrowserContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/objectBrowserContextMenus.xml
+END
+esriConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/esriConfig.xml
+END
+lineStylesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/lineStylesPicker.xml
+END
+ncSubToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/ncSubToolbar.xml
+END
+reportToolbarsMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportToolbarsMenu.xml
+END
+reportColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportColorPicker.xml
+END
+allBorderStylesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/allBorderStylesPicker.xml
+END
+resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/resources.xml
+END
+startPagesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/startPagesPicker.xml
+END
+errors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/errors.xml
+END
+transitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/transitions.xml
+END
+reportStandardToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportStandardToolbar.xml
+END
+beanFactoryConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/beanFactoryConfig.xml
+END
+gaugeBorderStylesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/gaugeBorderStylesPicker.xml
+END
+reportSaveControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportSaveControl.xml
+END
+exportPlaintextDelimiters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/exportPlaintextDelimiters.xml
+END
+reportDesignModeToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportDesignModeToolbar.xml
+END
+reportCrosstabToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportCrosstabToolbar.xml
+END
+events.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/events.xml
+END
+minorGraphPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/minorGraphPicker.xml
+END
+userMgrToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/userMgrToolbar.xml
+END
+timeZonesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/timeZonesPicker.xml
+END
+folderLinks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/folderLinks.xml
+END
+rwMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwMenu.xml
+END
+documentStandardToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/documentStandardToolbar.xml
+END
+alertsEditorToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/alertsEditorToolbar.xml
+END
+visualizations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/visualizations.xml
+END
+rwColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwColorPicker.xml
+END
+paperSizes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/paperSizes.xml
+END
+reportCellContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportCellContextMenus.xml
+END
+fontNamesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/fontNamesPicker.xml
+END
+timePicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/timePicker.xml
+END
+secRolesContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/secRolesContextMenus.xml
+END
+reportViewModeControls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportViewModeControls.xml
+END
+EditableObjectFrameMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/EditableObjectFrameMenu.xml
+END
+reportPanelsToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportPanelsToolbar.xml
+END
+folderTreeViewContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/folderTreeViewContextMenus.xml
+END
+selectorControls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/selectorControls.xml
+END
+reportGridToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportGridToolbar.xml
+END
+rwSaveControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwSaveControl.xml
+END
+fontStylesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/fontStylesPicker.xml
+END
+controlLocalDataMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/controlLocalDataMenu.xml
+END
+colorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/colorPicker.xml
+END
+folderSearchContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/folderSearchContextMenus.xml
+END
+gridLocalDataMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/gridLocalDataMenu.xml
+END
+layoutTabContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/layoutTabContextMenus.xml
+END
+preferencesToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/preferencesToolbar.xml
+END
+rectangleControls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rectangleControls.xml
+END
+folderContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/folderContextMenus.xml
+END
+objSubsToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/objSubsToolbar.xml
+END
+FilterObjectBrowserContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/FilterObjectBrowserContextMenus.xml
+END
+reportMinorGraphPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportMinorGraphPicker.xml
+END
+reportMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportMenu.xml
+END
+userMgrContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/userMgrContextMenus.xml
+END
+rwStandardToolbarFSM.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwStandardToolbarFSM.xml
+END
+reportWSContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportWSContextMenus.xml
+END
+advancedColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/advancedColorPicker.xml
+END
+filterContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/filterContextMenus.xml
+END
+documentMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/documentMenu.xml
+END
+paperTypesRW.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/paperTypesRW.xml
+END
+derivedElementsEditorToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/derivedElementsEditorToolbar.xml
+END
+borderStylesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/borderStylesPicker.xml
+END
+allObjectBrowserContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/allObjectBrowserContextMenus.xml
+END
+graphTypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/graphTypes.xml
+END
+RWGraphContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/RWGraphContextMenus.xml
+END
+blockColorPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/blockColorPicker.xml
+END
+reportEventFlags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/reportEventFlags.xml
+END
+srToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/srToolbar.xml
+END
+gaugeNeedleStylesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/gaugeNeedleStylesPicker.xml
+END
+filterToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/filterToolbar.xml
+END
+rwViewModeControls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwViewModeControls.xml
+END
+filterDataExplorerContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/filterDataExplorerContextMenus.xml
+END
+drillLinkEditorToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/drillLinkEditorToolbar.xml
+END
+subtotalsDHTMLEditor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/subtotalsDHTMLEditor.xml
+END
+mapStyles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/mapStyles.xml
+END
+fontSizesPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/fontSizesPicker.xml
+END
+pagebyContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/pagebyContextMenus.xml
+END
+colorThemes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/colorThemes.xml
+END
+adminErrors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/adminErrors.xml
+END
+majorGraphPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/majorGraphPicker.xml
+END
+subscriptionsToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/subscriptionsToolbar.xml
+END
+esriNameConversions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/esriNameConversions.xml
+END
+ncsContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/ncsContextMenus.xml
+END
+fillEffectPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/fillEffectPicker.xml
+END
+rwInsertMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwInsertMenu.xml
+END
+inboxToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/inboxToolbar.xml
+END
+promptToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/promptToolbar.xml
+END
+groupbyContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/groupbyContextMenus.xml
+END
+rwContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwContextMenus.xml
+END
+rwAddToPanelMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwAddToPanelMenu.xml
+END
+ReportGraphContextMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/ReportGraphContextMenus.xml
+END
+rwViewModes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwViewModes.xml
+END
+displayFormatPicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/displayFormatPicker.xml
+END
+rwPanelsToolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/WEB-INF/xml/config/rwPanelsToolbar.xml
+END

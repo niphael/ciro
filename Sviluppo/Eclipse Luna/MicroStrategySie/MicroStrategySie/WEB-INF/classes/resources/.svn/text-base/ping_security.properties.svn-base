@@ -1,0 +1,4 @@
+
+LoginParam=PF_AUTH_SUBJECT
+GroupsParam=PF_AUTH_GROUP
+DistinguishedName=PF_USERDN

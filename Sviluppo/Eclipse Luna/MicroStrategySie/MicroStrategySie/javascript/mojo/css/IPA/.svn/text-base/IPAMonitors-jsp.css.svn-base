@@ -1,0 +1,30 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: IPAMonitors-jsp.css for IPAMonitors.jsp page
+*/
+
+::selection {
+	background-color: Transparent;
+	color: #000;
+}
+
+::-moz-selection {
+	background-color: Transparent;
+	color: #000;
+}
+
+.ipa-monitorView{
+	margin:0;
+	margin-top:15px;
+	padding-bottom:20px;
+    overflow: visible;
+    border-radius: 4px 4px 4px 4px; 
+	border:1px solid #BABABA;
+    -moz-border-radius: 4px;
+	background-image:#f2f2f2; 
+	background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0.5, #fafafa), to(#f2f2f2)); 
+	background-image:-moz-linear-gradient(top, #fafafa 50%, #f2f2f2);
+	background-image: "linear-gradient(top, #fafafa, #f2f2f2)"; 
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#fafafa', EndColorStr='#f2f2f2')"; /* IE8 */
+}

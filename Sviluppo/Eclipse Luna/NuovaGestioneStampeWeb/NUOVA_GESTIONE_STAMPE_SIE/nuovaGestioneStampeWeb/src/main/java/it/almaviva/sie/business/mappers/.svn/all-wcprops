@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Entrate/!svn/ver/2579/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers
+END
+DAnagraficaStampeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2579/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/DAnagraficaStampeMapper.java
+END
+DCronologicoStampeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/Entrate/!svn/ver/2316/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/DCronologicoStampeMapper.java
+END
+DAbilitazioniStampeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/DAbilitazioniStampeMapper.java
+END
+DProfiloMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/Entrate/!svn/ver/2398/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/DProfiloMapper.java
+END
+VerificaEsistenzaMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Entrate/!svn/ver/2369/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/VerificaEsistenzaMapper.java
+END
+DAbilitazioniStampeLivOrgMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/DAbilitazioniStampeLivOrgMapper.java
+END
+DCronologicoMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Entrate/!svn/ver/2383/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/DCronologicoMapper.java
+END
+DUtentiProfiliMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2064/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/DUtentiProfiliMapper.java
+END
+RicercaPerCodiceDescrizioneMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/Entrate/!svn/ver/2358/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/RicercaPerCodiceDescrizioneMapper.java
+END
+GestioneUtentiMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Entrate/!svn/ver/2358/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/GestioneUtentiMapper.java
+END
+DParametriApplicazioneMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/Entrate/!svn/ver/2335/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/DParametriApplicazioneMapper.java
+END
+DVociMenuMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/Entrate/!svn/ver/2335/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/nuovaGestioneStampeWeb/src/main/java/it/almaviva/sie/business/mappers/DVociMenuMapper.java
+END

@@ -1,0 +1,90 @@
+/*
+ * MicroStrategy Labs
+ * Copyright © 1996-2013 MicroStrategy, Incorporated
+ * CSS file: cmnt-monitor-view.css for cache monitor view
+ */
+.mstrmojo-cachetable {
+    margin: 5px;
+    width: 98%;
+    height: auto;
+}
+
+.mstrmojo-cachetable .mstrmojo-DataGrid-itemsScrollBox {
+    max-height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.mstrmojo-jobtable .mstrmojo-DataGrid-itemsScrollBox {
+    max-height: 450px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.mstrmojo-userconnectiontable .mstrmojo-DataGrid-itemsScrollBox {
+    max-height: 450px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.mstrmojo-cachetable td {
+    height: auto;
+}
+
+.mstrmojo-cachetable .cacheNameCol {
+    width: 316px;
+}
+
+.mstrmojo-cachetable .cacheSizeCol {
+    width: 106px;
+}
+
+.mstrmojo-cachetable .cacheTypeCol {
+    width: 96px;
+}
+
+.mstrmojo-cachetable .cacheStatusCol {
+    width: 116px;
+}
+
+.mstrmojo-cachetable .cacheLastHitCol {
+    width: 146px;
+}
+
+.mstrmojo-cachetable .cacheHitCountCol {
+    width: 96px;
+}
+
+.mstrmojo-cachetable .cacheSelected {
+    width: 56px;
+}
+
+.mstrmojo-cachedetail-table {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #AAAAAA;
+}
+
+.mstrmojo-cachedetail-table .detailName {
+    font-weight: bold;
+    text-align: left;
+    width: 15%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #AAAAAA;
+}
+
+.mstrmojo-cachedetail-table .detailValue {
+    text-align: left;
+    width: 85%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #AAAAAA;
+}
+
+.mstrmojo-cachedetail-label {
+    margin-left: 4px;
+}

@@ -1,0 +1,140 @@
+<shortcut-list-set feature-id="is-viewable-report" name="reportGridToolbar" version="1.0">
+  <attributes>
+    <attribute name="at" value="UniqueReportID"/>
+    <attribute name="dg" value="3"/>
+    <attribute name="or" value="1"/>
+    <attribute name="ors" value="3"/>
+    <attribute name="nowrap" value="1"/>
+  </attributes>
+  
+  <shortcut-list name="autostyle">
+    <attributes>
+      <attribute name="nowrap" value="1"/>
+      <attribute name="ty" value="btng"/>
+    </attributes>
+    <shortcut base-bean="GridAutoStyle" desc="AutoStyle HTML" desc-id="" feature-id="!dhtml;change-grid-autostyle;!check-graph-mode" enable-feature-id="" name="tbAutoStyleHtml" type="bean"/>
+    <shortcut base-bean="rb" check-feature-id="check-show-banding" desc="[Banding]" desc-id="mstrWeb.3646" enable-feature-id="!check-graph-mode;enable-show-banding;is-not-visualization-mode" feature-id="!dhtml" iframe="true" name="tbBandingHTML" type="button">
+      <event XMLmerge_id="1" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SHOW_BANDING" state="checked">
+        <argument enumname="com.microstrategy.web.beans.EnumReportBeanEvents.HIDE_BANDING" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_SHOW_BANDING" source="enum"/>
+        <argument base-bean="frame" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_STYLE_NAME" sys-bean="com.microstrategy.web.app.beans.ReportFrameBean" value="reportStyleLocalizedName"/>
+      </event>
+      <event XMLmerge_id="2" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SHOW_BANDING" state="unchecked">
+        <argument enumname="com.microstrategy.web.beans.EnumReportBeanEvents.SHOW_BANDING" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_SHOW_BANDING" source="enum"/>
+        <argument base-bean="frame" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_STYLE_NAME" sys-bean="com.microstrategy.web.app.beans.ReportFrameBean" value="reportStyleLocalizedName"/>
+      </event>
+      <attributes>
+          <attribute name="src" feature-id="accessibility" value="tbBandingAccD.gif"/>
+          <attribute name="src" feature-id="accessibility;!check-graph-mode;enable-show-banding;is-not-visualization-mode" value="tbBandingAcc.gif"/>
+      </attributes>
+    </shortcut>
+    <shortcut base-bean="rb" check-feature-id="check-outline-mode" desc="[Outline]" desc-id="mstrWeb.1074" enable-feature-id="!check-graph-mode;enable-outline-mode;is-not-visualization-mode" feature-id="!dhtml" iframe="true" name="tbOutlineHTML" type="button">
+      <event XMLmerge_id="1" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SHOW_OUTLINE_MODE" state="checked">
+        <argument enumname="com.microstrategy.web.beans.EnumReportBeanEvents.HIDE_OUTLINE_MODE" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_OUTLINE_MODE" source="enum"/>
+      </event>
+      <event XMLmerge_id="2" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SHOW_OUTLINE_MODE" state="unchecked">
+        <argument enumname="com.microstrategy.web.beans.EnumReportBeanEvents.SHOW_OUTLINE_MODE" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_OUTLINE_MODE" source="enum"/>
+      </event>
+      <attributes>
+          <attribute name="src" feature-id="accessibility" value="tbOutlineAccD.gif"/>
+          <attribute name="src" feature-id="accessibility;!check-graph-mode;enable-outline-mode;is-not-visualization-mode" value="tbOutlineAcc.gif"/>
+      </attributes>
+    </shortcut>
+    <shortcut desc="Custom Visualizations" desc-id="mstrWeb.4633" feature-id="visualizations-supported;show-visualization-pulldown" name="tbVisualizations" type="pulldown">
+      <attributes>
+        <attribute name="cmdtp" value="3"/>
+        <attribute name="cmdid" value="selectedVisualization"/>
+        <attribute name="cmdpk" value="visualizationsPicker"/>
+      </attributes>
+      <shortcut-list base-bean="rb" feature-id="visualizations-supported;show-visualization-pulldown" name="visualizationsPicker">
+        <attributes>
+          <attribute name="ty" value="pkr"/>
+        </attributes>
+        <shortcut desc="[blank]" desc-id="mstrWeb.3522" name="pkrVis1"/>
+      </shortcut-list>
+    </shortcut>
+  </shortcut-list>
+
+  <shortcut-list name="style3">
+    <attributes>
+      <attribute name="nowrap" value="1"/>
+    </attributes>
+    <shortcut base-bean="rb" check-feature-id="check-merge-col-header" desc="[Merge Column Headers]" desc-id="mstrWeb.1920" name="tbMergeColHeadersHTML" feature-id="!dhtml;!accessibility" enable-feature-id="!check-graph-mode;is-not-visualization-mode" type="button">
+      <event XMLmerge_id="1" event-id="com.microstrategy.web.app.beans.EnumReportFrameEvents.WebEventMergeColumnHeaders" state="checked">
+        <argument name="com.microstrategy.web.app.beans.EnumReportFrameEvents.WebEventArgumentMergeColumnHeaders" value="false"/>
+      </event>
+      <event XMLmerge_id="2" event-id="com.microstrategy.web.app.beans.EnumReportFrameEvents.WebEventMergeColumnHeaders" state="unchecked">
+        <argument name="com.microstrategy.web.app.beans.EnumReportFrameEvents.WebEventArgumentMergeColumnHeaders" value="true"/>
+      </event>
+    </shortcut>
+    <shortcut base-bean="rb" check-feature-id="check-merge-row-header" desc="[Merge Row Headers]" desc-id="mstrWeb.2727" feature-id="!dhtml;!accessibility" enable-feature-id="!check-graph-mode;enable-merge-row-header;is-not-visualization-mode" name="tbMergeRowHeadersHTML" type="button">
+      <event XMLmerge_id="1" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_PROPERTY_VALUES" state="checked">
+        <argument name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_SET_PROPERTY_VALUE" value="4!Template Formatting!MergeCells!0"/>
+        <argument base-bean="frame" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_STYLE_NAME" sys-bean="com.microstrategy.web.app.beans.ReportFrameBean" value="reportStyleLocalizedName"/>
+      </event>
+      <event XMLmerge_id="2" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_PROPERTY_VALUES" state="unchecked">
+        <argument name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_SET_PROPERTY_VALUE" value="4!Template Formatting!MergeCells!-1"/>
+        <argument base-bean="frame" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_STYLE_NAME" sys-bean="com.microstrategy.web.app.beans.ReportFrameBean" value="reportStyleLocalizedName"/>
+      </event>
+    </shortcut>
+  </shortcut-list>
+
+  <shortcut-list name="style4" feature-id="lock-grid-headers">
+    <shortcut base-bean="rb" check-feature-id="check-lock-column-headers" desc="[Lock Column Headers]" desc-id="mstrWeb.2567" feature-id="!dhtml;lock-grid-headers" enable-feature-id="!check-graph-mode;is-not-visualization-mode" iframe="true" name="tbLockColHeadersHTML" type="button">
+      <event XMLmerge_id="1" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_PROPERTY_VALUES" state="unchecked">
+        <argument enumname="com.microstrategy.webapi.EnumDSSXMLReportObjects.DssXmlReportObjectMainTemplate;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_HEADERS_PROPERTY_GROUP;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_COLUMN_HEADERS_PROPERTY_NAME;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_COLUMN_HEADERS_PROPERTY_ON" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_SET_PROPERTY_VALUE" source="enum"/>
+      </event>
+      <event XMLmerge_id="2" action="uncheck" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_PROPERTY_VALUES" state="checked">
+        <argument enumname="com.microstrategy.webapi.EnumDSSXMLReportObjects.DssXmlReportObjectMainTemplate;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_HEADERS_PROPERTY_GROUP;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_COLUMN_HEADERS_PROPERTY_NAME;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_COLUMN_HEADERS_PROPERTY_OFF" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_SET_PROPERTY_VALUE" source="enum"/>
+      </event>
+      <attributes>
+          <attribute name="src" feature-id="accessibility" value="tbLockRowHeadersAccD.gif"/>
+          <attribute name="src" feature-id="accessibility;!check-graph-mode;is-not-visualization-mode" value="tbLockRowHeadersAcc.gif" />
+      </attributes>
+    </shortcut>
+    <shortcut base-bean="rb" check-feature-id="check-lock-row-headers" desc="[Lock Row Headers]" desc-id="mstrWeb.2566" feature-id="!dhtml;lock-grid-headers" enable-feature-id="!check-graph-mode;is-not-visualization-mode" iframe="true" name="tbLockRowHeadersHTML" type="button">
+      <event XMLmerge_id="1" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_PROPERTY_VALUES" state="unchecked">
+        <argument enumname="com.microstrategy.webapi.EnumDSSXMLReportObjects.DssXmlReportObjectMainTemplate;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_HEADERS_PROPERTY_GROUP;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_ROW_HEADERS_PROPERTY_NAME;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_ROW_HEADERS_PROPERTY_ON" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_SET_PROPERTY_VALUE" source="enum"/>
+      </event>
+      <event XMLmerge_id="2" action="uncheck" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_PROPERTY_VALUES" state="checked">
+        <argument enumname="com.microstrategy.webapi.EnumDSSXMLReportObjects.DssXmlReportObjectMainTemplate;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_HEADERS_PROPERTY_GROUP;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_ROW_HEADERS_PROPERTY_NAME;com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_PROPERTY_LIST_SEPARATOR;com.microstrategy.web.app.transforms.ReportTransformHelper.LOCK_ROW_HEADERS_PROPERTY_OFF" name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_SET_PROPERTY_VALUE" source="enum"/>
+      </event>
+      <attributes>
+          <attribute name="src" feature-id="accessibility" value="tbLockColHeadersAccD.gif"/>
+		  <attribute name="src" feature-id="accessibility;!check-graph-mode;is-not-visualization-mode" value="tbLockColHeadersAcc.gif" />
+      </attributes>
+    </shortcut>
+  </shortcut-list>
+  
+  <shortcut-list name="width">
+    <attributes>
+      <attribute name="nowrap" value="1"/>
+    </attributes>
+	
+    <shortcut base-bean="rb" check-feature-id="check-autofit-content" desc="[Fit To Contents]" desc-id="mstrWeb.2589" enable-feature-id="!check-graph-mode;enable-autofit-content;is-not-visualization-mode" feature-id="!dhtml;grid-layout" iframe="true" name="tbFitToContentsHTML" type="button">
+      <event XMLmerge_id="1" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_COLUMN_SCENARIO">
+        <argument name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_COLUMN_SCENARIO" value="2"/>
+      </event>
+      <event XMLmerge_id="2" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_ROW_SCENARIO">
+        <argument name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_ROW_SCENARIO" value="2"/>
+      </event>
+      <attributes>
+          <attribute name="src" feature-id="accessibility" value="tbFitToContentsAccD.gif"/>
+          <attribute name="src" feature-id="accessibility;!check-graph-mode;enable-autofit-content;is-not-visualization-mode" value="tbFitToContentsAcc.gif"/>
+      </attributes>
+    </shortcut>
+    
+    <shortcut base-bean="rb" check-feature-id="check-autofit-window" desc="[Fit To Window]" desc-id="mstrWeb.2588" enable-feature-id="!check-graph-mode;enable-autofit-window;is-not-visualization-mode" feature-id="!dhtml;grid-layout" iframe="true" name="tbFitToWindowHTML" type="button">
+      <event XMLmerge_id="1" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_COLUMN_SCENARIO">
+        <argument name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_COLUMN_SCENARIO" value="1"/>
+      </event>
+      <event XMLmerge_id="2" event-id="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_SET_ROW_SCENARIO">
+        <argument name="com.microstrategy.web.beans.EnumReportBeanEvents.REPORT_EVENT_ARGUMENT_ROW_SCENARIO" value="2"/>
+      </event>
+      <attributes>
+          <attribute name="src" feature-id="accessibility" value="tbFitToWindowAccD.gif"/>
+          <attribute name="src" feature-id="accessibility;!check-graph-mode;enable-autofit-window;is-not-visualization-mode" value="tbFitToWindowAcc.gif"/>
+      </attributes>
+    </shortcut>
+  </shortcut-list>
+  
+</shortcut-list-set>

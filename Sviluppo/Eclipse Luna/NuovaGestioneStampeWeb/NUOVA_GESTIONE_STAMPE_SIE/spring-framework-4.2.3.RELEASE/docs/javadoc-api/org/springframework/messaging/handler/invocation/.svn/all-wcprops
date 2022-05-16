@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation
+END
+AbstractAsyncReturnValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/AbstractAsyncReturnValueHandler.html
+END
+HandlerMethodReturnValueHandlerComposite.html
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/HandlerMethodReturnValueHandlerComposite.html
+END
+CompletableFutureReturnValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/CompletableFutureReturnValueHandler.html
+END
+InvocableHandlerMethod.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/InvocableHandlerMethod.html
+END
+AbstractExceptionHandlerMethodResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/AbstractExceptionHandlerMethodResolver.html
+END
+HandlerMethodArgumentResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/HandlerMethodArgumentResolver.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/package-frame.html
+END
+HandlerMethodArgumentResolverComposite.html
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/HandlerMethodArgumentResolverComposite.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/package-summary.html
+END
+AbstractMethodMessageHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/AbstractMethodMessageHandler.html
+END
+AsyncHandlerMethodReturnValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/AsyncHandlerMethodReturnValueHandler.html
+END
+ListenableFutureReturnValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/ListenableFutureReturnValueHandler.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/package-tree.html
+END
+HandlerMethodReturnValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/Entrate/!svn/ver/2002/Entrate/branches/NUOVA_GESTIONE_STAMPE_SIE/spring-framework-4.2.3.RELEASE/docs/javadoc-api/org/springframework/messaging/handler/invocation/HandlerMethodReturnValueHandler.html
+END

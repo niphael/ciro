@@ -1,0 +1,562 @@
+/* <!-- These classes define the layout, size, margins, padding, and wrapping of global HTML elements of the page. --> */
+
+.mstr {
+    margin: 0px;
+    padding: 0px;
+    background: #DDDDDD;
+}
+.mstr form {
+    display: inline;
+    margin: 0px;
+}
+/* moved to schemeDefault.css */
+/*
+.mstr input, .mstr textarea {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+*/
+.mstr input.img {
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 22px;
+    height: 21px;
+}
+body.mstr {
+    xheight: 100%;      /* removed; causes vertical scrolling in IE */
+}
+
+/* <!-- These classes define the layout, size, margins, padding, and wrapping of the major areas of the page. --> */
+
+/* <!-- Shortcuts Bar --> */
+
+.mstrHeader {
+    display: block;
+    padding: 0px;
+    padding-left: 0px;
+    white-space: nowrap;
+}
+.mstrHeader span {
+    margin-right: 18px;
+    white-space: nowrap;
+}
+.mstrHeader span .searchForm,
+.mstrHeader span .shortcut {
+    margin-left: 0px;
+}
+.mstrHeader span .searchForm {
+    display: inline;
+}
+.mstrHeader span .shortcut {
+    display: none;
+}
+.mstrHeader INPUT.txt {
+    width: 90px;
+}
+.mstrHeader INPUT.img {
+    height: 14px;
+    width: 14px;
+    margin-top: -2px;
+    vertical-align: middle;
+}
+
+/* <!-- Path Bar --> */
+
+.mstrPath {
+    display: block;
+}
+.mstrPath img {
+    float: left;
+    height: 21px;
+    width: 22px;
+    margin-left: 1px;
+    margin-right: 1px;
+    vertical-align: top;
+}
+.mstrPath img.disabled {
+    color: #404040;
+    cursor: default;
+    -moz-opacity: 0.3;
+    background-position: right center;  /* was center center, removed opacity 33 filter */
+}
+.mstrPath .path {
+    float: left;
+    vertical-align: auto;         /* was top; changed it to support double byte */
+    margin-top: 4px;
+    margin-left: 4px;   /* added, was: margin-right of tbReturn & tbNewFolder */
+}
+.mstrPath .path span.delim {
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+}
+
+/* removed right margin from buttons below, moved it to left margin of path above */
+/*
+#tbReturn {
+    margin-right: 4px;
+}
+
+#tbNewFolder {
+    margin-right: 4px;
+}
+*/
+
+/* table of vertical docks (left, center, right) */
+
+table.mstrVerticalDocks {
+    table-layout: auto;
+    width: 100%;
+}
+table.mstrVerticalDocks .tdDockCenter,
+table.mstrVerticalDocks .tdDockLeft,
+table.mstrVerticalDocks .tdDockRight {
+    vertical-align: top;
+    padding: 0px;
+}
+table.mstrVerticalDocks .tdDockLeft,
+table.mstrVerticalDocks .tdDockRight {
+    width: 0px;
+}
+
+/* <!-- Toolbar Dock --> */
+
+.mstrDockTop {
+    display: none;
+    clear: both;
+}
+.mstrDockLeft {
+    display: none;
+    left: 0px;
+    margin: 0px;
+    width: 160px;
+}
+#btnDockLeft {      /* icon to open and close left dock bar */
+    display: none;
+    position: static;   /*was absolute */
+    top: 0.5em;
+    left: 0px;
+    z-index: 2;
+}
+
+.mstrDockRight {
+    display: none;
+}
+.mstrDockBottom {
+    display: none;
+}
+
+/* <!-- Menu Bar(s) --> */
+
+.mstrMenuBar {
+    float: none;        /* was left */
+    clear: both;        /* was none */
+    display: block;
+    padding: 1px;
+    height: 21px;
+    white-space: nowrap;
+}
+.mstrMenuBar .mstrMenuLastUpdated {
+    width: 1%;
+    white-space: nowrap;
+}
+.mstrMenuBar .mstrMenuLastUpdated label,
+.mstrMenuBar .mstrMenuLastUpdated span {
+    margin-right: 6px;
+}
+
+/* toolbars */
+
+.mstrToolbar {
+    position: static;
+    z-index: 1;
+    float: left;
+    height: auto;
+}
+.mstrToolbar .titlebar {
+    display: none;
+}
+.mstrToolbar .body {
+    margin: 0px;
+    padding: 0px;
+    white-space: nowrap;
+    height: auto;
+
+}
+.mstrToolbar .pickers {
+    display: inline;
+    float: left;
+    height: 1px;
+    width: 1px;
+    overflow: visible;
+}
+.mstrToolbar .group,
+.mstrToolbar .groupdisabled {
+    float: left;
+    padding: 0px;
+    padding-left: 1px;
+    padding-right: 1px;
+    clear: right;           /* needed to prevent wordrwapping in IE6 */
+    white-space: nowrap;
+    height: 23px;
+}
+.mstrToolbar img,
+.mstrToolbar input.img,
+.mstrToolbar input.imgdisabled,
+.mstrToolbar input.imgselected,
+.mstrToolbar input.imgdisabledselected,
+.mstrToolbar input.arrowdown {
+    float: left;
+    clear: right;
+    height: 21px;
+    width: 22px;
+    xmargin-left: 1px;      /* for hover: remove these lines for now */
+    xmargin-right: 1px;
+    margin: 1px;            /* for hover: add this for now to add a margin on all 4 sides */
+    vertical-align: middle;
+}
+.mstrToolbar .combodown img,
+.mstrToolbar .combodowndisabled img {
+    margin: 0px;            /* for hover: individual images inside combo do not get hover borders */
+}
+.mstrToolbar img.arrow,
+.mstrToolbar img.arrowdisabled,
+.mstrToolbar img.arrowdown,
+.mstrToolbar input.arrowdown {
+    width: 11px;
+    margin-left: -1px;
+    margin-right: 4px;
+}
+.mstrToolbar .caption,
+.mstrToolbar .captiondisabled,
+.mstrToolbar .objectList,
+.mstrToolbar .objectListdisabled,
+.mstrToolbar .pulldown,
+.mstrToolbar .pulldowndisabled {
+    display: block;
+    float: left;
+    clear: right;
+    height: 14px;
+    width: 100px;
+    padding: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    xoverflow: hidden;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.mstrToolbar .pulldown,
+.mstrToolbar .pulldowndisabled {
+    width: auto;
+}
+.mstrToolbar .combodown,
+.mstrToolbar .combodowndisabled {
+    display: block;
+    float: left;
+    clear: right;
+    height: 14px;
+    vertical-align: middle;
+}
+.mstrToolbar label {
+    display: block;
+    float: left;
+    clear: right;
+    height: 14px;
+    width: auto;
+    margin-left: 3px;
+    margin-top: 4px;
+    margin-right: 3px;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.mstrToolbar .caption {
+    width: 11em;
+}
+.mstrToolbar .caption span {
+    width: auto;
+    float: left;
+    overflow: hidden;
+    z-index: 1;
+}
+.mstrToolbar .caption img {
+    float: right;
+    height: 11px;
+    width: 11px;
+    z-index: 2;
+}
+.mstrToolbar input.txt,
+.mstrToolbar input.txtdisabled {
+    width: 30px;
+    float: left;
+    clear: right;
+    vertical-align: middle;
+    margin-top: 2px;
+    margin-right: 3px;
+}
+.mstrToolbar select {
+    float: left;
+    clear: right;
+    vertical-align: center;
+}
+
+/* <!-- Error Display --> */
+
+.mstrError {
+    display: block;
+    margin: 0px;
+}
+.mstrAlert {
+    display: block;
+    margin: 0px;
+    padding: 6px;
+    white-space: normal;
+}
+.mstrAlert .title,
+.mstrAlert .info,
+.mstrAlert .message {
+    display: block;
+    float: none;
+    clear: both;
+    margin-bottom: 9px;
+}
+.mstrAlert .message div {
+    margin-bottom: 0.25em;
+}
+.mstrAlert .buttonbar {
+    display: block;
+    margin-top: 9px;
+}
+.mstrContent .mstrAlert {
+    margin: 18px;
+    width: 324px;
+}
+
+/* <!-- Main Contents --> */
+
+.mstrContent {
+    display: block;
+    margin: 0px;
+    padding: 6px;
+    white-space: normal;
+    height: auto;
+    overflow: visible;
+}
+
+/* <!-- Page Footer --> */
+
+.mstrFooter {
+    display: none;
+    margin: 3px;
+    white-space: nowrap;
+}
+.mstrFooter .copyright {
+    padding-right: 9px;
+}
+.mstrFooter a {
+    display: inline;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+/* <!-- Other --> */
+
+.mstrTransform {
+    display: block;
+}
+.mstrHeader .mstrTransform,
+.mstrPath .mstrTransform,
+.mstrDockTop .mstrTransform {
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+}
+.mstrSpacer {
+    float: none;
+    display: block;
+    clear: both;
+    height: 1px;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.mstrToolbar .body .mstrSpacer {
+    display: none;
+    width: 3px;
+}
+.mstrCurtain {
+    position: absolute;
+}
+.mstr .btnHelp,
+.mstr .btnClose {
+    width: 11px;
+    height: 11px;
+    margin-left: 1px;
+}
+
+
+#objectWaitBox {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    z-index: 112;
+}
+#objectWaitBox,
+#MyPage body {
+    width: 300px;
+    height: 48px;   /* formerly 46px, added 2 for double-thick border */
+}
+
+#divWaitBox{
+	visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 200px;
+}
+#divWaitBox input.btn {
+    width: 150px;
+    margin: 3px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+#divWaitBox .imgWait {
+	background: url('images/wait2.gif') no-repeat center;
+	width:180px;
+	height:30px;
+}
+#divWaitBox .status {
+	text-align:center;
+}
+#mstrWeb_wait {
+    width: 300px;
+}
+
+#msgBox {
+    width: 400px;
+}
+#idCalendar {
+    visibility : hidden;
+    position:absolute;
+    top: 0px;
+    z-index: 112;
+}
+#msgBox {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    width: 400px;
+}
+#report_dhtml_variables {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+}
+#frameManager {
+    display: none;
+    position: relative;
+    z-index: -1;
+}
+
+#oCount {
+  clear: both;
+}
+
+/* pulldown pickers */
+
+.mstrPicker {
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 200;
+    width: auto;        /* was 120px;*/
+    white-space: nowrap;    /* added */
+    margin-left: 0px;
+}
+.mstrPicker span {
+    display: block;
+    white-space: nowrap;    /* added */
+}
+.mstrPicker ul {
+    margin: 1px;
+    padding-left: 17px;
+}
+.mstrPicker ul.pictured {
+    padding-left: 1px;
+}
+.mstrPicker ul.pictured img {
+    height: 15px;
+    width: 65px;
+}
+.mstrPicker ul .separator {
+    display: block;
+    height: 1px;
+    width: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+.mstrPicker a li {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* color pickers */
+
+.mstrColorPicker {
+    text-align: center;
+    display: none;
+    position: absolute;
+    top: 19px;
+    left: 0px;
+    z-index: 200;
+    width: 163px;   /* was 141px; */
+}
+.mstrColorPicker span {
+    float: left;
+    display: block;
+    margin: 0px;
+    width: 10px;
+    height: 10px;
+    margin-left: 6px;
+    margin-top: 6px;
+}
+.mstrColorPicker #pkr,
+.mstrColorPicker #pkrMore {
+    float: none;
+    display: block;
+    clear: both;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    text-align: center;
+    margin-right: 6px;
+}
+.mstrColorPicker #pkr {
+    xmargin-bottom: 3px;    /* removed, taken care of by span margins */
+}
+.mstrColorPicker #pkrMore {
+    xmargin-top: 3px;   /* removed, taken care of by span margins */
+    xmargin-bottom: 6px;
+}
+
+.mstrColorPicker table {
+    table-layout: fixed;
+}
+.mstrColorPicker table tr {
+    height: 12px;
+}
+.mstrColorPicker table tr td {
+    width: 12px;
+    overflow: hidden;
+    cursor: hand;
+}
+.mstrColorPicker div {
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    cursor: hand;
+}

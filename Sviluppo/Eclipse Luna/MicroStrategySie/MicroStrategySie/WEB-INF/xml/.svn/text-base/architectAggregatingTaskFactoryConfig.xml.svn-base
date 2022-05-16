@@ -1,0 +1,13 @@
+<!DOCTYPE aggregatingTaskFactory SYSTEM "dtds/aggregatingTaskFactory.dtd" >
+<aggregatingTaskFactory>
+<tasks>
+	<!--  Web architect tasks used by QB -->
+   	<task registerAs="arch.deleteObject" class="com.microstrategy.web.app.tasks.architect.DeleteObjectTask"/>   
+    <task registerAs="arch.saveDBRole" class="com.microstrategy.web.app.tasks.architect.SaveDBRoleTask"/>
+    <task registerAs="arch.getDBMSObjects" class="com.microstrategy.web.app.tasks.architect.GetDBMSObjectsTask"/>
+    <task registerAs="arch.catalogAction" class="com.microstrategy.web.app.tasks.architect.CatalogActionTask"/>    
+    <task registerAs="arch.getODBCDSNs" class="com.microstrategy.web.app.tasks.architect.GetODBCDSNsTask"/>
+    <task registerAs="arch.getODBCDrivers" class="com.microstrategy.web.app.tasks.architect.GetODBCDriversTask"/>           
+	<task registerAs="arch.readFileContents" class="com.microstrategy.web.app.tasks.architect.ReadFileContentsTask"/>
+</tasks>
+</aggregatingTaskFactory>

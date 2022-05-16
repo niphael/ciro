@@ -1,0 +1,209 @@
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792353765</miliseconds>
+  <timestamp>06/01/2016 16:45:53:766</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792353767</miliseconds>
+  <timestamp>06/01/2016 16:45:53:771</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792353771</miliseconds>
+  <timestamp>06/01/2016 16:45:53:774</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792353774</miliseconds>
+  <timestamp>06/01/2016 16:45:53:777</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792353777</miliseconds>
+  <timestamp>06/01/2016 16:45:53:780</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792353780</miliseconds>
+  <timestamp>06/01/2016 16:45:53:783</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792357094</miliseconds>
+  <timestamp>06/01/2016 16:45:57:094</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792441385</miliseconds>
+  <timestamp>06/01/2016 16:47:21:388</timestamp>
+  <thread>1</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792452517</miliseconds>
+  <timestamp>06/01/2016 16:47:32:520</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>processRequest</method>
+  <message>Java heap space (java.lang.OutOfMemoryError)</message>
+  <exception>java.lang.OutOfMemoryError: Java heap space&#x0D;&#x0A;&#x09;at java.util.Arrays.copyOfRange(Unknown Source)&#x0D;&#x0A;&#x09;at java.lang.String.&lt;init&gt;(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.Properties.loadConvert(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.Properties.load0(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.Properties.load(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.PropertyResourceBundle.&lt;init&gt;(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.ResourceBundle$Control.newBundle(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.ResourceBundle.loadBundle(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.ResourceBundle.findBundle(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.ResourceBundle.findBundle(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.ResourceBundle.findBundle(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.ResourceBundle.getBundleImpl(Unknown Source)&#x0D;&#x0A;&#x09;at java.util.ResourceBundle.getBundle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.cache.ResourceBundleCache.load(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.cache.CacheBase.get(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.cache.ResourceBundleCache.getBundle(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.localization.ErrorMsgLib.getAndFormatString(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.localization.ErrorMsgLib.getAndFormatString(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.localization.ErrorMsgLib.getAndFormatString(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.FormatUtils.parseObject(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.FormatUtils.convertAnyDate(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.DefaultPropertyFixer.formatValue(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.PromptPropertyFixer.addDefaultPromptProperties(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.web.objects.WebPromptParser$PifHandler.doEndElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.xml.AbstractHandler.endElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.xml.SAXSupportImpl.popContentHandler(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.xml.AbstractHandler.popContentHandler(Unknown Source)&#x0D;&#x0A;&#x09;at com.microstrategy.utils.xml.AbstractHandler.endElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(Unknown Source)&#x0D;&#x0A;&#x09;at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)&#x0D;&#x0A;&#x09;at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)&#x0D;&#x0A;</exception>
+  <userName>ASSISTENZA.ENTRATE</userName>
+</record>
+<record>
+  <package>com.microstrategy.web.controller</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792475158</miliseconds>
+  <timestamp>06/01/2016 16:47:55:163</timestamp>
+  <thread>0</thread>
+  <class>GenericWebAppController</class>
+  <method>errorAfterRedirect</method>
+  <message>The URL you have selected for re-direction is invalid. Please verify that the URL syntax is correct, and note that it must be relative and not absolute. (java.lang.OutOfMemoryError: Java heap space)</message>
+  <userName>ASSISTENZA.ENTRATE</userName>
+</record>
+<record reset="true">
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792584790</miliseconds>
+  <timestamp>06/01/2016 16:49:44:791</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.md</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792584792</miliseconds>
+  <timestamp>06/01/2016 16:49:44:796</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.whd</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792584796</miliseconds>
+  <timestamp>06/01/2016 16:49:44:800</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.msgs</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792584800</miliseconds>
+  <timestamp>06/01/2016 16:49:44:804</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.face</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792584804</miliseconds>
+  <timestamp>06/01/2016 16:49:44:807</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: locale.num</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.preferences</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792584808</miliseconds>
+  <timestamp>06/01/2016 16:49:44:812</timestamp>
+  <thread>0</thread>
+  <class>PreferenceDefinitionsMap$DefinitionHandler</class>
+  <method>doStartElement</method>
+  <message>EXCEPTION</message>
+  <parameters>
+    <parameter>Only the first source declaration is registered: projectAliases</parameter>
+  </parameters>
+</record>
+<record>
+  <package>com.microstrategy.web.objects</package>
+  <level>SEVERE</level>
+  <miliseconds>1464792585928</miliseconds>
+  <timestamp>06/01/2016 16:49:45:932</timestamp>
+  <thread>0</thread>
+  <class>WebObjectSourceImpl</class>
+  <method>getObject</method>
+  <message>the object id  is not valid</message>
+</record>

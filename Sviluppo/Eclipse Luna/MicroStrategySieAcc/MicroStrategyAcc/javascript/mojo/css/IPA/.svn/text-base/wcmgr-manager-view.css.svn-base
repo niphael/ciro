@@ -1,0 +1,85 @@
+/*
+ * MicroStrategy Labs
+ * Copyright © 1996-2013 MicroStrategy, Incorporated
+ * CSS file: wcmgr-manager-view.css for web command manager view
+ */
+.wcmgr-resultpane {
+    position: relative;
+    border: solid 1px #AAA;
+    overflow: visible;
+    -moz-border-radius: 3px;
+    border-radius: 5px;
+    width: 400px;
+    height: 425px
+}
+
+.wcmgr-resultpane-textarea {
+    border: 1px solid #DDDDDD;
+    margin: 3px 10px 6px 10px;
+    font-size: 9pt;
+    color: #555555;
+    background-color: #fafafa;
+    overflow: auto;
+}
+
+.wcmgr-waiting-box {
+    position: absolute;
+    top: 100px;
+    left: 130px;
+    cursor: progress;
+}
+
+.wcmgr-resultpane-title {
+    margin: 3px 3px 3px 3px;
+    text-overflow: ellipsis;
+    font: bold 9pt Tahoma, Arial, Verdana;
+    padding-left: 5px;
+}
+
+.wcmgr-toolbar-btns {
+    margin: 3px 15px 3px 15px;
+}
+
+.wcmgr-open-btn {
+    background: url(../images/IPA/openscript.gif) no-repeat center;
+    height: 23px;
+    width: 23px;
+}
+
+.wcmgr-upload-btn {
+    background: url(../images/IPA/uploadprocedure.gif) no-repeat center;
+    height: 23px;
+    width: 23px;
+}
+
+.wcmgr-execute-btn {
+    background: url(../images/IPA/execute.gif) no-repeat center;
+    height: 23px;
+    width: 23px;
+}
+
+.wcmgr-outline-btn {
+    background: url(../images/IPA/outline.gif) no-repeat center;
+    height: 23px;
+    width: 23px;
+}
+
+.wcmgr-saveedit-btn {
+    background: url(../images/IPA/saveedit.gif) no-repeat center;
+    height: 23px;
+    width: 23px;
+}
+
+.wcmgr-status-bar {
+    border: solid 1px #AAA;
+    overflow: visible;
+    -moz-border-radius: 3px;
+    border-radius: 5px;;
+    margin: 5px 5px 5px 5px;
+    width: 98%;
+    height: 20px;
+}
+
+.wcmgr-timer-lbl {
+    margin: 3px 3px 3px 3px;
+}

@@ -1,0 +1,11 @@
+127.0.0.1 - - [12/Dec/2018:10:58:50 +0100] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:05 +0100] "GET /nuovaGestioneStampeWeb HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:05 +0100] "GET /nuovaGestioneStampeWeb/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:06 +0100] "GET /nuovaGestioneStampeWeb/scambioPagina.html;jsessionid=879DA521692A3F5E459F966A4EF51338 HTTP/1.1" 200 1087
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:06 +0100] "GET /nuovaGestioneStampeWeb/css/style.css HTTP/1.1" 200 23072
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:08 +0100] "GET /nuovaGestioneStampeWeb/simulaLogin.html?utente=ASSISTENZA.ENTRATE HTTP/1.1" 200 4338
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:08 +0100] "GET /nuovaGestioneStampeWeb/css/displaytag-table.css HTTP/1.1" 200 4183
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:08 +0100] "GET /nuovaGestioneStampeWeb/img/logo_rep.gif HTTP/1.1" 200 1109
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:08 +0100] "GET /nuovaGestioneStampeWeb/img/logo_sie.jpg HTTP/1.1" 200 19710
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:13 +0100] "GET /nuovaGestioneStampeWeb/logout.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Dec/2018:10:59:13 +0100] "GET /nuovaGestioneStampeWeb/logoutoam.jsp HTTP/1.1" 404 -

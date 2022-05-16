@@ -1,0 +1,25 @@
+/*
+* MicroStrategy Labs
+* Copyright © 1996-2013 MicroStrategy, Incorporated
+* CSS file: umnt-monitor-view.css for user connections monitor view
+*/
+
+.mstrmojo-userconnectiontable {
+    margin: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.mstrmojo-userconnectiontable td {
+    height: auto;
+}
+
+.mstrmojo-userconnectiontable .sourceCol {
+    width: 150px;
+}
+
+.mstrmojo-userconnectiontable .connectionSelected {
+    position: absolute;
+    right: 10px;
+    width: 40px;
+}

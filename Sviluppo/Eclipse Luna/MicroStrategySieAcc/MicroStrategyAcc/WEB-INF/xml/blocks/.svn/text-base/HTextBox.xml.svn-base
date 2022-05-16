@@ -1,0 +1,8 @@
+<!DOCTYPE block SYSTEM "../dtds/blockLibrary.dtd">
+	<!-- HTextBox is an editable text box control with the structure: "caption: [ value ]".  -->
+	<block name="HTextBox" inherits="TextBox">
+		<assignments>
+			<property name="layoutClass">mstr.layouts.HTextBox</property>
+			<property name="cssClass">HTextBox</property>
+		</assignments>
+	</block>

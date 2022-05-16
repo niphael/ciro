@@ -1,0 +1,25 @@
+<!DOCTYPE block SYSTEM "../dtds/blockLibrary.dtd">
+<!--
+    This Block provides basic error information in Block form.
+--> 
+<block name="Error">
+    <definition>
+        <!-- Shortcut property for identifying this block as an Error block. -->
+        <property name="mstrerr" type="Boolean" />
+        
+        <!-- The error code. -->
+        <property name="code" type="Integer" />
+        
+        <!-- The error title. -->
+        <property name="title" type="String" />
+        
+        <!-- The error message. -->
+        <property name="message" type="String" />
+        
+        <!-- A Block container error details. -->
+        <property name="detail" type="Block" />
+    </definition>
+    <assignments>
+        <property name="mstrerr">true</property>
+    </assignments>
+</block>

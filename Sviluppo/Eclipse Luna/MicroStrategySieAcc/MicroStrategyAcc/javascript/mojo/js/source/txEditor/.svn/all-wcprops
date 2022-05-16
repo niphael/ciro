@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor
+END
+DatasetPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/DatasetPanel.js
+END
+CalendarPropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/CalendarPropertiesPanel.js
+END
+EditorModel.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/EditorModel.js
+END
+ListPropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/ListPropertiesPanel.js
+END
+TextAreaPropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/TextAreaPropertiesPanel.js
+END
+CommonComponent.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/CommonComponent.js
+END
+ReportSelector.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/ReportSelector.js
+END
+FieldsMapTable.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/FieldsMapTable.js
+END
+TogglePropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/TogglePropertiesPanel.js
+END
+SliderPropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/SliderPropertiesPanel.js
+END
+StepperPropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/StepperPropertiesPanel.js
+END
+RatingPropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/RatingPropertiesPanel.js
+END
+CalculatedPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/CalculatedPanel.js
+END
+SignatureCapturePropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/SignatureCapturePropertiesPanel.js
+END
+ButtonsBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/ButtonsBar.js
+END
+ControlPropsPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/ControlPropsPanel.js
+END
+TextFieldPropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/TextFieldPropertiesPanel.js
+END
+TimePickerPropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/TimePickerPropertiesPanel.js
+END
+BarcodePropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/BarcodePropertiesPanel.js
+END
+TransactionEditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/TransactionEditor.js
+END
+ManualPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/ManualPanel.js
+END
+SwitchPropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/SwitchPropertiesPanel.js
+END
+LikertScalePropertiesPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/LikertScalePropertiesPanel.js
+END
+AdvancedSetting.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/AdvancedSetting.js
+END
+ValuesPropsPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Entrate/!svn/ver/2663/Entrate/branches/MicroStrategySieAcc/MicroStrategyAcc/javascript/mojo/js/source/txEditor/ValuesPropsPanel.js
+END
