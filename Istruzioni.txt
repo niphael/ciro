@@ -1,0 +1,7 @@
+All'interno del repository git 'ciro' ci sono le componenti per creare sul proprio PC l'ambiente di sviluppo MicroStrategy/NGSW
+
+Copiare le tre cartelle sull'unità C:
+
+C:\Apache -> contiene le istanze tomcat 6.0/7.0, ant e axes2 necessarie per gli applicativi
+C:\Program Files (x86)\Eclipse -> contiene la versione moddata di eclipse luna
+C:\Sviluppo\Eclipse Luna -> contiene i workspace eclipse per le due versioni MicroStrategy e NGSW
